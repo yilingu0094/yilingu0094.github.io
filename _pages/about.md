@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Welcome to my homepage! I am a master student 
+
+
+Welcome to my homepage! I am an assitant professor at UIUC, studying optimization and machine learning (especially deep learning). Before joining UIUC, I was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University.
+
+Recently, I have been studying optimization in deep learning, such as landscape of neural-nets, GANs and Adam. I have written a survey “optimization for deep learning: theory and algorithms”. The study of neural networks is an extension of my research on non-convex optimization for machine learning since PhD. My thesis is on non-convex matrix completion, and I provided one of the first geometrical analysis. Another direction I’ve been studying is the computation/iteration complexity of optimization algorithms, especially Adam, ADMM and coordinate descent.
+
+Perspective and current students interested in optimization/ML/AI are welcome to contact me. Undergraduate interns and visiting students/scholars are also welcome. Master students may check “advised master projects” in “Publications”.
+
+To contact me, click the “email” icon on the left panel.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
