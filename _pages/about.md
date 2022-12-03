@@ -9,46 +9,11 @@ redirect_from:
 ---
 Welcome to my homepage! I am a master student at the joint master program of the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) and Shenzhen Finance Institute (SFI). Currently, I am also a researcher at the Shenzhen Research Institute of Big Data (SRIBD), studying optimization and machine learning.
 
-My general research interest lies in operation research, optimization, and machine learning theory. Theoretically, I am interested in making mathematical analysis (optimality condition, dual gap, error bounds, etc.) for optimization algorithms, and accordingly designing new algorithms with faster convergence and less iteration complexity, escpecially for nonconvex and nonsmooth problem. In addition, my research focuses on using optimization theory to address some tricky primary issues arising in machine learning algorithms. 
+My general research interest lies in operation research, optimization, and machine learning theory. Regarding operation research, I focus primarily on important issues in supply chain and operation management, including inventory management, outsourcing and procurement, supply chain finance, etc. Additionally, my research applies optimization, machine learning, and data-driven decision making to address information and operational problems in business and society. Theoretically, I am interested in making mathematical analysis (optimality conditions, dual gap, error bounds, etc.) for optimization algorithms, and accordingly designing new algorithms with faster convergence and less iteration complexity, escpecially for nonconvex and nonsmooth problem. My study also focuses on applying optimization theory to address some primary issues arising in machine learning algorithms, such as training GANs by solving the minimax problem with additional nonsmooth regularizers. 
 
+Recently, I have been studying 
 
-
-
-
-
-With these optimization techniques, my research uses game theory, optimization, and data-driven decision making to address information and operational problems in businesses and society.
-
-
-try to design new machine learning algorithm with optimization target???
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-My general research agenda lies in the interface of information systems, operations, and marketing. My research uses game theory, optimization, and data-driven decision making to address information and operational problems in businesses and society. Specific directions include e-commerce and marketplace analytics, online platforms, information disclosure, and social networks.
-
+design a new prototype-based machine learning algorithm, which can be well used in 
 
 
 
