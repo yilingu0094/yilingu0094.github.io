@@ -7,7 +7,50 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! I am a master student 
+Welcome to my homepage! I am a master student at the joint master program of the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) and Shenzhen Finance Institute (SFI). Currently, I am also a researcher at the Shenzhen Research Institute of Big Data (SRIBD), studying optimization and machine learning.
+
+My general research interest lies in operation research, optimization, and machine learning theory. Theoretically, I am interested in making mathematical analysis (optimality condition, dual gap, error bounds, etc.) for optimization algorithms, and accordingly designing new algorithms with faster convergence and less iteration complexity, escpecially for nonconvex and nonsmooth problem. In addition, my research focuses on using optimization theory to address some tricky primary issues arising in machine learning algorithms. 
+
+
+
+
+
+
+With these optimization techniques, my research uses game theory, optimization, and data-driven decision making to address information and operational problems in businesses and society.
+
+
+try to design new machine learning algorithm with optimization target???
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My general research agenda lies in the interface of information systems, operations, and marketing. My research uses game theory, optimization, and data-driven decision making to address information and operational problems in businesses and society. Specific directions include e-commerce and marketplace analytics, online platforms, information disclosure, and social networks.
+
+
+
 
 
 Welcome to my homepage! I am an assitant professor at UIUC, studying optimization and machine learning (especially deep learning). Before joining UIUC, I was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University.
