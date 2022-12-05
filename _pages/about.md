@@ -17,24 +17,26 @@ You are always welcome to send me an email and schedule a conversation at any ti
 
 Professional Experience
 ======
-**Research Associate,** Shenzhen Research Institute of Big Data (SRIBD), Nov. 2021 - present
-<br/>
-**Visiting Scholar,** School of Data Science in CUHK-SZ, Nov. 2021 - present
-<br/>
-**System Engineer Intern,** Shenzhen Finance Institute (SFI), June 2021 - Sept. 2022
-<br/>
-**Visiting Scholar,** Applied Mathematics and Data Science Dept. in MUST, Sept. 2019 - June 2021
-<br/>
-**Financial Analyst,** Guo Sheng Securities, June 2019 - Sept. 2019
-<br/>
-**Deep Learning Intern,** Ascending Powers Co. Ltd., June 2018 - May 2019
++ **Research Associate,** Shenzhen Research Institute of Big Data (SRIBD), Nov. 2021 - present
++ **Visiting Scholar,** School of Data Science in CUHK-SZ, Nov. 2021 - present
++ **System Engineer Intern,** Shenzhen Finance Institute (SFI), June 2021 - Sept. 2022
++ **Visiting Scholar,** Applied Mathematics Department in MUST, Sept. 2019 - June 2021
++ **Financial Analyst,** Guo Sheng Securities, June 2019 - Sept. 2019
++ **Deep Learning Intern,** Ascending Powers Co. Ltd., June 2018 - May 2019
 
 
 Education
 ======
-**M.Sc.** Information Management and Business Analytics, The Chinese University of Hong Kong, Shenzhen
+**M.Sc.** Information Management and Business Analytics, The Chinese University of Hong Kong, Shenzhen, 2021 - 2023
 <br/>
-**B.Sc.** Business Analytics, Macau University of Science and Technology
+**B.Sc.** Business Analytics, Macau University of Science and Technology, 2017 - 2021
+
+Research Interests
+======
+
+
+
+
 
 
 
