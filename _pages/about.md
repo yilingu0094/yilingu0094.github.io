@@ -15,10 +15,23 @@ I'm expected to obtain my master degree (with distinction) in Information manage
 
 You are always welcome to send me an email and schedule a conversation at any time, if you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory :)
 
+Professional Experience
+======
+**Research Associate,** Shenzhen Research Institute of Big Data (SRIBD), Nov. 2021 - present
+**Visiting Scholar,** School of Data Science (SDS) in CUHK-SZ, Nov. 2021 - present
+**System Engineer Intern,** Shenzhen Finance Institute (SFI), June 2021 - Sept. 2022
+**Visiting Scholar,** Applied Mathematics and Data Science Department in Macau University of Science and Technology, Sept. 2019 - June 2021
+**Financial Analyst,** Guo Sheng Securities, June 2019 - Sept. 2019
+**Deep Learning Intern,** Ascending Powers Co., Ltd., June 2018 - May 2019
+
+
+
+
 
 Education
 ======
-$$\sqrt{3}+5=8$$
+**M.Sc.** Information Management and Business Analytics, The Chinese University of Hong Kong, Shenzhen
+**B.Sc.** Business Analytics, Macau University of Science and Technology
 
 
 
