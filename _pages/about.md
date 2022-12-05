@@ -32,7 +32,14 @@ Education
 
 Research Interests
 ======
+**Methodology:**
++ Manufacturing and Operation Research: Supply chain management, Supply chain coordination, Inventory management, Game theory, Supply chain finance, Data-driven decision making.
++ Optimization Theory: Nonsmooth nonconvex optimization, Stochastic Optimization, Nonconvex-nonconcave minmax optimization, Finite-dimensional variational inequalities problem.
++ Machine Learning Theory: Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Information theory, Interpretability for machine learning.
 
+**Application:** Analyzing and designing optimization algorithms and applying them to applications arising in supply chain management, machine learning, system engineering, etc.
+
+My general research agenda lies in operation research, optimization, and machine learning theory. Regarding operation research, I focus primarily on important issues in supply chain and operation management, including inventory management, outsourcing and procurement, supply chain finance, etc. In addition, my research applies optimization, machine learning, and data-driven decision making to address information and operational problems in business and society. Theoretically, I am interested in making mathematical analysis (optimality conditions, dual gap, error bounds, etc.) for optimization algorithms, and accordingly designing new algorithms with faster convergence and less iteration complexity, escpecially for nonconvex and nonsmooth problem. My study also focuses on applying optimization theory to address some primary issues arising in machine learning algorithms, such as training GANs or robust neural-nets by solving the minmax problem with additional nonsmooth regularizers. 
 
 
 
