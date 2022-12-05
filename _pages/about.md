@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! I am a master student at the joint master program of the [Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en) and [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en). Currently, I am also a researcher at the [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn/), studying optimization and machine learning.
+Welcome to my homepage! I am a master student at the joint master program of [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en) and [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en). Currently, I am also a researcher at the [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn/), studying optimization and machine learning.
 
 In recent years, I've been studying the application of machine learning and optimization theory in production and operations management. My current works fall into three main directions. My work at SFI uses blockchain and machine learning to build a specialized financing strategy in the poultry supply chain that helps numerous startup manufacturing enterprises overcome their financial challenges. Since many manufacturing objectives are defined in nonconvex-nonconcave minmax settings and the datasets provided are always of a large scale, solving stochastic constrained nonconvex-nonconcave minmax problems is another area I've been studying. Additionally, in particular for better learning manufacturing-related data, the goal of my master thesis is to develop a novel prototype-based classification approach that can better capture the non-convex and sparse pattern of classes with improved interpretation, convergence, and simplicity.
 
