@@ -13,7 +13,7 @@ In recent years, I've been studying the application of machine learning and opti
 
 I'm expected to obtain my master degree (with distinction) in Information management and Business Analytics from [CUHK Business School](https://www.bschool.cuhk.edu.hk/cuhk-business-school/cuhk-shenzhen/) in July 2023, fortunately supervised by [Prof. J. Leon Zhao](https://myweb.cuhk.edu.cn/leonzhao). Prior to that, I obtained my BSc in Business Analytics with First Class Honors at the [Business School](https://www.must.edu.mo/en/msb) of [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en).
 
-You are always welcome to send me an email and schedule a conversation at any time, if you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory :)
+You are always welcome to send me an email and schedule a conversation at any time. If you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory, please feel free to talk with me :)
 
 Professional Experience
 ======
@@ -34,7 +34,7 @@ Research Interests
 ======
 + Manufacturing and Operation Research: Inventory management, Game theory, Supply chain finance, Data-driven decision making, etc.
 + Optimization Theory: Nonsmooth nonconvex optimization, Stochastic Optimization, Nonconvex-nonconcave minmax optimization, Variational inequalities, etc.
-+ Machine Learning Theory: Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Interpretability for machine learning, etc,
++ Machine Learning Theory: Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Interpretability for machine learning, etc.
 
 My general research agenda lies in operation research, optimization, and machine learning theory. Regarding operation research, I focus primarily on important issues in supply chain and operation management, including inventory management, outsourcing and procurement, supply chain finance, etc. In addition, my research applies optimization, machine learning, and data-driven decision making to address information and operational problems in business and society. Theoretically, I am interested in making mathematical analysis (optimality conditions, dual gap, error bounds, etc.) for optimization algorithms, and accordingly designing new algorithms with faster convergence and less iteration complexity, escpecially for nonconvex and nonsmooth problem. My study also focuses on applying optimization theory to address some primary issues arising in machine learning algorithms, such as training GANs or robust neural-nets by solving the minmax problem with additional nonsmooth regularizers. 
 
