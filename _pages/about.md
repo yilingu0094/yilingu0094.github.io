@@ -18,7 +18,7 @@ You are always welcome to send me an email and schedule a conversation at any ti
 
 Education
 ======
-
+$$3+5=8$$
 
 
 
