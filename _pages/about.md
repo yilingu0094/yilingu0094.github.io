@@ -37,5 +37,13 @@ Research Interests
 + **Machine Learning Theory**: Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Interpretability for machine learning, etc.
 
 
+Contact Information
+------
+Address:
+School of Management and Economics
+The Chinese University of Hong Kong, Shenzhen
+2001 Longxiang Boulevard, Longgang District, Shenzhen 440307, China
+
+Email: yilingu@link.cuhk.edu.cn
 
 
