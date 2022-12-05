@@ -13,10 +13,7 @@ In recent years, I've been studying the application of machine learning and opti
 
 I'm expected to obtain my master degree (with distinction) in Information management and Business Analytics from [CUHK Business School](https://www.bschool.cuhk.edu.hk/cuhk-business-school/cuhk-shenzhen/) in July 2023, fortunately supervised by [Prof. J. Leon Zhao](https://myweb.cuhk.edu.cn/leonzhao). Prior to that, I obtained my BSc in Business Analytics with First Class Honors at the Business School of Macau University of Science and Technology.
 
-If you're interested in , it's always welcome to write me an email at any time :)
-
-
-
+You are always welcome to send me an email and schedule a conversation at any time, if you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory :)
 
 
 
