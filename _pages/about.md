@@ -16,6 +16,9 @@ I'm expected to obtain my master degree (with distinction) in Information manage
 You are always welcome to send me an email and schedule a conversation at any time, if you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory :)
 
 
+Education
+======
+
 
 
 
