@@ -7,17 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! I am a master student at the joint master program of the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) and Shenzhen Finance Institute (SFI). Currently, I am also a researcher at the Shenzhen Research Institute of Big Data (SRIBD), studying optimization and machine learning.
+Welcome to my homepage! I am a master student at the joint master program of the [Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en) and [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en). Currently, I am also a researcher at the [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn/), studying optimization and machine learning.
 
 In recent years, I've been studying the application of machine learning and optimization theory in production and operations management. My current works fall into three main directions. My work at SFI uses blockchain and machine learning to build a specialized financing strategy in the poultry supply chain that helps numerous startup manufacturing enterprises overcome their financial challenges. Since many manufacturing objectives are defined in nonconvex-nonconcave minmax settings and the datasets provided are always of a large scale, solving stochastic constrained nonconvex-nonconcave minmax problems is another area I've been studying. Additionally, in particular for better learning manufacturing-related data, the goal of my master thesis is to develop a novel prototype-based classification approach that can better capture the non-convex and sparse pattern of classes with improved interpretation, convergence, and simplicity.
 
-My general research agenda lies in operation research, optimization, and machine learning theory. Regarding operation research, I focus primarily on important issues in supply chain and operation management, including inventory management, outsourcing and procurement, supply chain finance, etc. In addition, my research applies optimization, machine learning, and data-driven decision making to address information and operational problems in business and society. Theoretically, I am interested in making mathematical analysis (optimality conditions, dual gap, error bounds, etc.) for optimization algorithms, and accordingly designing new algorithms with faster convergence and less iteration complexity, escpecially for nonconvex and nonsmooth problem. My study also focuses on applying optimization theory to address some primary issues arising in machine learning algorithms, such as training GANs or robust neural-nets by solving the minmax problem with additional nonsmooth regularizers. 
+I'm expected to obtain my master degree (with distinction) in Information management and Business Analytics from [CUHK Business School](https://www.bschool.cuhk.edu.hk/cuhk-business-school/cuhk-shenzhen/) in July 2023, fortunately supervised by Prof. J. Leon Zhao. Prior to that, I obtained my BSc in Business Analytics with First Class Honor at the Business School, Macau University of Science and Technology.
 
 
 
-Perspective and current students interested in optimization/ML/AI are welcome to contact me. Undergraduate interns and visiting students/scholars are also welcome. Master students may check “advised master projects” in “Publications”.
 
-To contact me, click the “email” icon on the left panel.
+
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
