@@ -40,10 +40,14 @@ Research Interests
 Contact Information
 ------
 Address:
+<br/>
 School of Management and Economics
+<br/>
 The Chinese University of Hong Kong, Shenzhen
+<br/>
 2001 Longxiang Boulevard, Longgang District, Shenzhen 440307, China
-
+<br/>
+<br/>
 Email: yilingu@link.cuhk.edu.cn
 
 
