@@ -27,9 +27,8 @@ Professional Experience
 
 Education
 ======
-**M.Sc.** Information Management and Business Analytics, The Chinese University of Hong Kong, Shenzhen, 2021 - 2023
-<br/>
-**B.Sc.** Business Analytics, Macau University of Science and Technology, 2017 - 2021
++ **M.Sc.** Information Management and Business Analytics, The Chinese University of Hong Kong, Shenzhen, 2021 - 2023
++ **B.Sc.** Business Analytics, Macau University of Science and Technology, 2017 - 2021
 
 Research Interests
 ======
