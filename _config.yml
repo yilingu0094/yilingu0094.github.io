@@ -84,8 +84,9 @@ author:
   avatar           : "yilin1.PNG"
   bio              : "Master student at the Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
+  CV         : "https://yilingu0094.github.io/files/resume.pdf"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            : "yilingu@link.cuhk.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
