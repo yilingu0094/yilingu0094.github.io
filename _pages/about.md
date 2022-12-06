@@ -11,9 +11,11 @@ Welcome to my homepage! I am a master student at the joint master program of [Th
 
 In recent years, I've been studying the application of machine learning and optimization theory in production and operations management. My current works fall into three main directions. My work at SFI uses blockchain and machine learning to build a specialized financing strategy in the poultry supply chain that helps numerous startup manufacturing enterprises overcome their financial challenges. Since many manufacturing objectives are defined in nonconvex-nonconcave minmax settings and the datasets provided are always of a large scale, solving stochastic constrained nonconvex-nonconcave minmax problem is another area I've been studying at SRIBD. Additionally, my master thesis aims to develop a novel prototype-based classification algorithm that better capture the non-convex and sparse pattern of classes with improved interpretation, convergence, and simplicity, particularly for production-related data.
 
-I'm expected to obtain my master degree (with distinction) in Information management and Business Analytics from [CUHK Business School](https://www.bschool.cuhk.edu.hk/cuhk-business-school/cuhk-shenzhen/) in July 2023, fortunately supervised by [Prof. J. Leon Zhao](https://myweb.cuhk.edu.cn/leonzhao). Prior to that, I received my BSc in Business Analytics with First Class Honors at the [Business School](https://www.must.edu.mo/en/msb) of [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en). Here is my personal CV: \[[Curriculum Vitae](https://yilingu0094.github.io/files/resume.pdf)\]
+I'm expected to obtain my master degree (with distinction) in Information management and Business Analytics from [CUHK Business School](https://www.bschool.cuhk.edu.hk/cuhk-business-school/cuhk-shenzhen/) in July 2023, fortunately supervised by [Prof. J. Leon Zhao](https://myweb.cuhk.edu.cn/leonzhao). Prior to that, I received my BSc in Business Analytics with First Class Honors at the [Business School](https://www.must.edu.mo/en/msb) of [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en).
 
 You are always welcome to send me an email and schedule a conversation at any time. If you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory, please feel free to talk with me :)
+
+\[[Curriculum Vitae](https://yilingu0094.github.io/files/resume.pdf)\]
 
 
 Professional Experience
