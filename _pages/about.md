@@ -15,7 +15,8 @@ I'm expected to obtain my master degree (with distinction) in Information manage
 
 You are always welcome to send me an email and schedule a conversation at any time. If you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory, please feel free to talk with me :)
 
-[Curriculum Vitae](https://github.com/yilingu0094/yilingu0094.github.io/blob/master/files/resume.pdf)
+[Curriculum Vitae](https://yilingu0094.github.io/files/resume.pdf)
+
 
 Professional Experience
 ======
