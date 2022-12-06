@@ -51,6 +51,6 @@ The Chinese University of Hong Kong, Shenzhen
 2001 Longxiang Boulevard, Longgang District, Shenzhen 440307, China
 <br/>
 <br/>
-Email: yilingu@link.cuhk.edu.cn
+Email: [yilingu@link.cuhk.edu.cn](yilingu@link.cuhk.edu.cn)
 
 
