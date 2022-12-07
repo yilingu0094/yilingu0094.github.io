@@ -5,12 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Current Research Projects
+======
 
-{% include base_path %}
+## 1. Structured and Stochastic Constrained Nonconvex-Nonconcave Minmax Problem
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
