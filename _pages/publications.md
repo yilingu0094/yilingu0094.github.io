@@ -8,3 +8,16 @@ author_profile: true
 
 ## 1. Structured and Stochastic Constrained Nonconvex-Nonconcave Minmax Problem
 
+**Background:** The nonconvex-nonconcave minmax problem is an important issue arising in operations management and machine learning theory. For example, many operation objectives are formulated in a nonconvex-nonconcave setting $\min_{x}\max_{y}f(x,y)$
+
+
+1.background：nonconvex-nonconcave minmax问题是运筹学和机器学习中的重要问题，比如说工业生产中经常会遇到带有约束条件的、且符合f(x,y)对x非凸对y非凹的复杂目标函数，从而难以求解。（并且考虑到数据量大和目标函数呈现求和的形式（可以写一下表达式），往往需要考虑使用随机优化算法进行求解）又如，在机器学习领域中，GAN的训练也是一个经典的随机minmax问题（写一下GAN的表达式），而当generator对x非凸，discriminator对y非凹时，就呈现了一个复杂的Stochastic Nonconvex-Nonconcave Minmax Problem。然而找到该类问题的saddle point是一件非常困难的事，我们可以考虑引入变分不等式、PL condition，或直接把此类有约束的问题写成proximal problem的形式，引入normal map来改写natural residual迭代求解。
+
+2.Direction 1：Normal Map for natural residual （Main direction！）
+
+3.Direction 2：weak Minty Variational Inequality
+
+4.Direction 3：two-sided PL condition
+
+
+My general research agenda lies in operation research, optimization, and machine learning theory. Regarding operation research, I focus primarily on important issues in supply chain and operation management, including inventory management, outsourcing and procurement, supply chain finance, etc. In addition, my research applies optimization, machine learning, and data-driven decision making to address information and operational problems in business and society. Theoretically, I am interested in making mathematical analysis (optimality conditions, dual gap, error bounds, etc.) for optimization algorithms, and accordingly designing new algorithms with faster convergence and less iteration complexity, escpecially for nonconvex and nonsmooth problem. My study also focuses on applying optimization theory to address some primary issues arising in machine learning algorithms, such as training GANs or robust neural-nets by solving the minmax problem with additional nonsmooth regularizers. 
