@@ -10,7 +10,7 @@ author_profile: true
 
 **Background:** The nonconvex-nonconcave minmax problem is an important issue arising in operations management and machine learning theory. For example, many operational objectives are formulated in a minmax setting $\min_{x}\max_{y}f(x,y)$, where $x$ and $y$ are real-valued vectors and $f$ is neither (necessarily) convex in $x$ nor (necessarily) concave in $y$. Without solid assumptions on $f$, this problem might be intractable. However, it might be even trickier with complicated constraints for $(x,y)$. There are also a few classical applications for nonconvex-nonconcave minmax problem in machine learning theory, such as the training of generative adversarial networks (GANs) or robust neural-nets. The GAN objective is formulated as a two-player zero sum game between the discriminator $D_y$ and the generator $G_x$ as follows,
 
-$$ \min\limits_x \max\limits_y \mathbb{E}_{\beta}$$
+$$ \min\limits_x \max\limits_y \mathbb{E}_{\beta\sim b} \[\log (D_y(\beta))\]+$$
 
 
 
