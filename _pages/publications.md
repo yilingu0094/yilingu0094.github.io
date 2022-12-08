@@ -12,7 +12,12 @@ author_profile: true
 
 $$ \min\limits_x \max\limits_{y} \mathbb{E}_{\beta\sim b} [D_y(\beta)] - \mathbb{E}_{\alpha\sim a}[D_y(G_x(\alpha))],$$
 
-where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave in $y$ for all $x$ in this saddle point problem. There may also be constraints on $x$ and $y$, which results in a complicated stochastic constrained nonconvex-nonconcave minmax problem. 
+where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave in $y$ for all $x$ in this saddle point problem. There may also be constraints on $x$ and $y$, which results in a complicated stochastic constrained nonconvex-nonconcave minmax problem. To find out the solutions for this type structured problem, one way is to cast the problem as a variational inequality problems (VIPs) or monotone inclusion problems (MIPs). Given a fewer weaker assumptions like weak Minty Variational Inequalities (MVI), generalized monotone inclusion (GMI) do not imply $f$ is convex-concave, we can obtain the same convergence for solving the minmax problem as solving the VIPs or MIPs. Another line of thinking is to introduce the two-sided Polyak-Łojasiewicz condition, which ensure a linear convergence with gradient descent ascent (GDA) algorithm while not require the convex-concave assumption for $f$. Moreover, introducing normal mapping can convert the gap function from the natural residual to a normal map based one. For convenience, the corresponding constraints can be rewritten (w.r.t.) as a proximal problem,
+
+$$\min\limits_x \max\limits_{y} g(x)+\mathbb{E}_{\delta\sim \Delta}[x,y,\delta]-h(y)$$
+
+
+we can introduce weak Minty Variational Inequalities (MVI) or two-sided Polyak-Łojasiewicz condition
 
 
 1.background：nonconvex-nonconcave minmax问题是运筹学和机器学习中的重要问题，比如说工业生产中经常会遇到带有约束条件的、且符合f(x,y)对x非凸对y非凹的复杂目标函数，从而难以求解。（并且考虑到数据量大和目标函数呈现求和的形式（可以写一下表达式），往往需要考虑使用随机优化算法进行求解）又如，在机器学习领域中，GAN的训练也是一个经典的随机minmax问题（写一下GAN的表达式），而当generator对x非凸，discriminator对y非凹时，就呈现了一个复杂的Stochastic Nonconvex-Nonconcave Minmax Problem。然而找到该类问题的saddle point是一件非常困难的事，我们可以考虑引入变分不等式、PL condition，或直接把此类有约束的问题写成proximal problem的形式，引入normal map来改写natural residual迭代求解。
