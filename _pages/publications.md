@@ -12,7 +12,17 @@ author_profile: true
 
 $$ \min\limits_x \max\limits_{y} \mathbb{E}_{\beta\sim b} [D_y(\beta)] - \mathbb{E}_{\alpha\sim a}[D_y(G_x(\alpha))],$$
 
-where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave in $y$ for all $x$ in this saddle point problem. There may also be constraints on $x$ and $y$, which results in a complicated stochastic constrained nonconvex-nonconcave minmax problem. To find out the solutions for this type structured problem, one way is to cast the problem as a variational inequality problems (VIPs) or monotone inclusion problems (MIPs). Given a fewer weaker assumptions like weak Minty Variational Inequalities (MVI), generalized monotone inclusion (GMI) do not imply $f$ is convex-concave, we can obtain the same convergence for solving the minmax problem as solving the VIPs or MIPs. Another line of thinking is to introduce the two-sided Polyak-Łojasiewicz condition, which ensure a linear convergence with gradient descent ascent (GDA) algorithm while not require the convex-concave assumption for $f$. Moreover, introducing normal mapping can convert the gap function from the natural residual to a normal map based one. For convenience, the corresponding constraints can be rewritten (w.r.t.) as a proximal problem,
+where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave in $y$ for all $x$ in this saddle point problem. There may also be constraints on $x$ and $y$, which results in a complicated stochastic constrained nonconvex-nonconcave minmax problem. To identify the solutions of this type problem, we have 3 main research directions. Firstly, the minmax optimization problem can be cast as a special case of variational inequality problems (VIPs) or monotone inclusion problems (MIPs). So, we are able to attain the saddle points or stationary points under certain convergence rate for a family of structured nonconvex-nonconcave minmax optimization problems by identifying algorithms that achieve the optimal convergence rate in generalized MIPs or VIPs. 
+
+
+finding algorithms that achieve certain (optimal) convergence rate in generalized inclusion or VI problem allows us to obtain the same convergence rate for a specific family of structured nonconvex-nonconcave minmax optimization problem.
+
+As a special case of inclusion/vi result, the algorithm enjoys the same convergence rate for solving a non-trivial class of nonconvex-nonconcave minmax optimization problem.
+
+The constrained convex-concave minmax optimization is a special case of constrained single-valued monotone inclusion problems.
+
+
+To find out the solutions for this type structured problem, one way is to cast the problem as a variational inequality problems (VIPs) or monotone inclusion problems (MIPs). Given a fewer weaker assumptions like weak Minty Variational Inequalities (MVI), generalized monotone inclusion (GMI) do not imply $f$ is convex-concave, we can obtain the same convergence for solving the minmax problem as solving the VIPs or MIPs. Another line of thinking is to introduce the two-sided Polyak-Łojasiewicz condition, which ensure a linear convergence with gradient descent ascent (GDA) algorithm while not require the convex-concave assumption for $f$. Moreover, introducing normal mapping can convert the gap function from the natural residual to a normal map based one. For convenience, the corresponding constraints can be rewritten (w.r.t.) as a proximal problem,
 
 $$\min\limits_x \max\limits_{y} g(x)+\mathbb{E}_{\delta\sim \Delta}[x,y,\delta]-h(y)$$
 
