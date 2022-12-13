@@ -11,6 +11,9 @@ redirect_from:
 
 ## Convex-Concave Minmax Optimization: Applications and Methods
 
+<span style="color:red">some **This is Red Bold.** text</span>
+
+
 <font color=#DCDCDC>August 05, 2022</font>
 
 Seminar, Shenzhen Research Institute of Big Data (SRIBD) Forum, Shenzhen, China
