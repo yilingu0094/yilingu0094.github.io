@@ -11,6 +11,7 @@ redirect_from:
 
 ## Convex-Concave Minmax Optimization: Applications and Methods
 
+\vspace{-5em}
 <font size="3"><span style="color:grey">August 05, 2022</span></font> 
 
 <font size="1"> This is my text number1</font> 
