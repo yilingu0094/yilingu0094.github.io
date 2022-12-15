@@ -1,5 +1,5 @@
 ---
-title: "Global Management Challenge Workshop"
+title: "Global Management Challenge Workshop, 2019 Fall"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/GMC-workshop
