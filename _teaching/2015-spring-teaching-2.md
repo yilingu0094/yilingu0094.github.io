@@ -1,10 +1,10 @@
 ---
 title: "Global Management Challenge Workshop, 2019 Fall"
 collection: teaching
-type: "Workshop"
+type: "Instructor"
 permalink: /teaching/GMC-workshop
 venue: "School of Business, Macau University of Science and Technology"
-date: None
+date: 2019-10-20
 location: "Macau, China"
 ---
 
