@@ -31,7 +31,7 @@ $$
 \end{align}
 $$
 
-which cannot recover prox-GDA due to the \color{DarkGoldenRod}{nonlinear} proximity operator
+which cannot recover prox-GDA due to the <span style="color:DarkGoldenRod">nonlinear</span> proximity operator
 
 
 
