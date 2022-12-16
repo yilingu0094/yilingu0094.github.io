@@ -22,7 +22,7 @@ where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave i
 
 3. <span style="color:DarkGoldenRod">Normal Map (Main Direction)</span>: Especially for nonsmooth case, we introduce normal mapping to offer a normal map-based method to resolve the biasedness of some stochastic proximal methods like prox-SGDA and to measure the convergence of these methods by converting the expectation of the natural residual into a normal mapped one.
 
-**Normal Map-based Method:** Given proximity is a <span style="color:DarkGoldenRod">nonlinear</span> operator, the unbiasedness of the randome gradient in stochastic proximal methods would be lost. Take the proximal Gradient Descent Ascent (prox-SGDA) as an example,
+**Normal Map-based Method:** Given proximity is a <span style="color:DarkGoldenRod">nonlinear</span> operator, the unbiasedness of the random gradient in stochastic proximal methods would be lost. Consider the proximal Stochastic Gradient Descent Ascent (prox-SGDA),
 
 $$
 \begin{align}
@@ -30,7 +30,7 @@ $$
 \mathbb{E}_{k}[y^{k+1}]&=\mathbb{E}_{k}[\textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}g^{k})] \color{DarkGoldenRod}{\neq \textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}\nabla f(y^{k}))},
 \end{align}
 $$
-
+which cannot recover prox-GDA due to the nonlinear proximity operator $\color{DarkGoldenRod}{\textrm{prox}_{\alpha_{k}\varphi}}$
 
 
 
