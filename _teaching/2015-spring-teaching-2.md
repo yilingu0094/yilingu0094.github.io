@@ -4,6 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/GMC-workshop
 venue: "School of Business, Macau University of Science and Technology"
+date: None
 location: "Macau, China"
 ---
 
