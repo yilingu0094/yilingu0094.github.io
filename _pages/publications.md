@@ -26,7 +26,7 @@ where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave i
 
 $$\mathbb{E}_{k}[x^{k+1}]=\mathbb{E}_{k}[\textrm{prox}_{\alpha_{k}\varphi}(x^{k}-\alpha_{k}g^{k})] \color{red}{\neq \textrm{prox}_{\alpha_{k}\varphi}(x^{k}-\alpha_{k}\nabla f(x^{k}))}$$
 
-Roses are $\color{red}{\text{beautiful red}}$, 
+Roses are $\color{DarkGoldenRod}{\text{beautiful red}}$, 
 violets are $\color{blue}{\text{lovely blue}}$.
 
 
