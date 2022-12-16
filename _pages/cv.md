@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Convex-Concave Minmax Optimization: Applications and Methods \[[slides](https://yilingu0094.github.io/files/minmax_opt_yilingu.pdf)\]
-<font size="3"><span style="color:grey">August 05, 2022</span></font>  
+<font size="3"><span style="color:DarkGoldenRod">August 05, 2022</span></font>  
 
 a<font size="3">Seminar, Shenzhen Research Institute of Big Data (SRIBD) Forum, Shenzhen, China</font> 
 
