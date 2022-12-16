@@ -4,11 +4,11 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/GMC-workshop
 venue: "School of Business, Macau University of Science and Technology"
-date: 2019-10-20
 location: "Macau, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The Global Management Challenge (GMC) is a global strategic operation management competition that runs with a complex computer simulation system, in which each team runs different virtual company in the same market environment, and competes by developing and producing products that can better meet customer needs to maximize their investment performance. 
+
 
 Heading 1
 ======
