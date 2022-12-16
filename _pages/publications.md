@@ -30,6 +30,7 @@ $$
 \mathbb{E}_{k}[y^{k+1}]&=\mathbb{E}_{k}[\textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}g^{k})] \color{DarkGoldenRod}{\neq \textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}\nabla f(y^{k}))},
 \end{align}
 $$
+
 which cannot recover prox-GDA due to the nonlinear proximity operator $\color{red}{\text{beautiful red}}$, $\color{DarkGoldenRod}{\textrm{prox}_{\alpha_{k}\varphi}}$
 
 
