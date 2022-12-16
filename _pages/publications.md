@@ -25,10 +25,10 @@ where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave i
 **Normal Map-based Method:** Given proximity is a <span style="color:DarkGoldenRod">nonlinear</span> operator, the unbiasedness of the randome gradient in stochastic proximal methods would be lost. Take the proximal Gradient Descent Ascent (prox-SGDA) as an example,
 
 $$
-\begin{aligned}
-\mathbb{E}_{k}[x^{k+1}]&=\mathbb{E}_{k}[\textrm{prox}_{\alpha_{k}\varphi}(x^{k}-\alpha_{k}g^{k})] \color{DarkGoldenRod}{\neq \textrm{prox}_{\alpha_{k}\varphi}(x^{k}-\alpha_{k}\nabla f(x^{k}))}\\
-\mathbb{E}_{k}[y^{k+1}]&=\mathbb{E}_{k}[\textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}g^{k})] \color{DarkGoldenRod}{\neq \textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}\nabla f(y^{k}))}
-\end{aligned}\tag{2}
+\begin{align}
+\mathbb{E}_{k}[x^{k+1}]&=\mathbb{E}_{k}[\textrm{prox}_{\alpha_{k}\varphi}(x^{k}-\alpha_{k}g^{k})] \color{DarkGoldenRod}{\neq \textrm{prox}_{\alpha_{k}\varphi}(x^{k}-\alpha_{k}\nabla f(x^{k}))},\\
+\mathbb{E}_{k}[y^{k+1}]&=\mathbb{E}_{k}[\textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}g^{k})] \color{DarkGoldenRod}{\neq \textrm{prox}_{\alpha_{k}\varphi}(y^{k}+\alpha_{k}\nabla f(y^{k}))},
+\end{align}
 $$
 
 
