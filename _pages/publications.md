@@ -31,7 +31,7 @@ $$
 \end{align}
 $$
 
-which cannot recover prox-GDA due to the nonlinear proximity operator $\color{red}{\text{beautiful red}}$, $\color{DarkGoldenRod}{\textrm{prox}_{\alpha_{k}\varphi}}$
+which cannot recover prox-GDA due to the nonlinear proximity operator $\color{red}{\text{beautiful red}}$, $\color{DarkGoldenRod}{\textrm{prox}}$
 
 
 
