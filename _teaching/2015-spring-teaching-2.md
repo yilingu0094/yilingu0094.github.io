@@ -1,5 +1,5 @@
 ---
-title: "Global Management Challenge Workshop, 2019 Fall"
+title: "Global Management Challenge Workshop, 2020 Fall"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/GMC-workshop
@@ -8,7 +8,7 @@ date: 2019-10-21
 location: "Macau, China"
 ---
 
-The Global Management Challenge (GMC) is a global strategic operation management competition that runs with a complex computer simulation system, in which each team runs different virtual company in the same market environment, and competes by developing and producing products that can better meet customer needs to maximize their investment performance. 
+The Global Management Challenge (GMC) is a global strategic operation management competition that runs with complex computer simulation system, where each team runs different virtual company in the same market environment, and competes by developing and producing products that better meet customer needs to maximize their investment performance. 
 
 
 Heading 1
