@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/GMC-workshop
 venue: "School of Business, Macau University of Science and Technology"
-date: 2019-10-20
+date: 2019-10-21
 location: "Macau, China"
 ---
 
