@@ -8,7 +8,7 @@ date: 2019-9-11
 location: "Macau, China"
 ---
 
-The Global Management Challenge (GMC) is a global strategic operations management competition that runs with a complex computer simulation system, in which each team runs different virtual company in the same market environment, and competes by developing and producing products that can better meet customer needs to maximize their investment performance. 
+The [Global Management Challenge (GMC)](https://globalmanagementchallenge.pt/worldgmc/) is a global strategic operations management competition that runs with a complex computer simulation system, in which each team runs different virtual company in the same market environment, and competes by developing and producing products that can better meet customer needs to maximize their investment performance. 
 
 
 Heading 1
