@@ -31,8 +31,10 @@ $$
 where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ and $h: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ are convex in $x$ and $y$, respectively. The proximity operator of $\varphi$ at $x$ and $h$ at $y$ can be expressed as 
 
 $$
-\textrm{prox}_{\alpha_{k}\varphi}(x) = \textrm{arg}\min_{p\in \mathbb{R}^n} \{\varphi(p)+ \frac{1}{2\alpha}||x-p||^2 \}\\
-\textrm{prox}_{\alpha_{k}\varphi}(y) = \textrm{arg}\max_{p\in \mathbb{R}^n} \{-\varphi(p)- \frac{1}{2\alpha}||y-p||^2 \}
+\begin{align}
+\textrm{prox}_{\alpha_{k}\varphi}(x) &= \textrm{arg}\min_{p\in \mathbb{R}^n} \{\varphi(p)+ \frac{1}{2\alpha}||x-p||^2 \}\\
+\textrm{prox}_{\alpha_{k}\varphi}(y) &= \textrm{arg}\max_{p\in \mathbb{R}^n} \{-\varphi(p)- \frac{1}{2\alpha}||y-p||^2 \}
+\end{align}
 $$
 
 
