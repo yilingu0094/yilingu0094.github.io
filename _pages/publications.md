@@ -28,7 +28,7 @@ $$
 \min\limits_x \max\limits_{y} \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
 $$
 
-where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and $f$ is not (necessarily) convex-concave in $z=(x,y)$.
+where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and $f$ is not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{R}$ and $h: \mathbb{R}^n \rightarrow \mathbb{R}$ are convex in $x$ and $y$, respectively.
 
 
 
