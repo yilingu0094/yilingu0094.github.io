@@ -25,10 +25,10 @@ where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave i
 **Normal Map-based Method:** We study the following nonsmooth nonconvex-nonconcave minmax problem
 
 $$
-\min\limits_x \max\limits_{y} \mathbb{E}_{\delta\sim \Delta}[f(x,y,\delta)]+\varphi(x)-h(y)
+\min\limits_x \max\limits_{y} \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
 $$
 
-
+where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and $f$ is not (necessarily) convex-concave in $z=(x,y)$.
 
 
 
