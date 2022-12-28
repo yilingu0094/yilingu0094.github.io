@@ -48,7 +48,7 @@ $$
 \end{align}
 $$
 
-which cannot recover prox-GDA due to the <span style="color:DarkGoldenRod">nonlinear</span> proximity operator. 
+which cannot recover prox-GDA due to the <span style="color:DarkGoldenRod">nonlinear</span> proximity operator. To address the biasedness of the stochastic estimator in prox-SGDA, we thus provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA</span>.
 
 
 
