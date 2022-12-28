@@ -33,7 +33,7 @@ where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and not (nece
 $$
 \begin{align}
 \textrm{prox}_{\alpha_{k}\varphi}(x) &:= \textrm{arg}\min_{p\in \mathbb{R}^n} \{\varphi(p)+ \frac{1}{2\alpha}||x-p||^2 \},\\
-\textrm{prox}_{\alpha_{k}h}(y) &:= \textrm{arg}\max_{q\in \mathbb{R}^n} \{h(q)- \frac{1}{2\alpha}||y-q||^2 \}.
+\textrm{prox}_{\alpha_{k}h}(y) &:= \textrm{arg}\max_{q\in \mathbb{R}^n} \{-h(q)- \frac{1}{2\alpha}||y-q||^2 \}.
 \end{align}
 $$
 
