@@ -61,7 +61,6 @@ $$
 &y^{k+1} = \textrm{prox}_{\lambda h} (v^{k+1})
 \end{aligned}
 \end{matrix}\right.
-\tag{7}
 $$
 
 where the <span style="color:DarkGoldenRod">normal maps</span> are given as,
