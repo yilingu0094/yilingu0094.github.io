@@ -66,6 +66,10 @@ $$
 
 where the <span style="color:DarkGoldenRod">normal maps</span> are given as,
 
+$$
+a+b = c
+$$
+
 
 $$
 \begin{align}
