@@ -61,6 +61,7 @@ $$
 &y^{k+1} = \textrm{prox}_{\lambda h} (v^{k+1})
 \end{aligned}
 \end{matrix}\right.
+\tag{7}
 $$
 
 
