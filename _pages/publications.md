@@ -51,14 +51,14 @@ $$
 which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
 
 $$
-f(i)=
+\textrm{Loop:}
 \left\{\begin{matrix}
 \begin{aligned}
 &g^k \approx \nabla f(x^k,y^k)  \ \ \   \ \  \ \   \   \ \ \\   \ \ \  color{DarkGoldenRod}{\textrm{by some sampling scheme}} \\
 &u^{k+1} = u^k-\alpha_k (g_x^k + \frac{1}{\lambda}(u^k-x^k)) \color{DarkGoldenRod}{\approx u^k - \alpha_k F_{nor}^{\lambda}(u^k)}\\
 &v^{k+1} = v^k+\alpha_k (g_y^k - \frac{1}{\lambda}(v^k-y^k)) \color{DarkGoldenRod}{\approx v^k + \alpha_k F_{nor}^{\lambda}(v^k)}\\
 &x^{k+1} = \textrm{prox}_{\lambda \varphi} (u^{k+1})\\
-&y^{k+1} = \textrm{prox}_{\lambda \varphi} (v^{k+1})
+&y^{k+1} = \textrm{prox}_{\lambda h} (v^{k+1})
 \end{aligned}
 \end{matrix}\right.
 $$
