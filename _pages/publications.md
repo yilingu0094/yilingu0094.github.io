@@ -53,17 +53,22 @@ which cannot recover prox-GDA due to the nonlinear proximity operator. To addres
 $$
 f(i)=
 \left\{\begin{matrix}
-\begin{align}
+\begin{aligned}
 &g^k \approx \nabla f(x^k,y^k) \ \textrm{by some sampling scheme} \\
 &u^{k+1} = u^k-\alpha_k (g_x^k + \frac{1}{\lambda}(u^k-x^k)) \appox u^k - \alpha_k F_{nor}^{\lambda}(u^k)\\
 &v^{k+1} = v^k+\alpha_k (g_y^k - \frac{1}{\lambda}(v^k-y^k)) \appox v^k + \alpha_k F_{nor}^{\lambda}(v^k)\\
 &x^{k+1} = \textrm{prox}_{\lambda \varphi} (u^{k+1})\\
 &y^{k+1} = \textrm{prox}_{\lambda \varphi} (v^{k+1})
-\end{align}
+\end{aligned}
 \end{matrix}\right.
 $$
 
-
+$$f(x) = \left\{\begin{matrix}
+ \dfrac{1}{\theta}e^{-\dfrac{x}{\theta}} \ \ \   \ \  \ \   \   \ \ x>0 \\
+ \\
+ 0 \ \ \   \ \  \ \   \   \ \  otherwise \\
+\end{matrix}
+\right.\tag{1.1}$$
 
 
 finding algorithms that achieve certain (optimal) convergence rate in generalized inclusion or VI problem allows us to obtain the same convergence rate for a specific family of structured nonconvex-nonconcave minmax optimization problem.
