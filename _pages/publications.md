@@ -63,12 +63,6 @@ f(i)=
 \end{matrix}\right.
 $$
 
-$$f(x) = \left\{\begin{matrix}
- \dfrac{1}{\theta}e^{-\dfrac{x}{\theta}} \ \ \   \ \  \ \   \   \ \ x>0 \\
- \\
- 0 \ \ \   \ \  \ \   \   \ \  otherwise \\
-\end{matrix}
-\right.$$
 
 
 finding algorithms that achieve certain (optimal) convergence rate in generalized inclusion or VI problem allows us to obtain the same convergence rate for a specific family of structured nonconvex-nonconcave minmax optimization problem.
