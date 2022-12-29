@@ -25,7 +25,7 @@ where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave i
 **Normal Map-based Method:** We study the following nonsmooth nonconvex-nonconcave minmax problem
 
 $$
-\min\limits_x \max\limits_{y} \psi(x,y) = \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
+\min\limits_x \max\limits_{y}\ \  \psi(x,y) = \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
 $$
 
 where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ and $h: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ are convex in $x$ and $y$, respectively. The proximity operator of $\varphi$ at $x$ and $h$ at $y$ can be expressed as 
