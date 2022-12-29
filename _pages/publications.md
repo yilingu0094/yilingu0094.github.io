@@ -48,7 +48,7 @@ $$
 \end{align}
 $$
 
-which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus seperate the proximity operator from the update process and introduce the <span style="color:DarkGoldenRod">normal map</span> to capture the gradient and subgradient of $\psi$. Let $x := \textrm{prox}_{\lambda \varphi} (u)$ and $y := \textrm{prox}_{\lambda h} (v)$, then the normal maps are given as,
+which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus seperate the proximity operator from the update process and introduce the <span style="color:DarkGoldenRod">normal map</span> to capture the gradient and subgradient of $\psi$. Let $x := \textrm{prox}_{\lambda \varphi} (u)$ and $y \textrm{prox}_{\lambda h} (v)$, then the normal maps are given as,
 
 $$
 \begin{align}
