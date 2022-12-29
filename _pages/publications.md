@@ -56,7 +56,7 @@ F_{nor}^{\lambda}(u)&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x
 F_{nor}^{\lambda}(v)&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
 \end{align}$$
 
-When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, then $(x,y)$ is the stationary point of <span style="color:DarkGoldenRod">$\psi$</span>.
+When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, then $(x,y)$ is the <span style="color:DarkGoldenRod">stationary point</span> of $\psi$.
 
 
 provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
