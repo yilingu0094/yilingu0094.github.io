@@ -56,7 +56,7 @@ F_{nor}^{\lambda}(u)&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x
 F_{nor}^{\lambda}(v)&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
 \end{align}$$
 
-When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, $z = (x,y)$ is the <span style="color:DarkGoldenRod">stationary point</span> of $\psi$. Then, the new descent and ascent directions for $u$ and $v$ can be defined using the normal maps as unbiased updates, with additional proximal updating to $x$ and $y$. As a result, we provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>,
+When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, $z = (x,y)$ is the <span style="color:DarkGoldenRod">stationary point</span> of $\psi$. Then, the new descent and ascent directions for $u$ and $v$ can be defined using the normal maps, with additional proximal updating to $x$ and $y$. As a result, we provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>,
 
 $$
 \textrm{Loop:}
