@@ -28,7 +28,7 @@ $$
 \min\limits_x \max\limits_{y}\ \  \psi(x,y) = \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
 $$
 
-where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ and $h: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ are convex in $x$ and $y$, respectively. The proximity operator of $\varphi$ at $x$ and $h$ at $y$ can be expressed as 
+where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ and $h: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ are convex in $x$ and $y$, respectively. The proximity operator of $\varphi$ at $x$ and $h$ at $y$ can be expressed as, 
 
 $$
 \begin{align}
@@ -56,10 +56,7 @@ F_{nor}^{\lambda}(u)&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x
 F_{nor}^{\lambda}(v)&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
 \end{align}$$
 
-When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, then $z = (x,y)$ is the <span style="color:DarkGoldenRod">stationary point</span> of $\psi$.
-
-
-provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
+When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, then $z = (x,y)$ is the <span style="color:DarkGoldenRod">stationary point</span> of $\psi$. Thus, we provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
 
 $$
 \textrm{Loop:}
