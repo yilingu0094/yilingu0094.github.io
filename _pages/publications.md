@@ -51,8 +51,10 @@ $$
 which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus seperate the proximity operator from the update process and introduce the <span style="color:DarkGoldenRod">normal map</span> to capture the gradient and subgradient of $\psi$. Let $x := \textrm{prox}_{\lambda \varphi} (u)$, $y:=\textrm{prox}\_{\lambda h} (v)$, then the normal maps are given as,
 
 $$
-F_{nor}^{\lambda}(u): = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x,y)+ \partial \varphi(x),
-$$
+\begin{align}
+F_{nor}^{\lambda}(u)&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x,y)+ \partial \varphi(x),\\
+F_{nor}^{\lambda}(v)&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
+\end{align}$$
 
 
 
@@ -81,8 +83,8 @@ $$
 
 $$
 \begin{align}
-F_{nor}^{\lambda}(u)}&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x,y)+ \partial \varphi(x),\\
-F_{nor}^{\lambda}(v)}&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
+F_{nor}^{\lambda}(u)&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x,y)+ \partial \varphi(x),\\
+F_{nor}^{\lambda}(v)&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
 \end{align}
 $$
 
