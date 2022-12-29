@@ -56,20 +56,19 @@ F_{nor}^{\lambda}(u)&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x
 F_{nor}^{\lambda}(v)&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
 \end{align}$$
 
-When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, $z = (x,y)$ is the <span style="color:DarkGoldenRod">stationary point</span> of $\psi$. Then, the new descent and ascent directions for $u$ and $v$ can be defined using the normal maps as unbiased updates, with additional updating to $z$. As a result, we provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
+When $F_{nor}^{\lambda}(u) = F_{nor}^{\lambda}(v) = 0$, $z = (x,y)$ is the <span style="color:DarkGoldenRod">stationary point</span> of $\psi$. Then, the new descent and ascent directions for $u$ and $v$ can be defined using the normal maps as unbiased updates, with additional proximal updating to $x$ and $y$. As a result, we provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
 
 $$
 \textrm{Loop:}
 \left\{\begin{matrix}
-\begin{aligned}
+\begin{align}
 &g^k \approx \nabla f(x^k,y^k) \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \color{DarkGoldenRod}{\textrm{by some sampling scheme}} \\
 &u^{k+1} = u^k-\alpha_k (g_x^k + \frac{1}{\lambda}(u^k-x^k)) \color{DarkGoldenRod}{\approx u^k - \alpha_k F_{nor}^{\lambda}(u^k)}\\
 &v^{k+1} = v^k+\alpha_k (g_y^k - \frac{1}{\lambda}(v^k-y^k)) \color{DarkGoldenRod}{\approx v^k + \alpha_k F_{nor}^{\lambda}(v^k)}\\
 &x^{k+1} = \textrm{prox}_{\lambda \varphi} (u^{k+1})\\
 &y^{k+1} = \textrm{prox}_{\lambda h} (v^{k+1})
-\end{aligned}
+\end{align}
 \end{matrix}\right.
-\tag{7}
 $$
 
 where the <span style="color:DarkGoldenRod">normal maps</span> are given as,
