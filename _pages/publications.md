@@ -54,12 +54,6 @@ $$
 F_{nor}^{\lambda}(u)}&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x,y)+ \partial \varphi(x),
 $$
 
-$$
-\begin{align}
-F_{nor}^{\lambda}(u)}&: = \nabla_x f(x,y)+\frac{1}{\lambda}(u-x) \in \nabla_x f(x,y)+ \partial \varphi(x),\\
-F_{nor}^{\lambda}(v)}&: = \nabla_y f(x,y)-\frac{1}{\lambda}(v-y) \in \nabla_y f(x,y)- \partial h(y).
-\end{align}
-$$
 
 
 provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
