@@ -48,7 +48,7 @@ $$
 \end{align}
 $$
 
-which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus introduce the <span style="color:DarkGoldenRod">normal map</span> to capture the gradient and subgradient of $\psi$ 
+which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus seperate the proximity operator in update process and introduce the <span style="color:DarkGoldenRod">normal map</span> to capture the gradient and subgradient of $\psi$ 
 
 
 provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
