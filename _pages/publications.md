@@ -25,7 +25,7 @@ where $G_x$ might not be convex in $x$ for all $y$ and/or $D_y$ not be concave i
 **Normal Map-based Method:** We study the following nonsmooth nonconvex-nonconcave minmax problem
 
 $$
-\min\limits_x \max\limits_{y} \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
+\min\limits_x \max\limits_{y} \psi(x,y) = \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
 $$
 
 where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ and $h: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ are convex in $x$ and $y$, respectively. The proximity operator of $\varphi$ at $x$ and $h$ at $y$ can be expressed as 
@@ -48,7 +48,10 @@ $$
 \end{align}
 $$
 
-which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
+which cannot recover prox-GDA due to the nonlinear proximity operator. To address the biasedness of the stochastic estimator for each update in prox-SGDA, we thus introduce the <span style="color:DarkGoldenRod">normal map</span> to capture the gradient and subgradient of $\psi$ 
+
+
+provide the following <span style="color:DarkGoldenRod">Normal Map-based SGDA Algorithm</span>.
 
 $$
 \textrm{Loop:}
