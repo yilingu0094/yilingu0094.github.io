@@ -77,7 +77,7 @@ where the updates are <span style="color:DarkGoldenRod">unbiased</span>, i.e.,
 $$
 \begin{align}
 \mathbb{E}_{k}[u^{k+1}] &= u^k-\alpha_k (\nabla_{x}f(x^k,y^k) + \frac{1}{\lambda}(u^k-x^k))\\
-\mathbb{E}_{k}[v^{k+1}] &= v^k+\alpha_k (\nabla_{y}f(x^k,y^k) - \frac{1}{\lambda}(v^k-y^k))\\
+\mathbb{E}_{k}[v^{k+1}] &= v^k+\alpha_k (\nabla_{y}f(x^k,y^k) - \frac{1}{\lambda}(v^k-y^k))
 \end{align}
 $$
 
