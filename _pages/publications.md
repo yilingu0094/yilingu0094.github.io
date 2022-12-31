@@ -81,7 +81,7 @@ $$
 \end{align}
 $$
 
-Given the proposed Normal Map-based SGDA Algorithm, a convergent and optimistic version can be formulated by replacing $g^k$ in $(9)$ with $g^{k+1}$ approximated by $(1+\frac{\alpha}{\beta})g^{k}+\frac{\alpha}{\beta}g^{k-1}$ (or replacing $g^k$ with $g^{k+\frac{1}{2}}$ approximated by $g^{k-\frac{1}{2}}-g^{k}+g^{k-1}$ to formulate a Normal Map-based Extragradient Algorithm).
+Given the proposed Normal Map-based SGDA Algorithm, a <span style="color:DarkGoldenRod">convergent</span> and <span style="color:DarkGoldenRod">optimistic</span> version can be formulated by replacing $g^k$ in $(9)$ with $g^{k+1}$ approximated by $(1+\frac{\alpha}{\beta})g^{k}+\frac{\alpha}{\beta}g^{k-1}$ (or a Normal Map-based <span style="color:DarkGoldenRod">Extragradient</span> Algorithm by replacing $g^k$ with $g^{k+\frac{1}{2}}$ approximated by $g^{k-\frac{1}{2}}-g^{k}+g^{k-1}$).
 
 
 
