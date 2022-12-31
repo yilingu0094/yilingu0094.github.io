@@ -76,10 +76,14 @@ where the updates are <span style="color:DarkGoldenRod">unbiased</span>, i.e.,
 
 $$
 \begin{align}
-\mathbb{E}_{k}[u^{k+1}] &= u^k-\alpha_k (\nabla_{x}f(x^k,y^k) + \frac{1}{\lambda}(u^k-x^k)) \tag{10}\\
-\mathbb{E}_{k}[v^{k+1}] &= v^k+\alpha_k (\nabla_{y}f(x^k,y^k) - \frac{1}{\lambda}(v^k-y^k)) \tag{11}
+\mathbb{E}_{k}[u^{k+1}] &= u^k-\alpha_k (\nabla_{x}f(x^k,y^k) + \frac{1}{\lambda}(u^k-x^k)), \tag{10}\\
+\mathbb{E}_{k}[v^{k+1}] &= v^k+\alpha_k (\nabla_{y}f(x^k,y^k) - \frac{1}{\lambda}(v^k-y^k)). \tag{11}
 \end{align}
 $$
+
+Given the proposed Normal Map-based SGDA Algorithm, a convergent and optimistic version can be formulated by replacing $g^k$ in $(9)$ with $g^{k+1}$ approximated by $(1+\frac{\alpha}{\beta})g^{k}+\frac{\alpha}{\beta}g^{k-1}$ (or replacing $g^k$ with $g^{k+\frac{1}{2}}$ approximated by $g^{k-\frac{1}{2}}-g^{k}+g^{k-1}$ to formulate a Normal Map-based Extragradient Algorithm).
+
+
 
 
 finding algorithms that achieve certain (optimal) convergence rate in generalized inclusion or VI problem allows us to obtain the same convergence rate for a specific family of structured nonconvex-nonconcave minmax optimization problem.
