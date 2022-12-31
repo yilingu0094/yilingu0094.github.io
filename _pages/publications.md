@@ -87,8 +87,8 @@ $$
 ||x^{k}-x^{*}||=
 \left\{\begin{matrix}
 \begin{aligned}
-&O(1/\sqrt{k}), \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \textrm{if} \theta \in [0,1/2]\\
-&O(1/k^{p}), p\in (0,1/2), \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \textrm{if} \theta \in (1/2,1)\\
+&O(1/\sqrt{k}), \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \   \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \textrm{if}\  \theta \in [0,1/2]\\
+&O(1/k^{p}), p\in (0,1/2), \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \textrm{if}\  \theta \in (1/2,1)\\
 
 \end{aligned}
 \end{matrix}\right.
