@@ -115,17 +115,16 @@ where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</s
 $$
 \begin{align}
 
-||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||\\
-&\leq ||z-x+\lambda \nabla f(x)|| \ \ \  \ \color{DarkGoldenRod}{\textrm{Non-expansiveness}}\\
-& = \lambda ||F_{nor}^{\lambda}(z)||
+||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||,\\
+&\leq ||z-x+\lambda \nabla f(x)||, \ \ \  \ \color{DarkGoldenRod}{\textrm{(Non-expansiveness)}}\\
+& = \lambda ||F_{nor}^{\lambda}(z)||,
 \end{align}
+\tag{13}
 $$
 
-\begin{align}
-||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||\\
-&\leq \limits^{\textrm{Non-expansiveness}} ||z-x+\lambda \nabla f(x)||\\
-& = \lambda ||F_{nor}^{\lambda}(z)||
-\end{align}
+where 
+
+
 
 The normal map $F_{nor}^{\lambda}(z)$ helps to convert the expectation of natural residual $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms, and it can be used as a tighter merit (gap) function in convergence analysis for nonconvex case compared to the natural residual.
 
