@@ -95,9 +95,10 @@ $$
 \tag{12}
 $$
 
-where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>. According to the Supermartingale Convergence Theorem and KL inequality - whereby we show $\{x^{k}\}_k$ is convergent, similiar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm.
+where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>. Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\\{x^{k}\\}_k$ is convergent.
 
 
+Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\{x^{k}\}_k$ is convergent.
 
 
 
