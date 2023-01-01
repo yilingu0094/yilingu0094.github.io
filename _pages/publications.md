@@ -113,8 +113,11 @@ where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</s
 **(Bonus) Useful Lemma:** In comparison to the natural residual $F_{nat}^{\lambda}(x)$, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which also helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
 
 $$
+\begin{align}
 
-||F_{nat}^{\lambda}(x)|| = ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||\\
+||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||\\
+&\leq ||z-x+\lambda \nabla f(x)||\\
+\end{align}
 $$
 
 \begin{align}
