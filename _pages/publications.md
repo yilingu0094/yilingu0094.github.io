@@ -97,7 +97,7 @@ $$
 
 where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>. Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\\{x^{k}\\}_k$ is convergent.
 
-**Our Contribution:** 
+**Our Contribution:** The main contributions of this research project can be summarized as follows,
 
 1. <span style="color:DarkGoldenRod">First</span> stochastic algorithm to resolve the <span style="color:DarkGoldenRod">biasedness</span> of stochastic methods in <span style="color:DarkGoldenRod">nonsmooth</span> or constrained case.
 
@@ -105,7 +105,7 @@ where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</s
 
 3. The rate $O(1/\sqrt{k})$ matches that of OGDA in <span style="color:DarkGoldenRod">strongly convex</span> setting. Additionally, the rate $O(1/\sqrt{k})$ is <span style="color:DarkGoldenRod">tight</span>.
 
-**Current Process:** The paper is quite long and technical, we still need time for checking the some technical details including proofs and conduct more experimemts. Articles are expected to submit into some top journals or conferences in 2023 Fall.
+**Current Process:** The paper is quite long and technical, so we still need time for checking some technical details including proofs and conduct more experimemts. Articles are expected to submit into some top journals or conferences in 2023 Fall.
 
 + **Yilin Gu**, Hanfeng Zeng (2023). Normal Map-Based Proximal Extragradient Methods for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 + Junwen Qiu, **Yilin Gu**, Andre Milzarek (2023). A Revised Foward-Backward-Foward Method for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
