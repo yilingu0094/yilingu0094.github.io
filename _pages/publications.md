@@ -97,7 +97,7 @@ $$
 
 where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>. Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\\{x^{k}\\}_k$ is convergent.
 
-**(Bonus) Useful Lemma:** In comparison to the natural residual $F_{nat}^{\lambda}(x)$, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which also helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
+**(Bonus) Useful Lemma from Normal Map:** In comparison to the natural residual $F_{nat}^{\lambda}(x)$, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which also helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
 
 $$
 \begin{aligned}
