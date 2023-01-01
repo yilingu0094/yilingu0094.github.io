@@ -122,7 +122,7 @@ $$
 \tag{13}
 $$
 
-where the natural residual is constrained in certain algorithms when $x=\textrm{prox}_{\lambda \varphi} (z)$
+where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured after $k$ iterations under $F_{nor}^{\lambda}(z)\leq \frac{\epsilon}{\lambda}$, when $x=\textrm{prox}_{\lambda \varphi} (z)$.
 
 
 
