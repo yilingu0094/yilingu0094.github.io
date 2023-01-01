@@ -97,7 +97,7 @@ $$
 
 where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>. Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\\{x^{k}\\}_k$ is convergent.
 
-**(Bonus) Useful Lemma from Normal Map:** In comparison to the natural residual $F_{nat}^{\lambda}(x)$, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which also helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
+**(Bonus) Useful Lemma from Normal Map:** In comparison to the natural residual $F_{nat}^{\lambda}(x)$, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a <span style="color:DarkGoldenRod">tighter</span> merit (gap) function in the convergence analysis for nonconvex cases, which also helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
 
 $$
 \begin{aligned}
@@ -109,7 +109,7 @@ $$
 \tag{13}
 $$
 
-where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured after $k$ iterations under $ \lambda F_{nor}^{\lambda}(z)\leq \epsilon$, when $x=\textrm{prox}_{\lambda \varphi} (z)$.
+where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured under $ \lambda F_{nor}^{\lambda}(z)\leq \epsilon$ after $k$ iterations, when $x=\textrm{prox}_{\lambda \varphi} (z)$.
 
 **Our Contribution:** The main contributions of this research project can be summarized as follows.
 
