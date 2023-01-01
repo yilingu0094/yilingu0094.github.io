@@ -97,6 +97,20 @@ $$
 
 where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>. Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\\{x^{k}\\}_k$ is convergent.
 
+**(Bonus) Useful Lemma:** In comparison to the natural residual $F_{nat}^{\lambda}(x)$, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which also helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
+
+$$
+\begin{aligned}
+
+||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||,\\
+&\leq ||z-x+\lambda \nabla f(x)||, \ \ \  \ \color{DarkGoldenRod}{\textrm{(Non-expansiveness)}}\\
+& = \lambda ||F_{nor}^{\lambda}(z)||,
+\end{aligned}
+\tag{13}
+$$
+
+where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured after $k$ iterations under $ \lambda F_{nor}^{\lambda}(z)\leq \epsilon$, when $x=\textrm{prox}_{\lambda \varphi} (z)$.
+
 **Our Contribution:** The main contributions of this research project can be summarized as follows.
 
 1. <span style="color:DarkGoldenRod">First</span> stochastic algorithm to resolve the <span style="color:DarkGoldenRod">biasedness</span> of stochastic methods in <span style="color:DarkGoldenRod">nonsmooth</span> or constrained case.
