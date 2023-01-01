@@ -115,8 +115,7 @@ where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</s
 $$
 \begin{align}
 ||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||\\
-&\leq \limits^{\textrm{Non-expansiveness}} ||z-x+\lambda \nabla f(x)||\\
-& = \lambda ||F_{nor}^{\lambda}(z)||
+
 \end{align}
 $$
 
