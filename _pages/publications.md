@@ -117,6 +117,7 @@ $$
 
 ||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||\\
 &\leq ||z-x+\lambda \nabla f(x)||\\
+& = \lambda ||F_{nor}^{\lambda}(z)||
 \end{align}
 $$
 
