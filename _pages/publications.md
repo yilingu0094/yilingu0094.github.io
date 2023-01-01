@@ -81,7 +81,7 @@ $$
 \end{align}
 $$
 
-Given the proposed Normal Map-based SGDA Algorithm, a <span style="color:DarkGoldenRod">convergent</span> and <span style="color:DarkGoldenRod">optimistic</span> version can also be formulated by replacing $g^k$ in $(9)$ with $g^{k+1}$ approximated by $(1+\frac{\alpha}{\beta})g^{k}+\frac{\alpha}{\beta}g^{k-1}$ (or a Normal Map-based <span style="color:DarkGoldenRod">Extragradient</span> Algorithm by replacing $g^k$ with $g^{k+\frac{1}{2}}$ approximated by $g^{k-\frac{1}{2}}-g^{k}+g^{k-1}$). With diminishing step sizes $\color{DarkGoldenRod}{\alpha_{k} = O(1/k^{\gamma})}$, we have <span style="color:DarkGoldenRod">strong convergence</span> $\lim \limits_{k\to \infty}x^{k} = x^{*} \in \textrm{crit}(\psi)$ almost surely, where
+Given the proposed Normal Map-based SGDA Algorithm, a <span style="color:DarkGoldenRod">convergent</span> and <span style="color:DarkGoldenRod">optimistic</span> version can also be formulated by replacing $g^k$ in $(9)$ with $g^{k+1}$ approximated by $(1+\frac{\alpha}{\beta})g^{k}+\frac{\alpha}{\beta}g^{k-1}$ (or a Normal Map-based <span style="color:DarkGoldenRod">Extragradient</span> Algorithm by replacing $g^k$ with $g^{k+\frac{1}{2}}$ approximated by $g^{k-\frac{1}{2}}-g^{k}+g^{k-1}$). With diminishing step sizes $\color{DarkGoldenRod}{\alpha_{k} = O(1/k^{\gamma})}$, we obtain <span style="color:DarkGoldenRod">strong convergence</span> $\lim \limits_{k\to \infty}x^{k} = x^{*} \in \textrm{crit}(\psi)$ almost surely in <span style="color:DarkGoldenRod">nonconvex-nonconcave case</span>, and we have
 
 $$
 ||x^{k}-x^{*}||=
@@ -92,8 +92,12 @@ $$
 
 \end{aligned}
 \end{matrix}\right.
-\tag{9}
+\tag{12}
 $$
+
+where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>.
+
+
 
 
 
