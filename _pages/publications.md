@@ -100,7 +100,13 @@ where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</s
 
 Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\{x^{k}\}_k$ is convergent.
 
+**Our Contribution:**
 
+1. <span style="color:DarkGoldenRod">First</span> stochastic algorithm to resolve the <span style="color:DarkGoldenRod">biasedness</span> of stochastic methods in <span style="color:DarkGoldenRod">nonsmooth</span> or constrained case.
+
+2. <span style="color:DarkGoldenRod">First</span> strong convergence result for stochastic proximal-type algorithm in <span style="color:DarkGoldenRod">nonconvex-nonconcave</span> case.
+
+3. The rate $O(1/\sqrt{k})$ matches that of OGDA in <span style="color:DarkGoldenRod">strongly convex</span> setting. Additionally, the rate $O(1/\sqrt{k})$ is <span style="color:DarkGoldenRod">tight</span>.
 
 
 finding algorithms that achieve certain (optimal) convergence rate in generalized inclusion or VI problem allows us to obtain the same convergence rate for a specific family of structured nonconvex-nonconcave minmax optimization problem.
