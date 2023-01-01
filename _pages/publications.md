@@ -110,7 +110,15 @@ where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</s
 + **Yilin Gu**, Hanfeng Zeng (2023). Normal Map-Based Proximal Extragradient Methods for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 + Junwen Qiu, **Yilin Gu**, Andre Milzarek (2023). A Revised Foward-Backward-Foward Method for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 
-**(Bonus) Useful Lemma:** In comparison to the natural residual, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
+**(Bonus) Useful Lemma:** In comparison to the natural residual $F_{nat}^{\lambda}(x)$, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which also helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
+
+$$
+\begin{align}
+||F_{nat}^{\lambda}(x)|| &= ||\textrm{prox}_{\lambda \varphi} (z) - \textrm{prox}_{\lambda \varphi}(x-\lambda \nabla f(x))||\\
+&\leq \limits^{\textrm{Non-expansiveness}} ||z-x+\lambda \nabla f(x)||
+& = \lambda ||F_{nor}^{\lambda}(z)||
+\end{align}
+$$
 
 
 The normal map $F_{nor}^{\lambda}(z)$ helps to convert the expectation of natural residual $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms, and it can be used as a tighter merit (gap) function in convergence analysis for nonconvex case compared to the natural residual.
