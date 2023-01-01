@@ -97,7 +97,7 @@ $$
 
 where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</span>. Similar strong convergence results can also be obtained and proved in the Normal Map-based Extragradient Algorithm in accordance with the Supermartingale Convergence Theorem and KL inequality, whereby we show that $\\{x^{k}\\}_k$ is convergent.
 
-**Our Contribution:** The main contributions of this research project can be summarized as follows,
+**Our Contribution:** The main contributions of this research project can be summarized as follows.
 
 1. <span style="color:DarkGoldenRod">First</span> stochastic algorithm to resolve the <span style="color:DarkGoldenRod">biasedness</span> of stochastic methods in <span style="color:DarkGoldenRod">nonsmooth</span> or constrained case.
 
@@ -105,12 +105,17 @@ where $\theta \in [0,1)$ is the <span style="color:DarkGoldenRod">KL exponent</s
 
 3. The rate $O(1/\sqrt{k})$ matches that of OGDA in <span style="color:DarkGoldenRod">strongly convex</span> setting. Additionally, the rate $O(1/\sqrt{k})$ is <span style="color:DarkGoldenRod">tight</span>.
 
-**Current Process:** The paper is quite long and technical, so we still need time for checking some technical details including proofs and conduct more experimemts. Articles are expected to submit into some top journals or conferences in 2023 Fall.
+**Current Process:** The paper is quite long and technical, so we still need time to check some technical details including proofs and conduct more experimemts. Articles are expected to submit into some top journals or conferences in 2023 Fall.
 
 + **Yilin Gu**, Hanfeng Zeng (2023). Normal Map-Based Proximal Extragradient Methods for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 + Junwen Qiu, **Yilin Gu**, Andre Milzarek (2023). A Revised Foward-Backward-Foward Method for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 
-**(Bonus) Useful Lemma:** 
+**(Bonus) Useful Lemma:** In comparison to the natural residual, the normal map $F_{nor}^{\lambda}(z)$ can be employed as a tighter merit (gap) function in the convergence analysis for nonconvex cases, which helps to convert the expectation of natural residual  $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms.
+
+
+The normal map $F_{nor}^{\lambda}(z)$ helps to convert the expectation of natural residual $\mathbb{E}[F_{nat}^{\lambda}(x)]$ into a better-solved equation when analyzing stochastic algorithms, and it can be used as a tighter merit (gap) function in convergence analysis for nonconvex case compared to the natural residual.
+
+.
 
 
 finding algorithms that achieve certain (optimal) convergence rate in generalized inclusion or VI problem allows us to obtain the same convergence rate for a specific family of structured nonconvex-nonconcave minmax optimization problem.
