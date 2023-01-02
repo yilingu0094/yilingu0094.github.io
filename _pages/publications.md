@@ -127,7 +127,7 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 ## 2. Adaptive Multiple Vector Quantization Classification (Master Thesis)
 
-**Background:** Learning Vector Quantization (LVQ) is a family of algorithms for statistical pattern classification, which aims at learning a prototype (codebook vector) for each class to represent class regions. Despite the simpleness and efficiency, the prototypes of LVQ-type algorithms work well in hyper-spherical classes. However, current LVQ with its variants often suffer from poor performance when training nonconvex pattern classes, which obviously cannot be represented by a single prototype thus hard to capture the nonconvex pattern in a specific class. Also, because of the non-convexity of these models, LVQ-type algorithms encounter difficulties in finding global optimal solutions and further suffering bad convergence. 
+**Background:** Learning Vector Quantization (LVQ) is a family of algorithms for statistical pattern classification, which aims at learning a prototype for each class to represent class regions. Despite the simpleness and efficiency, the prototypes of LVQ-type algorithms work well in hyper-spherical classes. However, current LVQ with its variants often suffer from poor performance when training nonconvex pattern classes, which obviously cannot be represented by a single prototype thus hard to capture the nonconvex pattern in a specific class. Also, because of the non-convexity of these models, LVQ-type algorithms encounter difficulties in finding global optimal solutions and further suffering bad convergence. 
 
 <div align=center><img src=" /images/01.png " width="85%"></div>
 
