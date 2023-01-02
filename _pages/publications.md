@@ -135,5 +135,6 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 The goal of this research is to modify Learning Vector Quantization (LVQ) algorithm well known in prototype classification and provide our new algorithm Adaptive Multiple Vector Quantization (AMVQ) to better capture the nonconvex and sparse pattern of classes in supervised classification problem, with improved interpretation, convergence, and simplicity, particularly for production-related data.
 
+**Adaptive Multiple Vector Quantization：** In order to capture the nonconvex and sparse pattern of classes, we propose a new vector quantization model with multiple prototypes, where multiple prototypes in each class help to capture the class pattern. Nevertheless, too many prototypes will increase the complexity of the model and reduce robustness during training and prediction process. Therefore, our goal is to employ the fewest number of prototypes necessary to cover all of the sample points in a class inside the prototypes' decision domains. In order to achieve this goal, we have two main objectives: (1) maximizing the number of points covered by each prototype, (2) minimizing the radius of hyperspherical decision domain when maximizing the number of covered points.
 
 
