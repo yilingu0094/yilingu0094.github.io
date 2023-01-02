@@ -131,7 +131,7 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 <div align=center><img src=" /images/00.png " width="75%"></div>
 
-\\
+
 
 <center>Figure 1: Differences in single and multiple prototype</center>
 
