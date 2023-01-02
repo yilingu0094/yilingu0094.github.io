@@ -130,7 +130,9 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 **Background:** Learning Vector Quantization (LVQ) is a family of algorithms for statistical pattern classification, which aims at learning a prototype (codebook vector) for each class to represent class regions. Despite the simpleness and efficiency, the prototypes of LVQ-type algorithms work well in hyper-spherical classes. However, current LVQ with its variants often suffer from poor performance when training nonconvex pattern classes, which obviously cannot be represented by a single prototype thus hard to capture the nonconvex pattern in a specific class. Also, because of the inherent non-convexity of these models, LVQ-type algorithms encounter the difficulties in finding global optimal solutions and further suffering bad convergence. 
 ![Editing a markdown file for a talk](/images/00.png)
 
-<div align=center><img src=" /images/00.png " width="75%">
+<div align=center><img src=" /images/00.png " width="75%"></div>
+
+    
 
 The goal of this research is to modify Learning Vector Quantization (LVQ) algorithm well known in prototype classification and provide our new algorithm Adaptive Multiple Vector Quantization (AMVQ) to better capture the nonconvex pattern and achieve better convergence in classification problem.
 
