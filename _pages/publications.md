@@ -131,10 +131,10 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 <div align=center><img src=" /images/01.png " width="85%"></div>
 
-<center>Figure 1: Differences in single and multiple prototype</center>
+<center>Figure 1: Differences between single and multiple prototypes</center>
 
-The goal of this research is to modify Learning Vector Quantization (LVQ) algorithm well known in prototype classification and provide our new algorithm Adaptive Multiple Vector Quantization (AMVQ) to better capture the nonconvex and sparse pattern of classes in supervised classification problem, with improved interpretation, convergence, and simplicity, particularly for production-related data.
+The goal of this research is to modify Learning Vector Quantization (LVQ) algorithm well known in prototype classification and provide our new algorithm Adaptive Multiple Vector Quantization (AMVQ) to better capture the nonconvex and sparse pattern of classes with improved interpretation, convergence, and simplicity, particularly for production-related data.
 
-**Adaptive Multiple Vector Quantization：** In order to capture the nonconvex and sparse pattern of classes, we propose a new vector quantization model with multiple prototypes, where multiple prototypes in each class help to capture the class pattern. Nevertheless, too many prototypes will increase the complexity of the model and reduce robustness during training and prediction process. Therefore, our goal is to employ the fewest number of prototypes necessary to cover all of the sample points in a class inside the prototypes' decision domains. In order to achieve this goal, we have two main objectives: (1) maximizing the number of points covered by each prototype, (2) minimizing the radius of hyperspherical decision domain when maximizing the number of covered points.
+**Adaptive Multiple Vector Quantization：** In order to capture the nonconvex and sparse pattern of classes, we propose an adaptive vector quantization model with multiple prototypes, which . Nevertheless, too many prototypes will increase the complexity of the model and reduce robustness during training and prediction process. Therefore, our goal is to employ the fewest number of prototypes necessary to cover all of the sample points in a class inside the prototypes' decision domains. In order to achieve this goal, we have two main objectives: (1) maximizing the number of points covered by each prototype, (2) minimizing the radius of hyperspherical decision domain when maximizing the number of covered points.
 
 
