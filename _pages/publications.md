@@ -138,12 +138,13 @@ The goal of this research is to modify Learning Vector Quantization (LVQ) algori
 **Adaptive Multiple Vector Quantization：** In order to capture the <span style="color:DarkGoldenRod">nonconvex</span> and <span style="color:DarkGoldenRod">sparse</span> pattern of classes, we provide a <span style="color:DarkGoldenRod">multiple-prototype</span> adaptive vector quantization model that sample points in each class can be fully covered by prototypes' decision domains. Nevertheless, having too many prototypes will increase the complexity of the model and reduce robustness throughout the training and prediction process. Therefore, our task is to employ the <span style="color:DarkGoldenRod">fewest</span> number of prototypes necessary to cover all of the sample points in each class inside the prototypes' decision domains. Then, we write our task into an optimization problem,
 
 $$
-\min_{A^k}\ f(A^k) = \sum_{i=1}^{n_k} (||x_i^k-A^k||-r_{A^k})
+\min_{A^k}\ f(A^k) = \sum_{i=1}^{m_k} ||x_i^k-A^k||-m_{k}\cdot r_{A^k}
 \tag{1}
 $$
 
-where $A^k$ is the prototype for class $k$, while $x_i^k$ and $n_k$ are the sample points and the number of sample points for class $k$, respectively. The $r_{A^k}$ is the radius for prototype $A^k$. The radius $r_{A^k}$ can be measured as: the distance between prototype $A^k$ and its closest sample points in other classes $-k$. So, the radius can be written as:
+where $A^k \in \mathbb{R}^n$ is the prototype for class $k$, while $x_i^k \in \mathbb{R}^n$ and $m_k \in \mathbb{R}$ are the sample points and the number of sample points for class $k$, respectively. The $r_{A^k}$ is the decision region radius of the prototype $A^k$. The radius $r_{A^k}$ can be measured as: the distance between prototype $A^k$ and its closest sample points in other classes $-k$. So, the radius can be written as:
 
 $$
 r_{A^k} = \min\{||x_1-A^k||,...,||x_{n_{-k}}-A^k||\}
+\tag{2}
 $$
