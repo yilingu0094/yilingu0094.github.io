@@ -149,6 +149,18 @@ r_{A^k} = \min\{||x_1^{-k}-A^k||_{\textrm{hub}},...,||x_{n_{-k}}^{-k}-A^k||_{\te
 \tag{2}
 $$
 
-Given the non-convexity of $(2)$, we linearize all the huber distances in $(2)$ 
+Due to the non-convexity of $(2)$, we linearize all the huber distances in $(2)$ to concavify $(2)$, which enables us to rewrite $(1)$ as a huber-type convex function,
+
+$$
+\min_{A^k}\ f(A^k)=
+\left\{\begin{matrix}
+\begin{aligned}
+&O(1/\sqrt{k}), \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \   \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \   \ \  \ \textrm{if}\  \theta \in [0,1/2],\\
+&O(1/k^{p}), p\in (0,1/2), \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \textrm{if}\  \theta \in (1/2,1),\\
+
+\end{aligned}
+\end{matrix}\right.
+\tag{12}
+$$
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
