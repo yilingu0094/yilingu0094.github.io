@@ -156,7 +156,7 @@ $$
 \left\{\begin{matrix}
 \begin{aligned}
 &\frac{1}{2\delta}||x_i^{-k}-A^{kp}||^{2}_{2}+\frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{kp} - \frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{k}, \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \   \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \   \ \  \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}\leq \delta,\\
-&||x_i^{-k}-A^{kp}||_{2}-\frac{1}{2}\delta+\frac{(x_i^{-k}-A^{kp})^\top A^{kp}}{||x_i^{-k}-A^{kp}||_{2}}, \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \textrm{if}\  \theta \in (1/2,1),\\
+&||x_i^{-k}-A^{kp}||_{2}-\frac{(A^{kp}-x_i^{-k})^\top A^{kp}}{||x_i^{-k}-A^{kp}||_{2}}-\frac{1}{2}\delta+(\frac{A^{kp}-x_i^{-k}}{||x_i^{-k}-A^{kp}||_{2}})^\top A^k, \ \ \ \ \ \ \ \ \   \ \  \ \   \   \ \  \textrm{if}\  \theta \in (1/2,1),\\
 
 \end{aligned}
 \end{matrix}\right.
