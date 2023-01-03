@@ -155,8 +155,8 @@ $$
 ||x_i^{-k}-A^k||_{\textrm{hub}} \approx
 \left\{\begin{matrix}
 \begin{aligned}
-&\overbrace{\frac{1}{2\delta}||x_i^{-k}-A^{kp}||^{2}_{2}+\frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{kp}}^{\color{DarkGoldenRod}{b_i}} - \frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{k}, \ \ \ \ \ \ \  \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}\leq \delta,\\
-&||x_i^{-k}-A^{kp}||_{2}-\frac{(A^{kp}-x_i^{-k})^\top A^{kp}}{||x_i^{-k}-A^{kp}||_{2}}-\frac{1}{2}\delta+(\frac{A^{kp}-x_i^{-k}}{||x_i^{-k}-A^{kp}||_{2}})^\top A^k, \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}> \delta,\\
+&\overbrace{\frac{1}{2\delta}||x_i^{-k}-A^{kp}||^{2}_{2}+\frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{kp}}^{\color{DarkGoldenRod}{b_i}} \overbrace{ - \frac{1}{\delta}(x_i^{-k}-A^{kp})^\top}^{\color{DarkGoldenRod}{w_i}} A^{k}, \ \ \ \ \ \ \  \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}\leq \delta,\\
+&\overbrace{||x_i^{-k}-A^{kp}||_{2}-\frac{(A^{kp}-x_i^{-k})^\top A^{kp}}{||x_i^{-k}-A^{kp}||_{2}}-\frac{1}{2}\delta}{\color{DarkGoldenRod}{b_i}}+\overbrace{(\frac{A^{kp}-x_i^{-k}}{||x_i^{-k}-A^{kp}||_{2}})^\top}{\color{DarkGoldenRod}{w_i}} A^k, \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}> \delta,\\
 
 \end{aligned}
 \end{matrix}\right.
