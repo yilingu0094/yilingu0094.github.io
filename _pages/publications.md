@@ -138,15 +138,15 @@ The goal of this research is to modify Learning Vector Quantization (LVQ) algori
 **Adaptive Multiple Vector Quantization：** In order to capture the <span style="color:DarkGoldenRod">nonconvex</span> and <span style="color:DarkGoldenRod">sparse</span> pattern of classes, we provide a <span style="color:DarkGoldenRod">multiple-prototype</span> adaptive vector quantization model that sample points in each class can be fully covered by prototypes' decision domains. Nevertheless, having too many prototypes will increase the complexity of the model and reduce robustness throughout the training and prediction process. Therefore, our task is to employ the <span style="color:DarkGoldenRod">fewest</span> number of prototypes necessary to cover all of the sample points in each class inside the prototypes' decision domains. Then, we write our task into an optimization problem,
 
 $$
-\min_{A^k}\ f(A^k) = \sum_{i=1}^{m_k} ||x_i^k-A^k||-m_{k}\cdot r_{A^k}
+\min_{A^k}\ f(A^k) = \sum_{i=1}^{m_k} ||x_i^k-A^k||-m_{k}\cdot r_{A^k},
 \tag{1}
 $$
 
 where $A^k \in \mathbb{R}^n$ is the prototype for class $k$, while $x_i^k \in \mathbb{R}^n$ and $m_k \in \mathbb{R}$ are the sample points and the number of sample points for class $k$, respectively. The $r_{A^k}\in \mathbb{R}$ is the decision region radius of the prototype $A^k$, which can be measured as the distance between prototype $A^k$ and its closest sample points in other classes $-k$,
 
 $$
-r_{A^k} = \min\{||x_1-A^k||,...,||x_{n_{-k}}-A^k||\}
+r_{A^k} = \min\{||x_1-A^k||,...,||x_{n_{-k}}-A^k||\}.
 \tag{2}
 $$
 
-Throughout the optimization in (1), if we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$, we eliminiate all the sample points covered by $A_j^k$ and use the rest of the sample points to find the next optimal prototype $A_{j+1}^k$. So, we can obtain the prototype's position and its radius through solving the following optimization problem:
+When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout the optimization in $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$ in $(1)$, until all the points (or a certain rate of the points) in class $k$ have been covered. However, the objective in $(1)$ is a nonconvex function that prohibit us to find a global optimal solution.  
