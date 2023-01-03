@@ -148,3 +148,5 @@ $$
 r_{A^k} = \min\{||x_1-A^k||,...,||x_{n_{-k}}-A^k||\}
 \tag{2}
 $$
+
+Throughout the optimization in (1), if we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$, we eliminiate all the sample points covered by $A_j^k$ and use the rest of the sample points to find the next optimal prototype $A_{j+1}^k$. So, we can obtain the prototype's position and its radius through solving the following optimization problem:
