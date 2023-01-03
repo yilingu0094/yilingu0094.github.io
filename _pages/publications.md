@@ -28,7 +28,7 @@ $$
 \min\limits_x \max\limits_{y}\ \  \psi(x,y) = \mathbb{E}_{\delta\sim \Delta}[f(x,y;\delta)]+\varphi(x)-h(y),
 $$
 
-where $f: \mathbb{R}^n \rightarrow \mathbb{R}$ is Lipschitz smooth and not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ and $h: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ are convex in $x$ and $y$, respectively. The proximity operator of $\varphi$ at $x$ and $h$ at $y$ can be expressed as, 
+where $f: \mathbb{R}^{2n} \rightarrow \mathbb{R}$ is Lipschitz smooth and not (necessarily) convex-concave in $z=(x,y)$, while $\varphi: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ and $h: \mathbb{R}^n \rightarrow \mathbb{\bar{R}}$ are convex in $x$ and $y$, respectively. The proximity operator of $\varphi$ at $x$ and $h$ at $y$ can be expressed as, 
 
 $$
 \begin{align}
@@ -139,6 +139,7 @@ The goal of this research is to modify Learning Vector Quantization (LVQ) algori
 
 $$
 \min_{A^k}\ f(A^k) = \sum_{i=1}^{n_k} (||x_i^k-A^k||-r_{A^k})
+\tag{1}
 $$
 
 where $A^k$ is the prototype for class $k$, while $x_i^k$ and $n_k$ are the sample points and the number of sample points for class $k$, respectively. The $r_{A^k}$ is the radius for prototype $A^k$. The radius $r_{A^k}$ can be measured as: the distance between prototype $A^k$ and its closest sample points in other classes $-k$. So, the radius can be written as:
