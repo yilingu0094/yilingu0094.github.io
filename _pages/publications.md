@@ -142,7 +142,7 @@ $$
 \tag{1}
 $$
 
-where $A^k \in \mathbb{R}^n$ is the prototype for class $k$, while $x_i^k \in \mathbb{R}^n$ and $m_k \in \mathbb{R}$ are the sample points and the number of sample points for class $k$, respectively. The $r_{A^k}$ is the decision region radius of the prototype $A^k$. The radius $r_{A^k}$ can be measured as: the distance between prototype $A^k$ and its closest sample points in other classes $-k$. So, the radius can be written as:
+where $A^k \in \mathbb{R}^n$ is the prototype for class $k$, while $x_i^k \in \mathbb{R}^n$ and $m_k \in \mathbb{R}$ are the sample points and the number of sample points for class $k$, respectively. The $r_{A^k}\in \mathbb{R}$ is the decision region radius of the prototype $A^k$, which can be measured as the distance between prototype $A^k$ and its closest sample points in other classes $-k$,
 
 $$
 r_{A^k} = \min\{||x_1-A^k||,...,||x_{n_{-k}}-A^k||\}
