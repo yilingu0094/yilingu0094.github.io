@@ -149,18 +149,23 @@ r_{A^k} = \min\{||x_1^{-k}-A^k||_{\textrm{hub}},...,||x_{n_{-k}}^{-k}-A^k||_{\te
 \tag{2}
 $$
 
-Due to the non-convexity of $(2)$, we linearize all the huber distances in $(2)$ to concavify $(2)$, which enables us to rewrite $(1)$ as a huber-type convex function,
+Due to the <span style="color:DarkGoldenRod">non-convexity</span> of $(2)$, we <span style="color:DarkGoldenRod">linearize</span> all the huber distances in $(2)$ to concavify $(2)$, 
 
 $$
-\min_{A^k}\ f(A^k)=
+||x_i^{-k}-A^k||_{\textrm{hub}} \approx
 \left\{\begin{matrix}
 \begin{aligned}
-&\frac{1}{2\delta}||x_i^{-k}-A^{kp}||^{2}_{2}+\frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{kp} - \frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{k}, \ \ \ \ \ \ \  \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}\leq \delta,\\
+&\overbracket{\frac{1}{2\delta}||x_i^{-k}-A^{kp}||^{2}_{2}+\frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{kp}}{\color{DarkGoldenRod}{b_i}} - \frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{k}, \ \ \ \ \ \ \  \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}\leq \delta,\\
 &||x_i^{-k}-A^{kp}||_{2}-\frac{(A^{kp}-x_i^{-k})^\top A^{kp}}{||x_i^{-k}-A^{kp}||_{2}}-\frac{1}{2}\delta+(\frac{A^{kp}-x_i^{-k}}{||x_i^{-k}-A^{kp}||_{2}})^\top A^k, \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}> \delta,\\
 
 \end{aligned}
 \end{matrix}\right.
 \tag{3}
 $$
+
+
+
+which enables us to rewrite $(1)$ as a huber-type convex function,
+
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
