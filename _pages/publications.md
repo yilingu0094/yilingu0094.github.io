@@ -131,7 +131,7 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 <div align=center><img src=" /images/01.png " width="85%"></div>
 
-<center>Figure 1: Differences between single and multiple prototypes</center>
+<center>Figure 1: Single-prototype LVQ model can't capture nonconvex pattern</center>
 
 The goal of this research is to modify Learning Vector Quantization (LVQ) algorithm well known in prototype classification and provide our new algorithm Adaptive Multiple Vector Quantization (AMVQ) to better capture the nonconvex and sparse pattern of classes with improved interpretation, convergence, and simplicity, particularly for production-related data.
 
