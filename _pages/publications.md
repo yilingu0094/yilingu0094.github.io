@@ -135,9 +135,9 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 The goal of this research is to modify Learning Vector Quantization (LVQ) algorithm well known in prototype classification and provide our new algorithm Adaptive Multiple Vector Quantization (AMVQ) to better capture the nonconvex and sparse pattern of classes with improved interpretation, convergence, and simplicity, particularly for production-related data.
 
-**Adaptive Multiple Vector Quantization：** In order to capture the <span style="color:DarkGoldenRod">nonconvex</span> and <span style="color:DarkGoldenRod">sparse</span> pattern of classes, we provide a <span style="color:DarkGoldenRod">multiple-prototype</span> adaptive vector quantization model that sample points in each class can be fully covered by prototypes' decision domains. Nevertheless, having too many prototypes will increase the complexity of the model and reduce robustness throughout the training and prediction process. Therefore, our goal is to employ the <span style="color:DarkGoldenRod">fewest</span> number of prototypes necessary to cover all of the sample points in each class inside the prototypes' decision domains.
+**Adaptive Multiple Vector Quantization：** In order to capture the <span style="color:DarkGoldenRod">nonconvex</span> and <span style="color:DarkGoldenRod">sparse</span> pattern of classes, we provide a <span style="color:DarkGoldenRod">multiple-prototype</span> adaptive vector quantization model that sample points in each class can be fully covered by prototypes' decision domains. Nevertheless, having too many prototypes will increase the complexity of the model and reduce robustness throughout the training and prediction process. Therefore, our task is to employ the <span style="color:DarkGoldenRod">fewest</span> number of prototypes necessary to cover all of the sample points in each class inside the prototypes' decision domains.
 
-In AMVQ problem, we rewrite our objective function and add a few conditions. Our current objective function can be written as:
+In AMVQ problem, we can write our task as an optimization problem, where our objective function can be written as,
 
 $$
 f(A^k) = \sum_{i=1}^{n_k} (||x_i^k-A^k||-r_{A^k})
