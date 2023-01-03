@@ -149,4 +149,4 @@ r_{A^k} = \min\{||x_1-A^k||,...,||x_{n_{-k}}-A^k||\}.
 \tag{2}
 $$
 
-When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout the optimization in $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$ in $(1)$, until all the points (or a certain rate of the points) in class $k$ have been covered. However, the objective in $(1)$ is a nonconvex function that prohibit us to find a global optimal solution.  
+When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
