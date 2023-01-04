@@ -178,6 +178,6 @@ $$
 $$
 
 
-where the epigraph variable $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, which can be solved for $t^{\star}$ by bisection method with the interval $[\min_i(-m\_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-\frac{1}{m_{-k}})]$.
+where the epigraph variable $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, which can be solved for $t^{\star}$ by bisection method with the interval $[\min_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k}-\frac{1}{m\_{-k}})]$.
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
