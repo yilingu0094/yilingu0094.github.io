@@ -181,7 +181,7 @@ To solve $(5)$, we first write the equivalent problem in epigraph form,
 
 $$
 \begin{aligned}
-& \min t+\frac{1}{2\lambda}||A^k-v||^2
+& \min t+\frac{1}{2\lambda}||A^k-v||^2\\
 & \textrm{s.t.} -m_{k}(w)
 
 \end{aligned}
