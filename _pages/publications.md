@@ -149,7 +149,7 @@ r_{A^k} = \min\{||x_1^{-k}-A^k||_{\textrm{hub}},...,||x_{n_{-k}}^{-k}-A^k||_{\te
 \tag{2}
 $$
 
-Due to the <span style="color:DarkGoldenRod">non-convexity</span> of $(2)$, we <span style="color:DarkGoldenRod">linearize</span> all the huber distances in $(2)$ to concavify $(2)$, 
+Due to the <span style="color:DarkGoldenRod">non-convexity</span> of $(2)$, we <span style="color:DarkGoldenRod">linearize</span> all the huber distances in $(2)$ to <span style="color:DarkGoldenRod">concavify</span> $(2)$, 
 
 $$
 ||x_i^{-k}-A^k||_{\textrm{hub}} \approx
