@@ -173,7 +173,7 @@ $$
 where $g: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) smooth but $h: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) <span style="color:DarkGoldenRod">nonsmooth</span> in $A^k$. Therefore, we apply the proximal method to solve the nonsmooth problem $(4)$ and the proximity operator of $h$ at $A^k$ can be written as,
 
 $$
-\textrm{prox}_{\lambda h}(A^k) := \textrm{arg}\min_{v\in \mathbb{R}^n} \{h(v)+ \frac{1}{2\lambda}||A^k-v||^2 \}= w^{-1}\cdot \max\{-m_{k}b-t^{\star}\textbf{1}, m_{k}w^{\top}A^k\}.
+\textrm{prox}_{\lambda h}(A^k) := \textrm{arg}\min_{v\in \mathbb{R}^n} \{h(v)+ \frac{1}{2\lambda}||A^k-v||^2 \}= w^{-1}\cdot \max\{-m_{k}b-t^{\star}\textbf{1}, m_{k}w^{\top}A^k\},
 \tag{5}
 $$
 
