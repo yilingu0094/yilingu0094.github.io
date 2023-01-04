@@ -177,7 +177,7 @@ $$
 \tag{5}
 $$
 
-To solve $(5)$, we first write an equivalent problem in the epigraph form,
+In order to solve $(5)$, we first write an equivalent problem in the epigraph form,
 
 $$
 \begin{aligned}
