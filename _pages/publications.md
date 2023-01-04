@@ -196,10 +196,10 @@ $$
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(6)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. Simultaneously, we employ the following <span style="color:DarkGoldenRod">trust region-type strategy</span> to force our iterations to stop with the <span style="color:DarkGoldenRod">fewest</span> possible prototypes,
 
 $$
-\begin{aligned}
+\begin{align}
 &\frac{\Gamma_{p-1}-\Gamma_{p}}{\Delta r_p} \leq \eta_1 \cdot \min\{\frac{\Gamma_{p-2}-\Gamma_{p-1}}{\Delta r_{p-1}},...,\frac{\Gamma_{0}-\Gamma_{1}}{\Delta r_1}\},\ \eta_1 \in (0,1), \tag{7}\\
 &\frac{\Gamma_{p-1}-\Gamma_{p}}{\Delta r_p} \geq \eta_2 \cdot \max\{\frac{\Gamma_{p-2}-\Gamma_{p-1}}{\Delta r_{p-1}},...,\frac{\Gamma_{0}-\Gamma_{1}}{\Delta r_1}\},\ \eta_2 \in (1,+\infty), \tag{8}
-\end{aligned}
+\end{align}
 $$
 
 With respect to the above two conditions, when the iteration comes to satisfy Inequality $(7)$, it means that we'll obtain few marginal covered points when continue increasing the radius a lot, which also prevents us from making the radius too large (specifically, when $\Gamma_{t-1}-\Gamma_{t}<0$, the Inequality $(7)$ will also satisfied, so it can also prevent the covered points decreasing problem); when the iteration satisfies Inequality $(8)$, it means that the sample points covered by the prototype shift from a sparse region to a condense region, so that this condition can distinguish the sparsity of samples with prototypes. Specifically, if $\Gamma_{1}-\Gamma_{0}=0$, it means that the initial position of prototype can't help to cover sample points, which shows an inappropriate initial point of prototype.
