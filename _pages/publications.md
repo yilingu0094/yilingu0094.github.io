@@ -173,11 +173,11 @@ $$
 where $g: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) smooth but $h: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) <span style="color:DarkGoldenRod">nonsmooth</span> in $A^k$. Therefore, we apply the accelerated proximal gradient method to solve the nonsmooth problem $(4)$ and the proximity operator of $h$ at $A^k$ can be written as,
 
 $$
-\textrm{prox}_{\lambda h}(A^k) := \textrm{arg}\min_{v\in \mathbb{R}^n} \{h(v)+ \frac{1}{2\lambda}||A^k-v||^2 \}= w^{-1}\cdot \max\{-mb-t^{\star}\textbf{1}, mw^{\top}A^k\}.
+\textrm{prox}_{\lambda h}(A^k) := \textrm{arg}\min_{v\in \mathbb{R}^n} \{h(v)+ \frac{1}{2\lambda}||A^k-v||^2 \}= w^{-1}\cdot \max\{-m_{k}b-t^{\star}\textbf{1}, m_{k}w^{\top}A^k\}.
 \tag{5}
 $$
 
 
-where the epigraph variable $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{}$
+where the epigraph variable $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}A^{k}-t^{\star})_{+}=1$
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
