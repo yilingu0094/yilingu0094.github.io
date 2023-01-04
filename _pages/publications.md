@@ -178,7 +178,7 @@ $$
 $$
 
 
-with variables $w \in \mathbb{R}^{m_{-k}}$, $b \in \mathbb{R}^{m_{-k}}$, and $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, where $t^{\star}$ can be solved by bisection method with the interval $[\min_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k}-\frac{1}{m\_{-k}}),\max_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k})]$. Thus, we resolve the original problem $(4)$ with the following accelerated proximal gradient method,
+with variables $w \in \mathbb{R}^{m_{-k}}$, $b \in \mathbb{R}^{m_{-k}}$, and $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, where $t^{\star}$ can be solved by bisection method with the interval $[\min_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k}-\frac{1}{m\_{-k}}),\max_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k})]$. Thus, we resolve the original problem $(4)$ with the following <span style="color:DarkGoldenRod">accelerated proximal gradient method</span>,
 
 $$
 \textrm{Loop:}
@@ -193,4 +193,4 @@ $$
 \tag{6}
 $$
 
-When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
+When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(6)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
