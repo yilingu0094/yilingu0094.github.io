@@ -173,7 +173,7 @@ $$
 where $g: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) smooth but $h: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) <span style="color:DarkGoldenRod">nonsmooth</span> in $A^k$. Therefore, we apply the accelerated proximal gradient method to solve the nonsmooth problem $(4)$ and the proximity operator of $h$ at $A^k$ can be written as,
 
 $$
-\textrm{prox}_{\alpha_{k}\varphi}(x) := \textrm{arg}\min_{p\in \mathbb{R}^n} \{\varphi(p)+ \frac{1}{2\alpha_k}||x-p||^2 \},
+\textrm{prox}_{\lambda h}(A^k) := \textrm{arg}\min_{u\in \mathbb{R}^n} \{\varphi(u)+ \frac{1}{2\lambda}||A^k-u||^2 \},
 \tag{5}
 $$
 
