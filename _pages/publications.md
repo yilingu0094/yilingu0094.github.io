@@ -180,7 +180,7 @@ $$
 With KKT conditions, the proximity operator in $(5)$ can be solved in an epigraph-form equivalent problem, 
 
 $$
-\textrm{prox}_{\lambda h}(A^k) = w^{-1}\cdot \max\{-mb-t^{\ast}\textbf{1}, mw^{\top}A^k\}
+\textrm{prox}_{\lambda h}(A^k) = w^{-1}\cdot \max\{-mb-t^{\star}\textbf{1}, mw^{\top}A^k\}
 \tag{6}
 $$
 
