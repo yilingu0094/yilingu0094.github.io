@@ -163,12 +163,13 @@ $$
 \tag{3}
 $$
 
-where $A^{kp}\in \mathbb{R}^n$ is the value of $A^{k}$ in the $p^{\textrm{th}}$ iteration. With linearized huber distance in (3), the concavified $(2)$ enables us to rewrite $(1)$ as the minimization of a convex function,
+where $A^{kp}\in \mathbb{R}^n$ is the value of $A^{k}$ in the $p^{\textrm{th}}$ iteration. With linearized huber distance in $(3)$, the concavified $(2)$ enables us to rewrite $(1)$ as the minimization of a <span style="color:DarkGoldenRod">convex</span> function,
 
 $$
 \min_{A^k}\ f(A^k) = \overbrace{\sum_{i=1}^{m_k} ||x_i^k-A^k||_{\textrm{hub}}}^{\color{DarkGoldenRod}{g(A^k)}}\overbrace{-m_{k}\cdot \min\{\color{DarkGoldenRod}{w_{1}}A^{k}+\color{DarkGoldenRod}{b_{1}},...,\color{DarkGoldenRod}{w_{m_{-k}}}A^{k}+\color{DarkGoldenRod}{b_{m_{-k}}}\}}^{\color{DarkGoldenRod}{h(A^k)}},
 \tag{4}
-$$
+$$ 
 
+where $g: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is smooth but $h: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is nonsmooth in $A^k$.
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
