@@ -182,7 +182,7 @@ To solve $(5)$, we first write an equivalent problem in the epigraph form,
 $$
 \begin{aligned}
 & \min\ t+\frac{1}{2\lambda}||A^k-v||^2\\
-& \ \textrm{s.t.} -m_{k}(w_{i}A^k+b_{i})\leq t,\ \ i=1,...,m_{-k},
+& \ \textrm{s.t.}\  -m_{k}(w_{i}^{\top}A^k+b_{i})\leq t,\ \ i=1,...,m_{-k},
 
 \end{aligned}
 \tag{6}
