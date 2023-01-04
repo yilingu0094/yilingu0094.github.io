@@ -166,7 +166,7 @@ $$
 where $A^{kp}\in \mathbb{R}^n$ is the value of $A^{k}$ in the $p^{\textrm{th}}$ iteration. With linearized huber distance in $(3)$, the concavified $(2)$ enables us to rewrite $(1)$ as the minimization of a <span style="color:DarkGoldenRod">convex</span> function,
 
 $$
-\min_{A^k}\ f(A^k) = \overbrace{\sum_{i=1}^{m_k} ||x_i^k-A^k||_{\textrm{hub}}}^{\color{DarkGoldenRod}{g(A^k)}}\overbrace{-m_{k}\cdot \min\{\color{DarkGoldenRod}{w_{1}}\topA^{k}+\color{DarkGoldenRod}{b_{1}},...,\color{DarkGoldenRod}{w_{m_{-k}}}\topA^{k}+\color{DarkGoldenRod}{b_{m_{-k}}}\}}^{\color{DarkGoldenRod}{h(A^k)}},
+\min_{A^k}\ f(A^k) = \overbrace{\sum_{i=1}^{m_k} ||x_i^k-A^k||_{\textrm{hub}}}^{\color{DarkGoldenRod}{g(A^k)}}\overbrace{-m_{k}\cdot \min\{\color{DarkGoldenRod}{w_{1}}^{\top}A^{k}+\color{DarkGoldenRod}{b_{1}},...,\color{DarkGoldenRod}{w_{m_{-k}}}^{\top}A^{k}+\color{DarkGoldenRod}{b_{m_{-k}}}\}}^{\color{DarkGoldenRod}{h(A^k)}},
 \tag{4}
 $$ 
 
