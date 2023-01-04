@@ -179,28 +179,4 @@ $$
 
 
 
-In order to solve $(5)$, we first write an equivalent problem in the epigraph form,
-
-$$
-\begin{aligned}
-& \min\ t+\frac{1}{2\lambda}||A^k-v||^2\\
-& \ \textrm{s.t.}\  -m_{k}(w_{i}^{\top}A^k+b_{i})\leq t,\ \ i=1,...,m_{-k},
-
-\end{aligned}
-\tag{6}
-$$
-
-with epigraph variable $t\in \mathbb{R}$. Then, the Lagrangian duality function is,
-
-$$
-L(A^k,t,\mu) = t+\frac{1}{2\lambda}||A^k-v||^2+\mu^{\top}(-m_{k}w^{\top}A^{k}-m_{k}b-t\textbf{1}),
-\tag{7}
-$$
-
-with dual variable $\mu$. According to the KKT conditions, the optimality conditions are, 
-
-$$
-\textbf{1}^{\top}\mu^{*}
-$$
-
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
