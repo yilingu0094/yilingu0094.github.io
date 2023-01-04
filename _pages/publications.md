@@ -191,7 +191,8 @@ $$
 with epigraph variable $t\in \mathbb{R}$. Then, the Lagrangian duality function is,
 
 $$
-L(A^k,t,\mu) = t+\frac{1}{2\lambda}||A^k-v||^2+\mu^{\top}(-m_{k}w^{\top}A^{k}-m_{k}b-t^{\top}\mathbb{1})
+L(A^k,t,\mu) = t+\frac{1}{2\lambda}||A^k-v||^2+\mu^{\top}(-m_{k}w^{\top}A^{k}-m_{k}b-t^{\top}\textbf{1})
+\tag{7}
 $$
 
 
