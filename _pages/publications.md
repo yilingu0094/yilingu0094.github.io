@@ -166,7 +166,7 @@ $$
 where $A^{kp}\in \mathbb{R}^n$ is the value of $A^{k}$ in $p^{\textrm{th}}$ iteration. The concavified $(2)$ enables us to rewrite $(1)$ as the minimization of a convex function,
 
 $$
-\min_{A^k}\ f(A^k) = \sum_{i=1}^{m_k} ||x_i^k-A^k||_{\textrm{hub}}-m_{k}\cdot \min\{w_{1}A^{k}+b_{1},...,w_{m_{-k}}A^{k}+b_{m_{-k}}\},
+\min_{A^k}\ f(A^k) = \overbrace{\sum_{i=1}^{m_k} ||x_i^k-A^k||_{\textrm{hub}}}^{\color{DarkGoldenRod}{g(A^k)}}\overbrace{-m_{k}\cdot \min\{w_{1}A^{k}+b_{1},...,w_{m_{-k}}A^{k}+b_{m_{-k}}\}}^{\color{DarkGoldenRod}{h(A^k)}},
 \tag{4}
 $$
 
