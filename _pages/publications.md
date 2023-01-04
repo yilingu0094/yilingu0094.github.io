@@ -173,7 +173,8 @@ $$
 where $g: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) smooth but $h: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) <span style="color:DarkGoldenRod">nonsmooth</span> in $A^k$. Therefore, we apply the accelerated proximal gradient method to solve the nonsmooth problem $(4)$ and the proximity operator of $h$ at $A^k$ can be written as,
 
 $$
-\textrm{prox}_{\lambda h}(A^k) &:= \textrm{arg}\min_{u\in \mathbb{R}^n} \{\varphi(u)+ \frac{1}{2\lambda}||A^k-u||^2 \},\\
+\textrm{prox}_{\alpha_{k}\varphi}(x) &:= \textrm{arg}\min_{p\in \mathbb{R}^n} \{\varphi(p)+ \frac{1}{2\alpha_k}||x-p||^2 \},
+\tag{5}
 $$
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
