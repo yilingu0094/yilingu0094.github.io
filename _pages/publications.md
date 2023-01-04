@@ -170,7 +170,7 @@ $$
 \tag{4}
 $$ 
 
-where $g: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) smooth but $h: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) <span style="color:DarkGoldenRod">nonsmooth</span> in $A^k$. Therefore, we apply the accelerated proximal gradient method to solve the nonsmooth problem $(4)$ and the proximity operator of $h$ at $A^k$ can be written as,
+where $g: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) smooth but $h: \mathbb{R}^{n} \rightarrow \mathbb{R}$ is (convex) <span style="color:DarkGoldenRod">nonsmooth</span> in $A^k$. Therefore, we apply the proximal method to solve the nonsmooth problem $(4)$ and the proximity operator of $h$ at $A^k$ can be written as,
 
 $$
 \textrm{prox}_{\lambda h}(A^k) := \textrm{arg}\min_{v\in \mathbb{R}^n} \{h(v)+ \frac{1}{2\lambda}||A^k-v||^2 \}= w^{-1}\cdot \max\{-m_{k}b-t^{\star}\textbf{1}, m_{k}w^{\top}A^k\}.
@@ -178,6 +178,19 @@ $$
 $$
 
 
-with variables $w \in \mathbb{R}^{m_{-k}}$, $b \in \mathbb{R}^{m_{-k}}$ and $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, where $t^{\star}$ can be solved by bisection method with the interval $[\min_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k}-\frac{1}{m\_{-k}}),\max_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k})]$.
+with variables $w \in \mathbb{R}^{m_{-k}}$, $b \in \mathbb{R}^{m_{-k}}$, and $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, where $t^{\star}$ can be solved by bisection method with the interval $[\min_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k}-\frac{1}{m\_{-k}}),\max_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k})]$. Thus, we resolve the original problem $(4)$ with the following accelerated proximal gradient method,
+
+$$
+\textrm{Loop:}
+\left\{\begin{matrix}
+\begin{aligned}
+&y^p = (1-\theta_p)A^{k,p-1}+\theta_{p}u^{p-1}\\
+&A^{k,p} = \textrm{prox}_{h\lambda}(y^p-\lambda_p \nabla g(y^p))\\
+&u^{p} = A^{k,p-1}+\frac{1}{\theta_p}(A^{k,p}-A^{k,p-1})\\
+&\theta_p = \frac{2}{p+1}
+\end{aligned}
+\end{matrix}\right.
+\tag{9}
+$$
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
