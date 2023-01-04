@@ -188,10 +188,10 @@ $$
 \tag{6}
 $$
 
-with variable $t\in \mathbb{R}$. Then, the Lagrangian duality function is,
+with epigraph variable $t\in \mathbb{R}$. Then, the Lagrangian duality function is,
 
 $$
-L(A^k,t,\mu) = t+\frac{1}{2\lambda}||A^k-v||^2+\mu^{\top}(-m_{k})
+L(A^k,t,\mu) = t+\frac{1}{2\lambda}||A^k-v||^2+\mu^{\top}(-m_{k}w^{\top}A^{k}-m_{k}b-t^{\top}\mathbb{1})
 $$
 
 
