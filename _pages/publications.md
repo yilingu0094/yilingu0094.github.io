@@ -177,15 +177,18 @@ $$
 \tag{5}
 $$
 
-To solve $(5)$, we first write the equivalent problem in epigraph form,
+To solve $(5)$, we first write an equivalent problem in the epigraph form,
 
 $$
 \begin{aligned}
 & \min\ t+\frac{1}{2\lambda}||A^k-v||^2\\
-& \textrm{s.t.} -m_{k}(w_{i}A^k+b_{i})\leq t,\ \ i=1,...,m_{-k}
+& \ \textrm{s.t.} -m_{k}(w_{i}A^k+b_{i})\leq t,\ \ i=1,...,m_{-k},
 
 \end{aligned}
 \tag{6}
 $$
+
+
+
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
