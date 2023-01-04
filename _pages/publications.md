@@ -145,7 +145,7 @@ $$
 where $A^k \in \mathbb{R}^n$ is the prototype for class $k$, while $x_i^k \in \mathbb{R}^n$ and $m_k \in \mathbb{R}$ are the sample points and the number of sample points for class $k$, respectively. The $r_{A^k}\in \mathbb{R}$ is the decision region radius of the prototype $A^k$, which can be measured as the <span style="color:DarkGoldenRod">huber</span> distance between prototype $A^k$ and its closest sample points in other classes $-k$,
 
 $$
-r_{A^k} = \min\{||x_1^{-k}-A^k||_{\textrm{hub}},...,||x_{n_{-k}}^{-k}-A^k||_{\textrm{hub}}\}.
+r_{A^k} = \min\{||x_1^{-k}-A^k||_{\textrm{hub}},...,||x_{m_{-k}}^{-k}-A^k||_{\textrm{hub}}\}.
 \tag{2}
 $$
 
@@ -163,9 +163,12 @@ $$
 \tag{3}
 $$
 
+where $A^{kp}\in \mathbb{R}^n$ is the value of $A^{k}$ in $p^{\textrm{th}}$ iteration. The concavified $(2)$ enables us to rewrite $(1)$ as the minimization of a convex function,
 
-
-which enables us to rewrite $(1)$ as a huber-type convex function,
+$$
+\min_{A^k}\ f(A^k) = \sum_{i=1}^{m_k} ||x_i^k-A^k||_{\textrm{hub}}-m_{k}\cdot \min\{w_{1}A^{k}+b_{1},...,w_{m_{-k}}A^{k}+b_{m_{-k}}\},
+\tag{4}
+$$
 
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
