@@ -155,15 +155,15 @@ $$
 ||x_i^{-k}-A^k||_{\textrm{hub}} \approx
 \left\{\begin{matrix}
 \begin{aligned}
-&\overbrace{\frac{1}{2\delta}||x_i^{-k}-A^{kp}||^{2}_{2}+\frac{1}{\delta}(x_i^{-k}-A^{kp})^\top A^{kp}}^{\color{DarkGoldenRod}{b_i}} \overbrace{ - \frac{1}{\delta}(x_i^{-k}-A^{kp})^\top}^{\color{DarkGoldenRod}{w_i}} A^{k}, \ \ \ \ \ \ \  \ \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}\leq \delta,\\
-&\overbrace{||x_i^{-k}-A^{kp}||_{2}-\frac{(A^{kp}-x_i^{-k})^\top A^{kp}}{||x_i^{-k}-A^{kp}||_{2}}-\frac{1}{2}\delta}^{\color{DarkGoldenRod}{b_i}}+\overbrace{(\frac{A^{kp}-x_i^{-k}}{||x_i^{-k}-A^{kp}||_{2}})^\top}^{\color{DarkGoldenRod}{w_i}} A^k, \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}> \delta,\\
+&\overbrace{\frac{1}{2\delta}||x_i^{-k}-A^{k,p}||^{2}_{2}+\frac{1}{\delta}(x_i^{-k}-A^{k,p})^\top A^{k,p}}^{\color{DarkGoldenRod}{b_i}} \overbrace{ - \frac{1}{\delta}(x_i^{-k}-A^{k,p})^\top}^{\color{DarkGoldenRod}{w_i}} A^{k}, \ \ \ \ \ \ \  \ \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}\leq \delta,\\
+&\overbrace{||x_i^{-k}-A^{kp}||_{2}-\frac{(A^{k,p}-x_i^{-k})^\top A^{kp}}{||x_i^{-k}-A^{k,p}||_{2}}-\frac{1}{2}\delta}^{\color{DarkGoldenRod}{b_i}}+\overbrace{(\frac{A^{k,p}-x_i^{-k}}{||x_i^{-k}-A^{k,p}||_{2}})^\top}^{\color{DarkGoldenRod}{w_i}} A^k, \ \ \ \textrm{if}\  ||x_i^{-k}-A^{k}||_{2}> \delta,\\
 
 \end{aligned}
 \end{matrix}\right.
 \tag{3}
 $$
 
-where $A^{kp}\in \mathbb{R}^n$ is the value of $A^{k}$ in the $p^{\textrm{th}}$ iteration. With linearized huber distance in $(3)$, the concavified $(2)$ enables us to rewrite $(1)$ as the minimization of a <span style="color:DarkGoldenRod">convex</span> function,
+where $A^{k,p}\in \mathbb{R}^n$ is the value of $A^{k}$ in the $p^{\textrm{th}}$ iteration. With linearized huber distance in $(3)$, the concavified $(2)$ enables us to rewrite $(1)$ as the minimization of a <span style="color:DarkGoldenRod">convex</span> function,
 
 $$
 \min_{A^k}\ f(A^k) = \overbrace{\sum_{i=1}^{m_k} ||x_i^k-A^k||_{\textrm{hub}}}^{\color{DarkGoldenRod}{g(A^k)}}\overbrace{-m_{k}\cdot \min\{\color{DarkGoldenRod}{w_{1}}^{\top}A^{k}+\color{DarkGoldenRod}{b_{1}},...,\color{DarkGoldenRod}{w_{m_{-k}}}^{\top}A^{k}+\color{DarkGoldenRod}{b_{m_{-k}}}\}}^{\color{DarkGoldenRod}{h(A^k)}},
@@ -190,7 +190,7 @@ $$
 &\theta_p = \frac{2}{p+1}
 \end{aligned}
 \end{matrix}\right.
-\tag{9}
+\tag{6}
 $$
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
