@@ -202,6 +202,5 @@ $$
 \end{aligned}
 $$
 
-With respect to the above two conditions, when the iteration comes to satisfy Inequality $(7)$, it means that we'll obtain few marginal covered points when continue increasing the radius a lot, which also prevents us from making the radius too large (specifically, when $\Gamma_{t-1}-\Gamma_{t}<0$, the Inequality $(7)$ will also satisfied, so it can also prevent the covered points decreasing problem); when the iteration satisfies Inequality $(8)$, it means that the sample points covered by the prototype shift from a sparse region to a condense region, so that this condition can distinguish the sparsity of samples with prototypes. Specifically, if $\Gamma_{1}-\Gamma_{0}=0$, it means that the initial position of prototype can't help to cover sample points, which shows an inappropriate initial point of prototype.
 
 
