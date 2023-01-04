@@ -193,7 +193,7 @@ $$
 \tag{6}
 $$
 
-When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(6)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. Then, we employ the following <span style="color:DarkGoldenRod">trust region-type strategy</span> to force each of our iterations to end with the <span style="color:DarkGoldenRod">fewest</span> possible prototypes,
+When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(6)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. Simultaneously, we employ the following <span style="color:DarkGoldenRod">trust region-type strategy</span> to force each of our iterations to end with the <span style="color:DarkGoldenRod">fewest</span> possible prototypes,
 
 $$
 \begin{aligned}
