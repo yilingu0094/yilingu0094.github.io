@@ -180,10 +180,10 @@ $$
 With KKT conditions, the proximity operator in $(5)$ can be solved in an epigraph-form equivalent problem, 
 
 $$
-\textrm{prox}_{\lambda h}(A^k) = \inv{w}\cdot \max\{-mb-t^{*}\textbf{1}, mw^{\top}A^k\}
+\textrm{prox}_{\lambda h}(A^k) = w^{-1}\cdot \max\{-mb-t^{\ast}\textbf{1}, mw^{\top}A^k\}
 \tag{6}
 $$
 
-where the epigraph variable $t^{*}$ 
+where the epigraph variable $t^{*}\in \mathbb{R}$ satisfies $$
 
 When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ throughout $(1)$, we eliminiate all the sample points covered by the decision domain of $A_j^k$ and use the remaining sample points to find the next optimal prototype $A_{j+1}^k$, until all the points (or a specific rate of the points) in class $k$ have been covered. 
