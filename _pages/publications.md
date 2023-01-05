@@ -211,3 +211,8 @@ where $\Gamma_p = \sum_{i=1}^{m_k}\textrm{sign}({\left\Vert x_i^k-A^{k,p}\right 
 <center class = "half">
 <img src = “/images/02.jpg”  width = “50%” align = left><img src = “/images/03.jpg”  width = “50%” align = right>
 </center>
+
+<center class = "half">
+<img src = "https://img-blog.csdnimg.cn/3c0e9bc6fdab497ca3018f7d4b568dba.png" width = 49% /> 
+<img src = "https://img-blog.csdnimg.cn/ceb1d00d33344c399ce40c87dc8f888a.png"  width =49% />
+</center>
