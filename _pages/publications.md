@@ -178,7 +178,7 @@ $$
 $$
 
 
-with variables $w \in \mathbb{R}^{m_{-k}}$, $b \in \mathbb{R}^{m_{-k}}$, and $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, where $t^{\star}$ can be solved by bisection method with the interval $[\min_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k}-\frac{1}{m\_{-k}}),\max_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k})]$. Thus, $(4)$ can be solved with a <span style="color:DarkGoldenRod">closed form solution</span> and we apply the <span style="color:DarkGoldenRod">accelerated proximal gradient method</span> to identify prototypes, 
+with variables $w \in \mathbb{R}^{m_{-k}}$, $b \in \mathbb{R}^{m_{-k}}$, and $t^{\star}\in \mathbb{R}$ satisfies $\sum_{i=1}^{m_{-k}}\frac{1}{\lambda m_{k}^2 w_{i}^{\top}w_{i}}(-m_{k}b_{i}-m_{k}w_{i}^{\top}A^{k}-t^{\star})_{+}=1$, where $t^{\star}$ can be solved by bisection method with the interval $[\min_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k}-\frac{1}{m\_{-k}}),\max_i(-m\_{k}b\_{i}-m\_{k}w\_{i}^{\top}A^{k})]$. Thus, $(4)$ can be solved with a <span style="color:DarkGoldenRod">closed-form solution</span> and we apply the <span style="color:DarkGoldenRod">accelerated proximal gradient method</span> to identify prototypes, 
 
 $$
 \textrm{Loop:}
@@ -212,8 +212,10 @@ where $\Gamma_p = \sum_{i=1}^{m_k}\textrm{sign}({\left\Vert x_i^k-A^{k,p}\right 
 </div>
 <center>Figure 2: AMVQ experiment results on irregular data pattern</center>
 
-Given the above training process obtaining all the prototypes from each class, we predict the class $\kappa$ of the new data point $x_{\textrm{new}}$ by identifying the prototype $A^k$ that matches the <span style="color:DarkGoldenRod">smallest</span> distance between $x_{\textrm{new}}$ and the <span style="color:DarkGoldenRod">decision region</span> of $A^k$,
+Given the above training process obtaining all the prototypes from each class, we predict the class $\kappa$ of any new data point $x_{\textrm{new}}$ by identifying the prototype $A^k$ that matches the <span style="color:DarkGoldenRod">smallest</span> distance between $x_{\textrm{new}}$ and the <span style="color:DarkGoldenRod">decision region</span> of $A^k$,
 
 $$
-\kappa(x_{\textrm{new}}) := \textrm{arg} \min\limits_{A^k} ||x_{\textrm{new}}-A^k||-r(A^k).\tag{9}
+\kappa(x_{\textrm{new}}) := \textrm{arg} \min\limits_{A^k} ||x_{\textrm{new}}-A^k||-r(A^k), \tag{9}
 $$
+
+from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star}$ from $(9)$.  
