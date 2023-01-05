@@ -222,6 +222,8 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 **Our Contribution:** The main contributions of this research project can be summarized as follows.
 
-1. First <span style="color:DarkGoldenRod">adaptive multiple prototype</span> model that obtain appropriate and <span style="color:DarkGoldenRod">fewest</span> number of prototypes without prior knowledge.
+1. First <span style="color:DarkGoldenRod">adaptive multiple prototype</span> model that obtain the <span style="color:DarkGoldenRod">fewest</span> number of prototypes without prior knowledge.
 
-2. In contrast to fixed radius model, AMVQ identifies prototypes in a <span style="color:DarkGoldenRod">radius-descent</span> order, which automatically generates the <span style="color:DarkGoldenRod">importance</span> and <span style="color:DarkGoldenRod">wideness</span> of prototypes for better model <span style="color:DarkGoldenRod">interpretation</span>.
+2. In contrast to the <span style="color:DarkGoldenRod">fixed radius</span> model, AMVQ identifies prototypes in a <span style="color:DarkGoldenRod">radius-descent</span> order, which automatically generates the <span style="color:DarkGoldenRod">importances</span> and shows the<span style="color:DarkGoldenRod">decision region</span> of prototypes for better model <span style="color:DarkGoldenRod">interpretation</span>.
+
+3. 
