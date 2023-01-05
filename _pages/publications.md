@@ -204,15 +204,7 @@ $$
 
 where $\Gamma_p = \sum_{i=1}^{m_k}\textrm{sign}({\left\Vert x_i^k-A^{k,p}\right \Vert -r_p})$ for the $p^{\textrm{th}}$ iteration (specifically we rule $\Gamma_0 = m_k$) and $\Delta r_p = \left\Vert r_p-r_{p-1} \right\Vert$. When the iteration of $A^{k}$ reaches the point where $(7)$ is satisfied, it suggests that we should <span style="color:DarkGoldenRod">stop</span> our iteration because we won't get many <span style="color:DarkGoldenRod">marginal</span> covered points even if we keep raising the radius of the prototype's decision region significantly. As a result, it stops us from increasing the radius too much and making the model <span style="color:DarkGoldenRod">non-robust</span>. While $(8)$ is fulfilled, it indicates that the sample points covered by the prototype shift from a sparse region to a condense one, which allows us to discriminate between the <span style="color:DarkGoldenRod">sparsity</span> of samples with prototypes. With backtracking step sizes <span style="color:DarkGoldenRod">$\lambda_{\min} = \min \\{1,\beta/L\\}$</span>, we obtain the <span style="color:DarkGoldenRod">optimal linear convergence $O(1/k^2)$ </span>rate to find the global optimal solution for prototype $A^k$ and some fascinating experiment findings on capturing nonconvex and irregular pattern in classification problem shown as follows,
 
-<div align=center><img src=" /images/02.jpg " width="75%"></div>
-<div align=center><img src=" /images/03.jpg " width="75%"></div>
-
-
 <div align=center>
 <img src=" /images/02.jpg " width="45%"><img src=" /images/03.jpg " width="45%">
 </div>
 
-<center class = "half">
-<img src = "https://img-blog.csdnimg.cn/3c0e9bc6fdab497ca3018f7d4b568dba.png" width = 49% /> 
-<img src = "https://img-blog.csdnimg.cn/ceb1d00d33344c399ce40c87dc8f888a.png"  width =49% />
-</center>
