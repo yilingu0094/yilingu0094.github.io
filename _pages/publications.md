@@ -208,7 +208,7 @@ where $\Gamma_p = \sum_{i=1}^{m_k}\textrm{sign}({\left\Vert x_i^k-A^{k,p}\right 
 <img src=" /images/02.jpg " width="50%"><img src=" /images/03.jpg " width="50%">
 </div>
 <div align=center>
-<img src=" /images/06.png " width="50%"><img src=" /images/03.jpg " width="50%">
+<img src=" /images/06.png " width="50%">
 </div>
 <center>Figure 2: AMVQ experiment results on irregular data pattern</center>
 
