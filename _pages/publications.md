@@ -232,8 +232,8 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 **Current Progress:** The master thesis is almost finished and expected to submit (after necessary revisions) to NeurIPS 2023 in May. Here are the Matlab codes, proposal and some drafts of this paper.
 
-**AMVQ codes:**\[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/amvq_codes)\].
+**AMVQ codes:** \[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/amvq_codes)\].
 <br/>
-**AMVQ proposal (2022.5 version):**\[[proposal](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EW8RMe_loptKhnu6YRM8pcABXnjGjgR-s2XjksSraiU32A?e=KK7iIF)\].
+**AMVQ proposal (2022.5 version):** \[[proposal](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EW8RMe_loptKhnu6YRM8pcABXnjGjgR-s2XjksSraiU32A?e=KK7iIF)\].
 <br/>
-**AMVQ drafts:**\[[proximity operator](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/ESgetjxWLjFPrRCs-SD_heEBAamxnSXIbfAXHkdhMTXVTQ?e=nxxRA7)\].
+**AMVQ drafts:** \[[proximity operator](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/ESgetjxWLjFPrRCs-SD_heEBAamxnSXIbfAXHkdhMTXVTQ?e=nxxRA7)\].
