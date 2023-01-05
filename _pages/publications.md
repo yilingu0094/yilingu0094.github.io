@@ -212,7 +212,7 @@ where $\Gamma_p = \sum_{i=1}^{m_k}\textrm{sign}({\left\Vert x_i^k-A^{k,p}\right 
 </div>
 <center>Figure 2: AMVQ experiment results on irregular data pattern</center>
 
-Given the above training process obtaining all the prototypes from in all classes, we predict the class $\kappa$ of the new data point $x_{\textrm{new}}$ by identifying the prototype $A^k$ that matches the smallest distance between $x_{\textrm{new}}$ and the decision region of $A^k$.
+Given the above training process obtaining all the prototypes from in each class, we predict the class $\kappa$ of the new data point $x_{\textrm{new}}$ by identifying the prototype $A^k$ that matches the smallest distance between $x_{\textrm{new}}$ and the decision region of $A^k$.
 
 $$
 \kappa(x_{\textrm{new}}) = \textrm{arg} \min\limits_{A^k} ||x_{\textrm{new}}-A^k||-r(A^k)\tag{9}
