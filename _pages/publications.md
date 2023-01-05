@@ -198,7 +198,7 @@ When we obtain the $j^{\textrm{th}}$ optimal prototype $A_j^k$ for class $k$ thr
 $$
 \begin{align}
 &\frac{\Gamma_{p-1}-\Gamma_{p}}{\Delta r_p} \leq \eta_1 \cdot \min\{\frac{\Gamma_{p-2}-\Gamma_{p-1}}{\Delta r_{p-1}},...,\frac{\Gamma_{0}-\Gamma_{1}}{\Delta r_1}\},\ \eta_1 \in (0,1), \tag{7}\\
-&\frac{\Gamma_{p-1}-\Gamma_{p}}{\Delta r_p} \geq \eta_2 \cdot \max\{\frac{\Gamma_{p-2}-\Gamma_{p-1}}{\Delta r_{p-1}},...,\frac{\Gamma_{0}-\Gamma_{1}}{\Delta r_1}\},\ \eta_2 \in (1,+\infty). \tag{8}
+&\frac{\Gamma_{p-1}-\Gamma_{p}}{\Delta r_p} \geq \eta_2 \cdot \max\{\frac{\Gamma_{p-2}-\Gamma_{p-1}}{\Delta r_{p-1}},...,\frac{\Gamma_{0}-\Gamma_{1}}{\Delta r_1}\},\ \eta_2 \in (1,+\infty), \tag{8}
 \end{align}
 $$
 
