@@ -206,3 +206,8 @@ where $\Gamma_p = \sum_{i=1}^{m_k}\textrm{sign}({\left\Vert x_i^k-A^{k,p}\right 
 
 <div align=center><img src=" /images/02.jpg " width="75%"></div>
 <div align=center><img src=" /images/03.jpg " width="75%"></div>
+
+
+<center class = "half">
+<img src = “/images/02.jpg”  width = “50%” align = left><img src = “/images/03.jpg”  width = “50%” align = right>
+</center>
