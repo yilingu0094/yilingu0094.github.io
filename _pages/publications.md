@@ -218,4 +218,4 @@ $$
 \kappa(x_{\textrm{new}}) := \textrm{arg} \min\limits_{A^k} ||x_{\textrm{new}}-A^k||-r(A^k), \tag{9}
 $$
 
-from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star}$ from $(9)$.  
+from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star}$ from $(9)$ in this supervised classification problem.
