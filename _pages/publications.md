@@ -219,3 +219,9 @@ $$
 $$
 
 from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star}$ from $(9)$ in this supervised classification problem.
+
+**Our Contribution:** The main contributions of this research project can be summarized as follows.
+
+1. First <span style="color:DarkGoldenRod">adaptive multiple prototype</span> model that obtain appropriate and <span style="color:DarkGoldenRod">fewest</span> number of prototypes without prior knowledge.
+
+2. In contrast to fixed radius model, AMVQ identifies prototypes in a <span style="color:DarkGoldenRod">radius-descent</span> order, which automatically generates the <span style="color:DarkGoldenRod">importance</span> and <span style="color:DarkGoldenRod">wideness</span> of prototypes for better model <span style="color:DarkGoldenRod">interpretation</span>.
