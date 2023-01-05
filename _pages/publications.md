@@ -226,4 +226,4 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 2. In contrast to the <span style="color:DarkGoldenRod">fixed radius</span> model, AMVQ identifies prototypes in a <span style="color:DarkGoldenRod">radius-descent</span> order, which automatically generates the <span style="color:DarkGoldenRod">importances</span> and shows the<span style="color:DarkGoldenRod">decision region</span> of prototypes for better model <span style="color:DarkGoldenRod">interpretation</span>.
 
-3. Achieves the <span style="color:DarkGoldenRod">optimal $O(1/k^2)$</span> convergence rate in identifying prototypes.
+3. Achieves the <span style="color:DarkGoldenRod">optimal $O(1/k^2)$</span> convergence rate and the <span style="color:DarkGoldenRod">least $O(1/\sqrt{\epsilon})$</span> iteration complexity in identifying prototypes.
