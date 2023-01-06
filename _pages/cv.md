@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+***
 
-{% include base_path %}
 
 ## Convex-Concave Minmax Optimization: Applications and Methods \[[slides](https://yilingu0094.github.io/files/minmax_opt_yilingu.pdf)\]
 <font size="3"><span style="color:DarkGoldenRod">August 05, 2022</span></font>  
