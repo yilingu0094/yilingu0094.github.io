@@ -246,4 +246,19 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 # Selected Coursework Paper
 ------
+\textbf{A. Manufacturing and Operation Research}
+
+\textbf{Yilin Gu} (2021). "Game Theory on Tesla: The Automobile Industry Analysis on Strategic Cooperation among Competitors" (*IBA-6103: Economic Analytics* coursework paper). Available from CUHK-Shenzhen database.
+
+\textbf{B. Optimization Theory}
+
+\textbf{Yilin Gu}, Xin Jin (2021). “Convex Is All You Need In Clustering” (*MDS-6106: Optimization* coursework paper). Available from CUHK-Shenzhen database.
+
+\textbf{C. Machine Learning Theory}
+
+\textbf{Yilin Gu} (2021). *Prediction of House Rental Intention Based on Boosting Algorithm* (Bachelor dissertation). Available from Macau University of Science and Technology database.
+\begin{itemize}
+\item[-] Award A level for Graduation Project and the best undergraduate dissertation paper of Macau University of Science and Technology Business School in 2021.
+\end{itemize}
+\textbf{Yilin Gu} (2019). “Performance comparison of three SVM packages based on R” (*BBAE-16606: Big Data* coursework paper). Available from Macau University of Science and Technology database.
 
