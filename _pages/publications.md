@@ -240,3 +240,9 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 + **Yilin Gu**, Andre Milzarek, Yichen Yu, Xin Jin, and Ruiyun Xu (2023). Stepwise Prototype Optimization: Adaptive Multiple Vector Quantization Classification.
 
+
+
+
+# Selected Coursework Paper
+------
+
