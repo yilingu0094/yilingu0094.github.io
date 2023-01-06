@@ -256,7 +256,7 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 **C. Machine Learning Theory**
 
-+ **Yilin Gu** (2021). *Prediction of House Rental Intention Based on Boosting Algorithm* (Bachelor dissertation). Available from Macau University of Science and Technology database.\[[pdf](https://yilingu0094.github.io/files/Prediction of House Rental Intention Based on Boosting Algorithm.pdf)\]
++ **Yilin Gu** (2021). *Prediction of House Rental Intention Based on Boosting Algorithm* (Bachelor dissertation). Available from Macau University of Science and Technology database.\[[pdf](https://yilingu0094.github.io/files/Prediction of House Rental Intention Based on Boosting Algorithm.pdf)\]\[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/bachelor_thesis_codes)\].
 
   - Award A level for Graduation Project and the best undergraduate dissertation paper of Macau University of Science and Technology Business School in 2021.
 
