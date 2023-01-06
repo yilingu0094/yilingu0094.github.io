@@ -239,7 +239,8 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 **AMVQ drafts:** \[[proximity operator](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/ESgetjxWLjFPrRCs-SD_heEBAamxnSXIbfAXHkdhMTXVTQ?e=nxxRA7)\].
 
 + **Yilin Gu**, Andre Milzarek, Yichen Yu, Xin Jin, and Ruiyun Xu (2023). Stepwise Prototype Optimization: Adaptive Multiple Vector Quantization Classification.
-
+<br/>
+<br/>
 
 
 
