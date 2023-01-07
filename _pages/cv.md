@@ -10,7 +10,12 @@ redirect_from:
 
 ## 1. Supply Chain Finance Project for Yinan Yunqin Technology Company
 
-**Background:** With 20% to 25% of the country's meat duck production, Yinan County is regarded as the pillar county for national poultry processing. Yinan's chattel supply chain presently contributes 70% of the county's total GDP, which can exceed 2 billion dollars. However, many poultry companies in Yinan, particularly small and medium-sized companies like startup businesses, continue to grow slowly and consistently run into financial difficulties. 
+**Background:** With 20% to 25% of the country's poultry production, Yinan County is regarded as the pillar county for national poultry processing. Yinan's chattel supply chain presently contributes 70% of the county's total GDP, which can exceed 2 billion dollars. However, many poultry companies in Yinan, particularly small and medium-sized companies like startup businesses, continue to grow slowly and consistently run into financial difficulties. 
+
+<div align=center><img src=" /images/07.png " width="85%"></div>
+
+<center>Figure 1: Financial difficulties of many startup poultry companies in Yinan</center>
+
 
 Yinan County is known as the national meat duck processing base county, accounting for 20% to 25% of the meat ducks national share. The chattel supply chain of Yinan County currently accounts for 70% of total GDP reaching up to RMB 20 billion.
 
