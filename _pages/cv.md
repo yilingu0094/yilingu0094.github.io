@@ -51,7 +51,7 @@ Even with the aforementioned supply chain finance approaches, this platform stil
 
 Therefore, an updated platform must be developed to enable transparency in data exchange and information sharing. <span style="color:DarkGoldenRod">Blockchain technology</span> might be leveraged to create a supply chain financial platform to address the issue of insufficient data sharing. The blockchain's <span style="color:DarkGoldenRod">distributed</span> and <span style="color:DarkGoldenRod">decentralized</span> characteristics facilitate audits and monitoring, and its <span style="color:DarkGoldenRod">immutability</span> also aids financial institutions in risk management.
 
-<div align=center><img src=" /images/12.png " width="60%"></div>
+<div align=center><img src=" /images/12.png " width="50%"></div>
 
 <center>Figure 6:  Data Flow Graph with Blockchain</center>
 
