@@ -59,9 +59,9 @@ After integrating <span style="color:DarkGoldenRod">blockchain</span> with the e
 
 **Project Achievements:** The main achievements of this project can be summarized as follows.
 
-1. With <span style="color:DarkGoldenRod">blockchain technology</span>, developed an integrated supply chain finance and risk management information system for YunQin and related companies in the poultry supply chain, from which successfully managed financing transactions in a <span style="color:DarkGoldenRod">low risk</span> way throughout the entire supply chain, including the <span style="color:DarkGoldenRod">electronization</span> of accounts receivables, creditor's rights, repayment, etc.
+1. With <span style="color:DarkGoldenRod">blockchain technology</span>, developed an integrated supply chain finance and risk management information system for YunQin and related upstream and downstream companies in the poultry supply chain, from which successfully managed financing transactions in a <span style="color:DarkGoldenRod">low risk</span> way throughout the entire supply chain, including the <span style="color:DarkGoldenRod">electronization</span> of accounts receivables, creditor's rights, repayment, inventory management, etc.
 
-2. Realized the <span style="color:DarkGoldenRod">synergistic benefits</span> and <span style="color:DarkGoldenRod">resource exchange</span> among the poultry companies, suppliers, and financial institutions, which helped YunQin overcome its financial crisis and boost its overall profit by <span style="color:DarkGoldenRod">65%</span> over the first two quarters of 2021.
+2. Realized the <span style="color:DarkGoldenRod">synergistic benefits</span>, <span style="color:DarkGoldenRod">resource exchanges</span> amd <span style="color:DarkGoldenRod">information transparency</span> among the poultry companies, suppliers, and financial institutions, which helped YunQin overcome its financial crisis and boost its overall profit by <span style="color:DarkGoldenRod">65%</span> over the first two quarters of 2021.
 
 3. This project has been scored as <span style="color:DarkGoldenRod">5.00/5.00</span> by the advisor Mr. Shen Zhenyuan from CASME.
 
