@@ -10,16 +10,11 @@ redirect_from:
 
 ## 1. Supply Chain Finance Project for Yinan Yunqin Technology Company
 
-**Background:** With 20% to 25% of the country's poultry production, Yinan County is regarded as the pillar county for national poultry processing. Yinan's chattel supply chain presently contributes 70% of the county's total GDP, which can exceed 2 billion dollars. However, many poultry companies in Yinan, particularly small and medium-sized companies like startup businesses, continue to grow slowly and consistently run into financial difficulties. 
+**Background:** With 20% to 25% of the country's poultry production, Yinan County is regarded as the pillar county for national poultry processing in China. Yinan's chattel supply chain presently contributes 70% of the county's total GDP, which exceeds 2 billion dollars. However, many poultry companies in Yinan, particularly small and medium-sized companies like startup businesses, continue to grow slowly and consistently run into financial difficulties. 
 
-<div align=center><img src=" /images/07.png " width="85%"></div>
+<div align=center><img src=" /images/07.png " width="65%"></div>
 
 <center>Figure 1: Financial difficulties of many startup poultry companies in Yinan</center>
-
-
-Yinan County is known as the national meat duck processing base county, accounting for 20% to 25% of the meat ducks national share. The chattel supply chain of Yinan County currently accounts for 70% of total GDP reaching up to RMB 20 billion.
-
-As one of the pillar industries of Yinan County which is known as the national meat duck processing base county, the meat duck industry has remarkable influence and a good industrial foundation across China, accounting for 20% to 25% of the meat ducks national share. The chattel supply chain of Yinan County currently accounts for 70% of total GDP reaching up to RMB 20 billion. Under the macro-environment that internet technology and digital economy, the meat and duck industry in Yinan County is traditional regarding its development mode which results in the middle and low-end level. More specifically, the layout of the industry is relatively scattered, which is unbeneficial to large-scale intensive and high-end development, and thus limits the development situation.
 
 The shortage of funds for small and medium-sized enterprises in the supply chain is prominent, considering that the personal credit of the aforementioned enterprises may be insufficient, and thus bank financing is highly difficult and time-consuming when inadequate financial support. Moreover, considering fewer assessable assets and the amount of financing is not high enough, the input and output efforts are disproportionate when assessed by financial institutions which results in insufficient enthusiasm to provide supply chain financial services for these enterprises. Additionally, the existing guaranteed system is imperfect that it is impossible to satisfy the financing needs of small and medium-sized enterprises since the current situation of asset size, credit rating, and risk resistance causes their financing difficulties. In this regard, insufficient cash flow and poor capital turnover make it difficult to add value to the industry chain breakthrough.
 
