@@ -22,16 +22,14 @@ We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system an
 
 **Project Description:** In this project, we establish the supply chain finance approach in two key terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
 
-**(1) Chattel mortgage financing:** In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the $3^{\textrm{rd}}$ party warehouse. The main steps of chattel mortgage financing are shown as follows,
+$\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Chattel mortgage financing:</span> In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the $3^{\textrm{rd}}$ party warehouse. The main steps of chattel mortgage financing are shown as follows,
 
 
 <div align=center><img src=" /images/08.png " width="80%"></div>
 
 <center>Figure 2:  Chattel Mortgage Financing Model</center>
 
-$①$ The stockyard makes finance applications to our China Association of Small and Medium Enterprises (i.e., CASME) Platform for matching appropriate financial institutions.
-
-$②$ CASME Platform helps to match financial institutions that are willing to finance and introduce the main financing process to the partner agency of related institutions.
+Firstly, the stockyard makes finance applications to our CASME Platform for matching appropriate financial institutions (①). Then, the CASME assists in matching financial institutions that are prepared to finance and introduces the primary financing process to the partner agency of the matched institutions (②). After credit checking, the financial institution works along with a third-party warehouse that manages the stockyard's mortgage until the financial contract expires (③④). 
 
 $③$ Financial institutions indirectly entrust credit authorities or directly make credit checking for the stockyard to figure out whether it fulfills the minimum credit standards of lending.
 
