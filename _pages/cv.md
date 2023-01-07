@@ -29,17 +29,7 @@ $\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Chattel mortgage 
 
 <center>Figure 2:  Chattel Mortgage Financing Model</center>
 
-Firstly, the stockyard makes finance applications to our CASME Platform for matching appropriate financial institutions (①). Then, the CASME assists in matching financial institutions that are prepared to finance and introduces the primary financing process to the partner agency of the matched institutions (②). After credit checking, the financial institution works along with a third-party warehouse that manages the stockyard's mortgage until the financial contract expires (③④). Following agreement, the stockyard is requested to give a mortgage for the same amount as the loan's capital, which will be deposited in the warehouse until repayment(⑤⑥). To entice more financial institutions to join this project, the CASME buys bad loan risk insurance for each financial institution enrolled in this platform. The insurance provider will reimburse the financial institution when a bad loan materializes (⑦). Then, the financial institution provides the stockyard with funds so that the stockyard are capable to purchase necessary production materials (⑧⑨). 
-.
-
-$⑩$ According to the financial contract, the stockyard should make repayments before the given date.
-
-$⑪$ If the stockyard repays on time, the frozen mortgage will be released. Otherwise, all the mortgages may be liquidated by the financial institution.
-
-$⑫$ The financial institution ends the contract with the 3rd party warehouse.
-
-$⑬$ The financial institution ends the contract with the stockyard through CASME Platform.
-
+Firstly, the stockyard makes finance applications to our CASME Platform for matching appropriate financial institutions (①). Then, the CASME assists in matching financial institutions that are prepared to finance and introduces the primary financing process to the partner agency of the matched institutions (②). After credit checking, the financial institution works along with a third-party warehouse that manages the stockyard's mortgage until the financial contract expires (③④). Following agreement, the stockyard is requested to give a mortgage for the same amount as the loan's capital, which will be deposited in the warehouse until repayment(⑤⑥). To entice more financial institutions to join this project, the CASME buys bad loan risk insurance for each financial institution enrolled in this platform. The insurance provider will reimburse the financial institution when a bad loan materializes (⑦). Then, the financial institution provides the stockyard with funds so that the stockyard are capable to purchase necessary production materials (⑧⑨). Ultimately, the stockyard pays off the mortgage before the deadline, and the financial institution cancels its agreement with the third-party warehouse and CASME. Otherwise, the financial institution can liquidate all of the mortgages (⑩⑪⑫⑬).
 
 
 
