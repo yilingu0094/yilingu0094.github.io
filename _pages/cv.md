@@ -25,7 +25,7 @@ We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system an
 $(1)$ and $①$
 
 
-<div align=center><img src=" /images/08.png " width="65%"></div>
+<div align=center><img src=" /images/08.png " width="75%"></div>
 
 <center>Figure 2:  Chattel Mortgage Financing Model</center>
 
