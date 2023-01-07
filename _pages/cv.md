@@ -22,7 +22,7 @@ We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system an
 
 **Project Description:** In this project, we establish the supply chain finance approach in two key terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
 
-$\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Chattel mortgage financing:</span> In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the third-party warehouse. The main steps of chattel mortgage financing are shown as follows,
+$\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Chattel Mortgage Financing:</span> In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the third-party warehouse. The main steps of chattel mortgage financing are shown as follows,
 
 
 <div align=center><img src=" /images/08.png " width="80%"></div>
@@ -37,7 +37,7 @@ A special case for chattel mortgage finance is <span style="color:DarkGoldenRod"
 
 <center>Figure 3:  Forage Financing Model</center>
 
-
+$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivable Financing:</span> Much like the chattel mortgage financing service, the accounts receivable financing service also provides stockyard financing solutions. The collateral, however, changes from frozen stocks to accounts receivable of downstream customers for better liquidity (shown in Figure 4). Nevertheless, this service pretty much depends on the establishment and popularization of electronic accounting systems, otherwise, the supervision of accounts receivables encounters the risk of control. Additionally, both chattel mortgage financing and accounts receivable financing can be applied with blockchain if available.
 
 Education
 ======
