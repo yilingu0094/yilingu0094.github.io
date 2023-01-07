@@ -65,5 +65,6 @@ After integrating <span style="color:DarkGoldenRod">blockchain</span> with the e
 
 3. This project has been scored as <span style="color:DarkGoldenRod">5.00/5.00</span> by the advisor Mr. Shen Zhenyuan from CASME.
 
+I apologize for not disclosing all the details and information, particularly the information system part of this project, due to the contract's privacy requirements. If you are interested in this project, please also feel free to see here for an introductory slides and a brief summary report of our work.
 
 
