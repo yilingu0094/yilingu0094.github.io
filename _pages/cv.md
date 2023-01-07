@@ -55,7 +55,7 @@ Therefore, an updated platform must be developed to enable transparency in data 
 
 <center>Figure 6:  Data Flow Graph with Blockchain</center>
 
-After integrating blockchain with the existing system, we can find several benefits from the information flow in Figure 6 and the issues we previously discussed can be resolved. Every transaction is recorded on the blockchain and is traceable since the blockchain platform receives all the transaction data. As a result, any business may readily request access and query to all transaction records, which enhances the trust among all the parties. In the meanwhile, if any fraud or error occurs, all the information may be traced, allowing us to determine who should be held accountable. 
+After integrating blockchain with the existing system, we can find several benefits from the information flow in Figure 6 and the issues we previously discussed can be resolved. Every transaction is recorded on the blockchain and is <span style="color:DarkGoldenRod">traceable</span> since the blockchain platform receives all the transaction data. As a result, <span style="color:DarkGoldenRod">any</span> companies can readily request <span style="color:DarkGoldenRod">access</span> and <span style="color:DarkGoldenRod">query</span> to all transaction records, which enhances the trust among all the parties. In the meanwhile, if any fraud or error occurs, all the information can be traced, allowing us to determine who should be held accountable. 
 
 
 
