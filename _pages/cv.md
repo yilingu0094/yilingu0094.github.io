@@ -59,17 +59,13 @@ After integrating <span style="color:DarkGoldenRod">blockchain</span> with the e
 
 **Project Achievements:** The main achievements of this project can be summarized as follows.
 
-1. Provide an integrated platform for managing the financing transactions throughout the entire poultry supply chain, including the electronization of accounts receivables, creditor's rights, repayment, etc.
+1. Provide an integrated platform for managing financing transactions throughout the entire poultry supply chain, including the electronization of accounts receivables, creditor's rights, repayment, etc.
 
-2. Realize the synergistic benefits and resource exchange of the poultry companies, suppliers, and financial institutions.
+2. Realize the synergistic benefits and resource exchange of the poultry companies, suppliers, and financial institutions, and provide credit support for Yunqin which relieves its financial pressure and expand production scale.
 
-3. Provide credit support for upstream and downstream enterprises, relieve financial pressure and expand production scale.
+3. With blockchain technology, develope a supply chain finance and risk management information system for YunQin and related upstream and downstream companies in the poultry supply chain, from which successfully solved YunQin's financial problem in a low risk way and increased its total profit by 65%, compared with the first 2 quarters of 2021. 
 
-4. Effectively activate business receivables to reduce financing costs, settlement times, and transactional stress.
-
-5. Applies blockchain technology in traditional poultry industry with a sucessful 
-
-6. This project has been scored as $5.00/5.00$ by the advisor Mr. Shen Zhenyuan from CASME.
+4. This project has been scored as $5.00/5.00$ by the advisor Mr. Shen Zhenyuan from CASME.
 
 
 
