@@ -10,15 +10,14 @@ redirect_from:
 
 ## 1. Supply Chain Finance Project for Yinan Yunqin Technology Company
 
-**Background:** With 20% to 25% of the country's poultry production, Yinan County is regarded as the pillar county for national poultry processing in China. Yinan's chattel supply chain presently contributes 70% of the county's total GDP, which exceeds 2 billion dollars. However, many poultry companies in Yinan, particularly small and medium-sized companies like startup businesses, continue to grow slowly and consistently run into financial difficulties. 
+**Background:** With 25% of the country's poultry production, Yinan County is regarded as the pillar county for national poultry processing in China. Yinan's chattel supply chain presently contributes 70% of the county's total GDP, which exceeds 2 billion dollars. However, many poultry companies in Yinan, particularly small and medium-sized companies like startup businesses, continue to grow slowly and consistently run into financial difficulties. 
 
 <div align=center><img src=" /images/07.png " width="65%"></div>
 
 <center>Figure 1: Financial difficulties of many startup poultry companies in Yinan</center>
 
-The shortage of funds for small and medium-sized enterprises in the supply chain is prominent, considering that the personal credit of the aforementioned enterprises may be insufficient, and thus bank financing is highly difficult and time-consuming when inadequate financial support. Moreover, considering fewer assessable assets and the amount of financing is not high enough, the input and output efforts are disproportionate when assessed by financial institutions which results in insufficient enthusiasm to provide supply chain financial services for these enterprises. Additionally, the existing guaranteed system is imperfect that it is impossible to satisfy the financing needs of small and medium-sized enterprises since the current situation of asset size, credit rating, and risk resistance causes their financing difficulties. In this regard, insufficient cash flow and poor capital turnover make it difficult to add value to the industry chain breakthrough.
+The primary cause of this funding shortage is the low credit of these startup poultry companies. Given the inadequacy of assessable assets and financing amount of these companies, financial institutions are less motivated to offer these businesses supply chain finance services because of a disproportion on their input and output efforts. Additionally, there are still many systemic problems and structural issues in the current guarantee systems, which are vulnerable in risk resistent when the bad loans of some start-ups emerge. 
 
-With the rising requirements of environmental protection and food safety, the profit margin of the industry is greatly compressed which builds a service system for the high-quality development of meat and poultry in Yinan County. Our project aims to provide the supply chain financial service based on the industrial Internet platform to enhance the meat and poultry industry development. The industrial Internet provides digital services for small and medium-sized enterprises in the supply chain process and establishes a new finance supply chain system with chattel and accounts receivable as the methods of fundraising, which significantly improves the situation in financing difficulties for small and medium-sized enterprises.
 
 
 
