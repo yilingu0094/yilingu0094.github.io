@@ -37,7 +37,7 @@ A special case for chattel mortgage finance is <span style="color:DarkGoldenRod"
 
 <center>Figure 3:  Forage Financing Model</center>
 
-$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivable Financing:</span> Much like the chattel mortgage financing service, the accounts receivable financing service also provides stockyard financing solutions. The collateral, however, changes from frozen stocks to accounts receivable of downstream customers for better liquidity (shown in Figure 4). Nevertheless, this service pretty much depends on the establishment and popularization of electronic accounting systems, otherwise, the supervision of accounts receivables encounters the risk of control. Additionally, both chattel mortgage financing and accounts receivable financing can be applied with blockchain if available.
+$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivable Financing:</span> Much like the chattel mortgage financing service, the accounts receivable financing service also provides stockyard financing solutions shown in Figure 4.  However, for greater liquidity, the collateral is changed from frozen inventories to accounts receivable of downstream clients. However, this service largely depends on the development and use of information accounting systems; otherwise, the operational risk of accounts receivable monitoring and retracing exists.
 
 <div align=center><img src=" /images/10.png " width="80%"></div>
 
