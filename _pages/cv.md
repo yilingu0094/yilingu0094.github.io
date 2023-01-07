@@ -45,7 +45,9 @@ $\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivab
 
 Even with the aforementioned supply chain finance approaches, this platform still faces some significant difficulties as shown in Figure 5. Firstly, it might be difficult for other supply chain participants to be aware of some existing transactions between different parties, so the data and information sharing is insufficient. Furthermore, it is also challenging to spot fraud since not all of the organizations disclose the transactions.
 
+<div align=center><img src=" /images/11.png " width="80%"></div>
 
+<center>Figure 5:  Data Flow Graph without Blockchain</center>
 
 
 
