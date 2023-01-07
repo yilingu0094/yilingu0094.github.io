@@ -25,7 +25,7 @@ We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system an
 **$(1)$ Chattel mortgage financing:** In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the $3^{\textrm{rd}}$ party warehouse. The main steps of chattel mortgage financing are shown as follows,
 
 
-<div align=center><img src=" /images/08.png " width="75%"></div>
+<div align=center><img src=" /images/08.png " width="80%"></div>
 
 <center>Figure 2:  Chattel Mortgage Financing Model</center>
 
