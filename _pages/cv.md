@@ -22,7 +22,7 @@ We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system an
 
 **Project Description:** In this project, we establish the supply chain finance approach in two key terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
 
-$(1)$ and $①$
+**$(1)$ Chattel mortgage financing:** In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the $3^{\textrm{rd}}$ party warehouse. The main steps of chattel mortgage financing are shown as follows,
 
 
 <div align=center><img src=" /images/08.png " width="75%"></div>
