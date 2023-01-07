@@ -49,7 +49,7 @@ Even with the aforementioned supply chain finance approaches, this platform stil
 
 <center>Figure 5:  Data Flow Graph without Blockchain</center>
 
-Therefore, an updated platform must be developed to enable transparency in data exchange and information sharing. <span style="color:DarkGoldenRod">Blockchain technology</span> might be leveraged to create a supply chain financial platform to address the issue of insufficient data sharing. The blockchain's <span style="color:DarkGoldenRod">distributed</span> and <span style="color:DarkGoldenRod">decentralized</span> characteristics facilitate audits and monitoring, and its <span style="color:DarkGoldenRod">immutability</span> also aids financial institutions in risk management.
+Therefore, an updated platform must be developed to enable transparency in data exchange and information sharing. <span style="color:DarkGoldenRod">Blockchain technology</span> can be leveraged to create a supply chain financial platform to address the issue of insufficient data sharing. The blockchain's <span style="color:DarkGoldenRod">distributed</span> and <span style="color:DarkGoldenRod">decentralized</span> characteristics facilitate audits and monitoring, and its <span style="color:DarkGoldenRod">immutability</span> also aids financial institutions in risk management.
 
 <div align=center><img src=" /images/12.png " width="50%"></div>
 
@@ -57,6 +57,19 @@ Therefore, an updated platform must be developed to enable transparency in data 
 
 After integrating <span style="color:DarkGoldenRod">blockchain</span> with the existing system, we can find several benefits from the information flow in Figure 6 and the issues we previously discussed can be resolved. Every transaction is recorded on the blockchain and is <span style="color:DarkGoldenRod">traceable</span> since the blockchain platform receives all the transaction data. As a result, <span style="color:DarkGoldenRod">any</span> companies can readily request <span style="color:DarkGoldenRod">access</span> and <span style="color:DarkGoldenRod">query</span> to all transaction records, which enhances the trust among all the parties. In the meanwhile, if any fraud or error occurs, all the information can be traced, allowing us to determine who should be held accountable. 
 
+**Project Achievements:** The main achievements of this project can be summarized as follows.
+
+1. Provide an integrated platform for managing the financing transactions throughout the entire poultry supply chain, including the electronization of accounts receivables, creditor's rights, repayment, etc.
+
+2. Realize the synergistic benefits and resource exchange of the poultry companies, suppliers, and financial institutions.
+
+3. Provide credit support for upstream and downstream enterprises, relieve financial pressure and expand production scale.
+
+4. Effectively activate business receivables to reduce financing costs, settlement times, and transactional stress.
+
+5. Applies blockchain technology in traditional poultry industry with a sucessful 
+
+6. This project has been scored as $5.00/5.00$ by the advisor Mr. Shen Zhenyuan from CASME.
 
 
 
