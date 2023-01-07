@@ -18,7 +18,7 @@ redirect_from:
 
 The primary cause of this funding shortage is the <span style="color:DarkGoldenRod">low credit</span> of these startup poultry companies. Given the inadequacy of assessable assets and financing amount of these companies, financial institutions are less motivated to offer these businesses supply chain finance services because of a <span style="color:DarkGoldenRod">disproportion</span> on their input and output efforts. Additionally, there are still many systemic problems and structural issues in the current guarantee systems, which are vulnerable in risk resistence when the bad loans of some start-ups emerge. 
 
-We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system analysis group, are fortunate to have been given the opportunity by the [China Association of Small and Medium Enterprises (CASME)](http://www.ca-sme.org/) to provide the supply chain financial service of a startup company called <span style="color:DarkGoldenRod">Yinan Yunqin Technology Company</span> to resolve their financial issues and construct a risk management information system for both Yunan and financial institutions to prevent the aforementioned credit risk.
+We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system analysis group, are fortunate to have been given the opportunity by the [China Association of Small and Medium Enterprises (CASME)](http://www.ca-sme.org/) to provide the supply chain financial service for a startup company called <span style="color:DarkGoldenRod">Yinan Yunqin Technology Company</span> to resolve their financial issues and construct a risk management information system for both Yunan and financial institutions to prevent the aforementioned credit risk.
 
 **Project Description:** In this project, we establish the supply chain finance approach in two key terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
 
@@ -38,6 +38,10 @@ A special case for chattel mortgage finance is <span style="color:DarkGoldenRod"
 <center>Figure 3:  Forage Financing Model</center>
 
 $\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivable Financing:</span> Much like the chattel mortgage financing service, the accounts receivable financing service also provides stockyard financing solutions. The collateral, however, changes from frozen stocks to accounts receivable of downstream customers for better liquidity (shown in Figure 4). Nevertheless, this service pretty much depends on the establishment and popularization of electronic accounting systems, otherwise, the supervision of accounts receivables encounters the risk of control. Additionally, both chattel mortgage financing and accounts receivable financing can be applied with blockchain if available.
+
+<div align=center><img src=" /images/10.png " width="80%"></div>
+
+<center>Figure 4:  Accounts Receivable Financing Model</center>
 
 Education
 ======
