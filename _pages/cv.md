@@ -55,56 +55,8 @@ Therefore, an updated platform must be developed to enable transparency in data 
 
 <center>Figure 6:  Data Flow Graph with Blockchain</center>
 
-After integrating blockchain with the existing system, we can find several benefits from the information flow in Figure 6 and the issues we previously discussed can be resolved. Every transaction is recorded on the blockchain and is <span style="color:DarkGoldenRod">traceable</span> since the blockchain platform receives all the transaction data. As a result, <span style="color:DarkGoldenRod">any</span> companies can readily request <span style="color:DarkGoldenRod">access</span> and <span style="color:DarkGoldenRod">query</span> to all transaction records, which enhances the trust among all the parties. In the meanwhile, if any fraud or error occurs, all the information can be traced, allowing us to determine who should be held accountable. 
+After integrating <span style="color:DarkGoldenRod">blockchain</span> with the existing system, we can find several benefits from the information flow in Figure 6 and the issues we previously discussed can be resolved. Every transaction is recorded on the blockchain and is <span style="color:DarkGoldenRod">traceable</span> since the blockchain platform receives all the transaction data. As a result, <span style="color:DarkGoldenRod">any</span> companies can readily request <span style="color:DarkGoldenRod">access</span> and <span style="color:DarkGoldenRod">query</span> to all transaction records, which enhances the trust among all the parties. In the meanwhile, if any fraud or error occurs, all the information can be traced, allowing us to determine who should be held accountable. 
 
 
 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
