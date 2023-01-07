@@ -37,7 +37,7 @@ A special case for chattel mortgage finance is <span style="color:DarkGoldenRod"
 
 <center>Figure 3:  Forage Financing Model</center>
 
-$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivable Financing:</span> Much like the chattel mortgage financing service, the accounts receivable financing service also provides stockyard financing solutions shown in Figure 4.  However, for greater liquidity, the collateral is changed from frozen inventories to accounts receivable of downstream clients. However, this service largely depends on the development and use of information accounting systems; otherwise, the operational risk of accounts receivable monitoring and retracing exists.
+$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivable Financing:</span> Much like the chattel mortgage financing service, the accounts receivable financing service also provides stockyard financing solutions shown in Figure 4.  However, for <span style="color:DarkGoldenRod">greater liquidity</span>, the collateral is changed from <span style="color:DarkGoldenRod">frozen inventories</span> to <span style="color:DarkGoldenRod">accounts receivable of downstream clients</span>. However, this service largely depends on the development and use of <span style="color:DarkGoldenRod">information accounting systems</span>; otherwise, the operational risk of accounts receivable monitoring and retracing exists.
 
 <div align=center><img src=" /images/10.png " width="80%"></div>
 
