@@ -33,7 +33,9 @@ Firstly, the stockyard makes finance applications to our CASME Platform for matc
 
 A special case for chattel mortgage finance is forage finance shown in Figure 3. We encourage the financial institution to work with forage shops (or other similar businesses) so that financial institutions can directly finance stockyard forage instead of capital, in order to avoid the stockyard from claiming the value of loan capital consumption to exceed real credit. Through this approach, financial institutions would only be responsible for making repayments to the forage shop once the stockyard had declared their production-level requirements.
 
+<div align=center><img src=" /images/09.png " width="80%"></div>
 
+<center>Figure 3:  Forage Financing Model</center>
 
 
 
