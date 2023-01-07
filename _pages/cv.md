@@ -20,9 +20,7 @@ The primary cause of this funding shortage is the <span style="color:DarkGoldenR
 
 We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system analysis group, are fortunate to have been given the opportunity by the China Association of Small and Medium Enterprises (CASME) to provide the supply chain financial service of a startup company called <span style="color:DarkGoldenRod">Yinan Yunqin Technology Company</span> to resolve their financial issues and construct a risk management information system for both Yunan and financial institutions to prevent the aforementioned credit risk.
 
-**Project Description:** 
-
-
+**Project Description:** In this project, we establish the supply chain finance approach in two key terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
 
 
 
