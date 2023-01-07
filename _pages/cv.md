@@ -43,9 +43,9 @@ $\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Accounts Receivab
 
 <center>Figure 4:  Accounts Receivable Financing Model</center>
 
-Even with the aforementioned supply chain finance approaches, this platform still faces some significant difficulties as shown in Figure 5. Firstly, it might be difficult for other supply chain participants to be aware of some existing transactions between different parties, so the data and information sharing is insufficient. Furthermore, it is also challenging to spot fraud since not all of the organizations disclose the transactions.
+Even with the aforementioned supply chain finance approaches, this platform still faces some significant difficulties as shown in Figure 5. Firstly, it might be difficult for other supply chain participants to be aware of some existing transactions between different parties, so the <span style="color:DarkGoldenRod">information sharing</span> is <span style="color:DarkGoldenRod">insufficient</span>. Furthermore, it is also challenging to spot fraud since not all of the organizations disclose the transactions.
 
-<div align=center><img src=" /images/11.png " width="80%"></div>
+<div align=center><img src=" /images/11.png " width="75%"></div>
 
 <center>Figure 5:  Data Flow Graph without Blockchain</center>
 
