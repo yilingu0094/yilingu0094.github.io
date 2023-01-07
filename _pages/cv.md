@@ -49,6 +49,15 @@ Even with the aforementioned supply chain finance approaches, this platform stil
 
 <center>Figure 5:  Data Flow Graph without Blockchain</center>
 
+Therefore, an updated platform must be developed to enable transparency in data exchange and information sharing. <span style="color:DarkGoldenRod">Blockchain technology</span> might be leveraged to create a supply chain financial platform to address the issue of insufficient data sharing. The blockchain's <span style="color:DarkGoldenRod">distributed</span> and <span style="color:DarkGoldenRod">decentralized</span> characteristics facilitate audits and monitoring, and its <span style="color:DarkGoldenRod">immutability</span> also aids financial institutions in risk management.
+
+<div align=center><img src=" /images/12.png " width="75%"></div>
+
+<center>Figure 6:  Data Flow Graph with Blockchain</center>
+
+After integrating blockchain with the existing system, we can find several benefits from the information flow in Figure 6 and the issues we previously discussed can be resolved. Every transaction is recorded on the blockchain and is traceable since the blockchain platform receives all the transaction data. As a result, any business may readily request access and query to all transaction records, which enhances the trust among all the parties. In the meanwhile, if any fraud or error occurs, all the information may be traced, allowing us to determine who should be held accountable.
+
+
 
 
 Education
