@@ -22,12 +22,38 @@ We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system an
 
 **Project Description:** In this project, we establish the supply chain finance approach in two key terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
 
-**$(1)$ Chattel mortgage financing:** In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the $3^{\textrm{rd}}$ party warehouse. The main steps of chattel mortgage financing are shown as follows,
+**(1) Chattel mortgage financing:** In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the $3^{\textrm{rd}}$ party warehouse. The main steps of chattel mortgage financing are shown as follows,
 
 
 <div align=center><img src=" /images/08.png " width="80%"></div>
 
 <center>Figure 2:  Chattel Mortgage Financing Model</center>
+
+$①$ The stockyard makes finance applications to our China Association of Small and Medium Enterprises (i.e., CASME) Platform for matching appropriate financial institutions.
+
+$②$ CASME Platform helps to match financial institutions that are willing to finance and introduce the main financing process to the partner agency of related institutions.
+
+$③$ Financial institutions indirectly entrust credit authorities or directly make credit checking for the stockyard to figure out whether it fulfills the minimum credit standards of lending.
+
+$④$ Financial institutions cooperate with 3rd party warehouse which supervises the mortgage of the stockyard until the financial contract ends.
+
+$⑤$ After cooperation, the stockyard is asked to provide the mortgage with the same value as lending capital to pledge in the warehouse until repayment.
+
+$⑥$ Financial institutions and stockyards reach an agreement and issue the contract through our CASME Platform.
+
+$⑦$ To attract more financial institutions to join our platform, we purchase bad loan risk insurance for each financial institution engaged. Once a bad loan emerges, the insurance company will make compensation for the financial institution.
+
+$⑧$ Financial institutions grant credit and provide capital to the stockyard.
+
+$⑨$ The stockyard purchases necessary production material (i.e., forage) with lending capital.
+
+$⑩$ According to the financial contract, the stockyard should make repayments before the given date.
+
+$⑪$ If the stockyard repays on time, the frozen mortgage will be released. Otherwise, all the mortgages may be liquidated by the financial institution.
+
+$⑫$ The financial institution ends the contract with the 3rd party warehouse.
+
+$⑬$ The financial institution ends the contract with the stockyard through CASME Platform.
 
 
 
