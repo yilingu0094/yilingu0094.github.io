@@ -16,7 +16,9 @@ redirect_from:
 
 <center>Figure 1: Financial difficulties of many startup poultry companies in Yinan</center>
 
-The primary cause of this funding shortage is the low credit of these startup poultry companies. Given the inadequacy of assessable assets and financing amount of these companies, financial institutions are less motivated to offer these businesses supply chain finance services because of a disproportion on their input and output efforts. Additionally, there are still many systemic problems and structural issues in the current guarantee systems, which are vulnerable in risk resistent when the bad loans of some start-ups emerge. 
+The primary cause of this funding shortage is the <span style="color:DarkGoldenRod">low credit</span> of these startup poultry companies. Given the inadequacy of assessable assets and financing amount of these companies, financial institutions are less motivated to offer these businesses supply chain finance services because of a disproportion on their input and output efforts. Additionally, there are still many systemic problems and structural issues in the current guarantee systems, which are vulnerable in risk resistence when the bad loans of some start-ups emerge. 
+
+We, the Shenzhen Finance Institute (SFI) system analysis group, are fortunate to have been given the opportunity by the China Association of Small and Medium Enterprises (CASME) to provide the supply chain financial service of a startup company called <span style="color:DarkGoldenRod">Yinan Yunqin Technology Company</span> to resolve their financial issues and construct a risk management information system for both Yunan and financial institutions to prevent the aforementioned credit risk.
 
 
 
