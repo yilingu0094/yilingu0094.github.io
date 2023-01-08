@@ -108,7 +108,7 @@ $\color{DarkGoldenRod}{(3)}$ <span style="color:DarkGoldenRod">Intelligent inter
 
 Through our modification on the current credit investigation system, the credit risk of the Lending Club has been greatly decreased. Similiar supply chain financing strategies that I described in the previous <a href="https://yilingu0094.github.io/industry_project/#1-supply-chain-finance-project-for-yinan-yunqin-technology-company">Supply Chain Finance Project for Yinan Yunqin Technology Company</a> can be used to address the mortgage risk and account risk, as illustrated in Figure 4.
 
-<div align=center><img src=" /images/16.png " width="75%"></div>
+<div align=center><img src=" /images/16.png " width="60%"></div>
 
 <center>Figure 4: Supply Chain Finance Approach for the Lending Club</center>
 
