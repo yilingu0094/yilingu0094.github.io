@@ -68,7 +68,7 @@ After integrating <span style="color:DarkGoldenRod">blockchain</span> with the e
 I apologize for not disclosing all the details and information, particularly the information system part of this project, due to the CASME contract's privacy requirements. If you are interested in this project, please also feel free to see here for an introductory system design \[[slides](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EXX_oopHaCJDrp6iEMiSJBgB8VOeFW2xbkjnV8jOEOY9wg?e=yB1Wx6)\] and a brief summary \[[report](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EcORTn_AjSBNuTcpBxBrFqEBlyimUsWoDwf7wV8RrZ_gyA?e=I54w7E)\] of our work.
 
 
-## 2. P2P Financial Risk Management Project of Lending Club
+## 2. AI-driven P2P Financial Risk Management Project of Lending Club
 
 **Background:** Peer-to-peer lending (P2P) business, is a practice of lending money to individuals or businesses through online services that match lenders with borrowers. P2P lending company earns a profit from providing the match-making platform and setting interests.
 
@@ -82,15 +82,21 @@ To address their issues with risk management, the Lending Club consulted the col
 
 **Project Description:** In this project, the main challenges and flaws shown by the aforementioned fraud incidents for the Lending Club lie in 3 aspects: <span style="color:DarkGoldenRod">credit risk</span>, <span style="color:DarkGoldenRod">mortgage risk</span>, and <span style="color:DarkGoldenRod">account risk</span>.
 
-<div align=center><img src=" /images/14.png " width="45%"></div>
-
-<center>Figure 2: Current Financing Model of Lending Club</center>
-
 $\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Credit Risk:</span> Even though Lending Club has developed a number of algorithms for calculating credit based on experience and machine learning, the majority of them are <span style="color:DarkGoldenRod">offline</span> methods calculating massive data in a slow and ineffective way. Furthermore, despite the employment of these techniques, there is still a serious mismatch phenomena, in which many people and businesses with <span style="color:DarkGoldenRod">legitimate needs</span> for financing are unable to do so because of <span style="color:DarkGoldenRod">"poor credit"</span>, while others with problematic debts are still be granted with credit. 
 
 Additionally, the <span style="color:DarkGoldenRod">interest rates</span> that are set and offered to borrowers are always based on <span style="color:DarkGoldenRod">experience</span>, which shows a tendency to be <span style="color:DarkGoldenRod">overestimated</span>. Due to the high interest rates, more current borrowers are defaulting on loans and fewer potential borrowers are attracted to take out loans on P2P platforms.
 
-$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Mortgage Risk:</span> The mortgage risk is always encountered by Lending Club when making deals with supply chain related businesses or projects. As Figure 2 shows, the collateral given by crowdlending business borrowers 
+<div align=center><img src=" /images/14.png " width="45%"></div>
 
-There are 3 main types of risks existed in mortgage: 1. The variation of mortgages’ value. 2. The storage of mortgages (or it will deteriorate. 3. The sale of mortgage might be a handicap.
+<center>Figure 2: Current Financing Model of Lending Club</center>
+
+$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Mortgage Risk:</span> The mortgage risk is always encountered by Lending Club when making deals with supply chain related businesses or projects. As shown in Figure 2, the collaterals provided by crowdlending company borrowers may be subject to the risk of frequent variations in mortgage values, which might have an impact on the liquidation of the mortgage. Furthermore, inadequate inventory management would greatly increase the risk of mortgage deterioration, particularly for supply chains related to food and fruit.
+
+
+
+
+
+
+
+
 
