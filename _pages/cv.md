@@ -68,3 +68,12 @@ After integrating <span style="color:DarkGoldenRod">blockchain</span> with the e
 I apologize for not disclosing all the details and information, particularly the information system part of this project, due to the CASME contract's privacy requirements. If you are interested in this project, please also feel free to see here for an introductory system design \[[slides](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EXX_oopHaCJDrp6iEMiSJBgB8VOeFW2xbkjnV8jOEOY9wg?e=yB1Wx6)\] and a brief summary \[[report](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EcORTn_AjSBNuTcpBxBrFqEBlyimUsWoDwf7wV8RrZ_gyA?e=I54w7E)\] of our work.
 
 
+## 2. P2P Financial Risk Management Project of Lending Club
+
+**Background:** Peer-to-peer lending (P2P), is a practice of lending money to individuals or businesses through online services that match lenders with borrowers. P2P lending company earns a profit from providing the match-making platform and setting interests.
+
+<div align=center><img src=" /images/13.png " width="50%"></div>
+
+<center>Figure 1:  Business Model of P2P Lending Platform</center>
+
+However, the P2P business has encountered a significant number of defaulting cases between 2014 and 2019, which always causes serious financial catastrophes. The primary causes are the miscalculation of credits and the immaturity of the credit inquiry system. Even the world largest P2P company, the Lending Club, was not immune from this crisis. Lending Club provided us with information showing that, by the end of June 2018, there had been over 8500 cases of lending fraud reported. The related loss was over 800 million dollars, and the cases' victims totaled over 2 million. 
