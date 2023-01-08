@@ -80,10 +80,11 @@ However, the P2P business has encountered a significant number of defaulting cas
 
 To address their issues with risk management, the Lending Club consulted the collaborative team from the [Data Science and Information Technology Research Center](https://www.tbsi.edu.cn/english/4993/list.htm) of [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/english/main.htm) and the Big Data Center of [Ascending Powers Company](https://www.power2tech.com), a data mining company dominated by the alumni of [Tsinghua University](https://www.tsinghua.edu.cn/en/). As the deep learning intern in the Big Data Research & Development Team of Ascending Powers, I'm fortunate to engage in this project and responsible for designing AI-driven financing and risk management approaches.
 
-**Project Description:** In this project, the main challenges and flaws shown by the aforementioned fraud incidents for the Lending Club lie in 3 aspects: credit risk, mortgage risk, and account risk.
+**Project Description:** In this project, the main challenges and flaws shown by the aforementioned fraud incidents for the Lending Club lie in 3 aspects: <span style="color:DarkGoldenRod">credit risk</span>, <span style="color:DarkGoldenRod">mortgage risk</span>, and <span style="color:DarkGoldenRod">account risk</span>.
 
-<div align=center><img src=" /images/14.png " width="80%"></div>
+<div align=center><img src=" /images/14.png " width="60%"></div>
 
 <center>Figure 2: Current Financing Model of Lending Club</center>
+
 
 
