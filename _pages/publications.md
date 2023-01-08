@@ -244,7 +244,7 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 <br/>
 
 
-# Selected Coursework Paper
+# Selected Paper
 ------
 **A. Manufacturing and Operation Research**
 
