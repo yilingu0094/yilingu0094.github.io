@@ -86,6 +86,11 @@ To address their issues with risk management, the Lending Club consulted the col
 
 <center>Figure 2: Current Financing Model of Lending Club</center>
 
-$\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Credit Risk:</span> Even though Lending Club has developed a number of ways for calculating credit based on experience and machine learning, the majority of them are <span style="color:DarkGoldenRod">offline</span> methods calculating massive amounts of data in a slow and ineffective way. Furthermore, despite the employment of these techniques, there is still a serious mismatch phenomena, in which many people and businesses with <span style="color:DarkGoldenRod">legitimate needs</span> for financing are unable to do so due to <span style="color:DarkGoldenRod">poor credit</span>, while others with problematic debts are still given credit. 
+$\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Credit Risk:</span> Even though Lending Club has developed a number of algorithms for calculating credit based on experience and machine learning, the majority of them are <span style="color:DarkGoldenRod">offline</span> methods calculating massive data in a slow and ineffective way. Furthermore, despite the employment of these techniques, there is still a serious mismatch phenomena, in which many people and businesses with <span style="color:DarkGoldenRod">legitimate needs</span> for financing are unable to do so because of <span style="color:DarkGoldenRod">"poor credit"</span>, while others with problematic debts are still be granted with credit. 
 
 Additionally, the <span style="color:DarkGoldenRod">interest rates</span> that are set and offered to borrowers are always based on <span style="color:DarkGoldenRod">experience</span>, which shows a tendency to be <span style="color:DarkGoldenRod">overestimated</span>. Due to the high interest rates, more current borrowers are defaulting on loans and fewer potential borrowers are attracted to take out loans on P2P platforms.
+
+$\color{DarkGoldenRod}{(2)}$ <span style="color:DarkGoldenRod">Mortgage Risk:</span> The mortgage risk is always encountered by Lending Club when making deals with supply chain related businesses or projects. As Figure 2 shows, the collateral given by crowdlending business borrowers 
+
+There are 3 main types of risks existed in mortgage: 1. The variation of mortgages’ value. 2. The storage of mortgages (or it will deteriorate. 3. The sale of mortgage might be a handicap.
+
