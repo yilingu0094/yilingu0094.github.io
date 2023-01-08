@@ -20,7 +20,7 @@ The primary cause of this funding shortage is the <span style="color:DarkGoldenR
 
 We, the [Shenzhen Finance Institute (SFI)](https://sfi.cuhk.edu.cn/en) system analysis group, are fortunate to have been given the opportunity by the [China Association of Small and Medium Enterprises (CASME)](http://www.ca-sme.org/) to provide the supply chain financial service for a startup company called <span style="color:DarkGoldenRod">Yinan Yunqin Technology Company</span> to resolve their financial issues and construct a <span style="color:DarkGoldenRod">risk management information system</span> for both Yunan and financial institutions to prevent the aforementioned credit risk.
 
-**Project Description:** In this project, we establish the supply chain finance approach in two key terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
+**Project Description:** In this project, we establish the supply chain finance approach in two primary terms: <span style="color:DarkGoldenRod">chattel mortgage financing</span> and <span style="color:DarkGoldenRod">accounts receivable financing</span>, which make it easier for Yinan Yunqin Technology company to finance and reduce the potential risk of financial institutions at the same time.
 
 $\color{DarkGoldenRod}{(1)}$ <span style="color:DarkGoldenRod">Chattel Mortgage Financing:</span> In the chattel mortgage financing service, when the Yunqin stockyard have a financial need, the financial institution can set the frozen stocks of the stockyard as mortgage in the third-party warehouse. The main steps of chattel mortgage financing are shown as follows,
 
@@ -65,6 +65,6 @@ After integrating <span style="color:DarkGoldenRod">blockchain</span> with the e
 
 3. This project has been scored as <span style="color:DarkGoldenRod">5.00/5.00</span> by the advisor Mr. Shen Zhenyuan from CASME.
 
-I apologize for not disclosing all the details and information, particularly the information system part of this project, due to the contract's privacy requirements. If you are interested in this project, please also feel free to see here for an introductory slides and a brief summary report of our work.
+I apologize for not disclosing all the details and information, particularly the information system part of this project, due to the CASME contract's privacy requirements. If you are interested in this project, please also feel free to see here for an introductory slides and a brief summary report of our work.
 
 
