@@ -82,7 +82,7 @@ To address their issues with risk management, the Lending Club consulted the col
 
 **Project Description:** In this project, the main challenges and flaws shown by the aforementioned fraud incidents for the Lending Club lie in 3 aspects: <span style="color:DarkGoldenRod">credit risk</span>, <span style="color:DarkGoldenRod">mortgage risk</span>, and <span style="color:DarkGoldenRod">account risk</span>.
 
-<div align=center><img src=" /images/14.png " width="40%"></div>
+<div align=center><img src=" /images/14.png " width="45%"></div>
 
 <center>Figure 2: Current Financing Model of Lending Club</center>
 
