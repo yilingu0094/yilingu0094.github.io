@@ -72,7 +72,7 @@ I apologize for not disclosing all the details and information, particularly the
 
 **Background:** Peer-to-peer lending (P2P) business, is a practice of lending money to individuals or businesses through online services that match lenders with borrowers. P2P lending company earns a profit from providing the match-making platform and setting interests.
 
-<div align=center><img src=" /images/13.png " width="75%"></div>
+<div align=center><img src=" /images/13.png " width="80%"></div>
 
 <center>Figure 1:  Business Model of P2P Lending Platform</center>
 
