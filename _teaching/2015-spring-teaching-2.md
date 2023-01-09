@@ -14,14 +14,17 @@ The [Global Management Challenge (GMC)](https://globalmanagementchallenge.pt/wor
 
 + As the workshop instructor, I held the workshop for 2 years (once a week), and successfully educated and trained over 600 students. Among all the students, one group of students won the world champion title, 12 groups participated the national final and won the first prize, and 46 groups won the second prize.  
 
+**Schedule & Content:**
 
++ The schedule is subject to change according to the teaching progress.
 
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
