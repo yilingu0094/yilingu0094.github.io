@@ -16,7 +16,7 @@ The [Global Management Challenge (GMC)](https://globalmanagementchallenge.pt/wor
 
 **Schedule & Content:**
 
-+ The schedule is subject to change according to the teaching progress.
++ *The schedule is subject to change according to the teaching progress.*
 
 | Time | Topic | Studying Materials |
 |:-:|:-:|:-:|
