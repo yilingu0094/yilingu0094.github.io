@@ -18,13 +18,13 @@ The [Global Management Challenge (GMC)](https://globalmanagementchallenge.pt/wor
 
 + The schedule is subject to change according to the teaching progress.
 
-|   |   |   |
+| Time | Topic | Studying Materials |
 |:-:|:-:|:-:|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Week 1  | Introduction of Global Management Challenge (GMC)  |\[[slides](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%201)\], \[[history](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%201)\]   |
+| Week 2  | Theory of Operations Management & Data-driven decision Making  |\[[slides](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%202)\], \[[decision factors I](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%202)\]   |
+| Week 3  | Insights of Decision Making Factors  |\[[slides](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%203)\], \[[decision factors II](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%203)\] |
+| Week 4,5,6  | Decision Model Building  | \[[my GMC decision model](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%204%2C%205%2C%206)\]  |
+| Week 7,8  | Application of Data Mining in GMC  | \[[slides](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%207%2C%208)\], \[[my GMC data analysis model](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%207%2C%208)\]  |
+| Week 9,10  | Introduction of Neural Network and Application in GMC  | \[[slides](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%209%2C%2010)\], \[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%209%2C%2010)\]  |
+| Week 11,12  | Application of RNN, LSTM in GMC  |  \[[slides](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%2011%2C%2012)\], \[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/GMC%20Training/Week%2011%2C%2012)\]  |
 
