@@ -47,3 +47,11 @@ The [Global Management Challenge (GMC)](https://globalmanagementchallenge.pt/wor
 
 
 (2) Award photos:
+
+<div align=center>
+<img src=" /images/24.jpg " width="50%"><img src=" /images/25.jpg " width="50%">
+</div>
+<div align=center>
+<img src=" /images/26.jpg " width="50%"><img src=" /images/27.jpg " width="50%">
+</div>
+
