@@ -54,7 +54,7 @@ Photos:
 <img src=" /images/35.jpg " width="50%"><img src=" /images/36.jpg " width="50%">
 </div>
 
-Currently, I'm also one of the member of CUHK-SZ tennis team, and responsible for teaching some tennis learners.
+Currently, I'm also the member of CUHK-SZ tennis team, and responsible for teaching some tennis learners.
 
 Photos:
 
