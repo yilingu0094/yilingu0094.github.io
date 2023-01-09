@@ -10,5 +10,8 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+  - title: "Terms and Privacy Policy"
+    url: /terms/   
         
