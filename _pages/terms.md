@@ -1,39 +1,68 @@
 ---
-permalink: /miscellaneous/
+layout: archive
 title: "Miscellaneous"
-modified: 2016-06-06
+permalink: /miscellaneous/
+author_profile: true
 ---
+In my free time, I enjoy playing tennis. After winning a few titles\[[Certificate](https://yilingu0094.github.io/files/National second-class tennis athlete certificate.pdf)\] in Junior Tennis Opens, I have been awarded as the national second-class tennis athlete \[[Certificate](https://yilingu0094.github.io/files/Tennis Certificates.pdf)\].
 
-{% include base_path %}
-{% include toc %}
++ 2015 Jiangxi Junior Tennis Open
 
-## Privacy Policy
+  - Date: 08/01/2012
+  - Location: Nanchang, Jiangxi, China
+  - Event: Third Place
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
++ 2014 Jiangxi Junior Tennis Open
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+  - Date: 08/14/2012
+  - Location: Jiujiang, Jiangxi, China
+  - Event: Third Place
 
-### Log Files
++ 2013 Jiangxi Junior Tennis Open
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+  - Date: 08/14/2012
+  - Location: Jiujiang, Jiangxi, China
+  - Event: Third Place
+  
++ 2012 Jiangxi Junior Tennis Open
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+  - Date: 08/20/2012
+  - Location: Ganzhou, Jiangxi, China
+  - Event: First Runner-up  
 
-All of this information is not linked to anything that is personally identifiable.
++ 2011 Jiangxi Junior Tennis Open
 
-### Cookies and Web Beacons
+  - Date: 07/30/2011
+  - Location: Nanchang, Jiangxi, China
+  - Event: First Runner-up
+  
+Photos:
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+<div align=center>
+<img src=" /images/29.jpg " width="50%"><img src=" /images/30.jpg " width="50%">
+</div>
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+<div align=center>
+<img src=" /images/31.jpg " width="50%"><img src=" /images/32.jpg " width="50%">
+</div>
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+<div align=center>
+<img src=" /images/33.jpg " width="50%"><img src=" /images/34.jpg " width="50%">
+</div>
 
-#### Google Analytics
+<div align=center>
+<img src=" /images/35.jpg " width="50%"><img src=" /images/36.jpg " width="50%">
+</div>
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+Currently, I'm also one of the member of CUHK-SZ tennis team, and responsible for teaching some tennis learners.
+
+Photos:
+
+<div align=center>
+<img src=" /images/37.jpg " width="50%"><img src=" /images/38.jpg " width="50%">
+</div>
+
+<div align=center>
+<img src=" /images/39.jpg " width="50%"><img src=" /images/40.jpg " width="50%">
+</div>
+
