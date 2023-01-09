@@ -8,19 +8,19 @@ In my free time, I enjoy running and playing tennis. After winning a few titles\
 
 + 2015 Jiangxi Junior Tennis Open
 
-  - Date: 08/01/2012
+  - Date: 08/01/2015
   - Location: Nanchang, Jiangxi, China
   - Event: Third Place
 
 + 2014 Jiangxi Junior Tennis Open
 
-  - Date: 08/14/2012
-  - Location: Jiujiang, Jiangxi, China
+  - Date: 08/14/2014
+  - Location: Nanchang, Jiangxi, China
   - Event: Third Place
 
 + 2013 Jiangxi Junior Tennis Open
 
-  - Date: 08/14/2012
+  - Date: 08/14/2013
   - Location: Jiujiang, Jiangxi, China
   - Event: Third Place
   
