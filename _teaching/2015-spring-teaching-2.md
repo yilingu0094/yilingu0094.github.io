@@ -12,7 +12,7 @@ The [Global Management Challenge (GMC)](https://globalmanagementchallenge.pt/wor
 
 + In this workshop, I mainly taught the basic rules and insights of this competition, concepts and theory of operation management, strategic data-driven decision making, decision model building, the application of basic machine learning tools on data mining, etc.
 
-+ As the workshop instructor, I held the workshop for <span style="color:DarkGoldenRod">2</span> years (once a week), and successfully educated and trained over <span style="color:DarkGoldenRod">600</span> students. Among all the students, one group of students won the <span style="color:DarkGoldenRod">world champion</span> title, <span style="color:DarkGoldenRod">12</span> groups participated the national final and won the first prize, and <span style="color:DarkGoldenRod">46</span> groups won the second prize.  
++ As the workshop instructor, I held the workshop for <span style="color:DarkGoldenRod">2</span> years (once a week), and successfully educated and trained over <span style="color:DarkGoldenRod">600</span> students. Among all the students, one group of students won the <span style="color:DarkGoldenRod">world champion</span> title, <span style="color:DarkGoldenRod">12</span> groups participated the <span style="color:DarkGoldenRod">national final</span> and won the first prize, and <span style="color:DarkGoldenRod">46</span> groups won the second prize.  
 
 **Schedule & Content:**
 
