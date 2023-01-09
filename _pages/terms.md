@@ -4,7 +4,7 @@ title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
 ---
-In my free time, I enjoy running and playing tennis. After winning a few titles\[[Certificate](https://yilingu0094.github.io/files/National second-class tennis athlete certificate.pdf)\] in the Junior Tennis Opens, I have been awarded as the national second-class tennis athlete \[[Certificate](https://yilingu0094.github.io/files/Tennis Certificates.pdf)\].
+In my free time, I enjoy running and playing tennis. After winning a few titles \[[Certificate](https://yilingu0094.github.io/files/National second-class tennis athlete certificate.pdf)\] in the Junior Tennis Opens, I have been awarded as the national second-class tennis athlete \[[Certificate](https://yilingu0094.github.io/files/Tennis Certificates.pdf)\].
 
 + 2015 Jiangxi Junior Tennis Open
 
