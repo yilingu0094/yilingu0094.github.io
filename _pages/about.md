@@ -13,7 +13,7 @@ In recent years, I've been studying the application of machine learning and opti
 
 I'm expected to obtain my master degree (with distinction) in Information management and Business Analytics from [CUHK Business School](https://www.bschool.cuhk.edu.hk/cuhk-business-school/cuhk-shenzhen/) in July 2023, fortunately supervised by [Prof. J. Leon Zhao](https://myweb.cuhk.edu.cn/leonzhao). Prior to that, I received my BSc in Business Analytics with First Class Honors at the [Business School](https://www.must.edu.mo/en/msb) of [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en).
 
-Here is my personal CV: \[[Curriculum Vitae](https://yilingu0094.github.io/files/CV_Yilin Gu.pdf)\].
+Here is my personal CV: \[[Curriculum Vitae](https://yilingu0094.github.io/files/CV_Yilin Gu.pdf)\] and part of my academic awards: \[[Certificate](https://yilingu0094.github.io/files/Awards and Certificates_Yilin Gu.pdf)\].
 
 You are always welcome to send me an email and schedule a conversation at any time. If you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory, please feel free to talk with me :)
 
