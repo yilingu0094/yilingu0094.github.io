@@ -124,6 +124,9 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 + **Yilin Gu**, Junwen Qiu (2023). Normal Map-Based Proximal Extragradient Methods for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 + Junwen Qiu, **Yilin Gu**, Andre Milzarek (2023). A Revised Foward-Backward-Foward Method for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 
+**Introduction Slides:** \[[slides](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EdFBtToYy8hItzTKzOpTE24BEVEKMSdeMbwZ-lIZ6Fqxnw?e=e1q0ZB)\].
+
+
 
 ## 2. Adaptive Multiple Vector Quantization Classification (Master Thesis)
 
