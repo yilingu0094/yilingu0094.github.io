@@ -239,7 +239,7 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 **AMVQ codes:** \[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/AMVQ_codes)\].
 <br/>
-**AMVQ Abstract:** \[[proposal](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EddYLkOboF5EjN_vdtxS6HABxHQDBLk0-HW6KE8qRuZiUw?e=RJ8Ceb)\].
+**AMVQ Abstract:** \[[abstract](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EddYLkOboF5EjN_vdtxS6HABxHQDBLk0-HW6KE8qRuZiUw?e=RJ8Ceb)\].
 <br/>
 **AMVQ drafts:** \[[proximity operator](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EQUwcyPf_WtMqhpzbgOSwZIBQi5ZZSU_TL8oxL3fukHISg?e=tGB8qR)\].
 
