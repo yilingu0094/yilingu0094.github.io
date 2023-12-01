@@ -247,24 +247,3 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 <br/>
 <br/>
 <br/>
-
-
-# Selected Paper
-------
-**A. Manufacturing and Operation Research**
-
-+ **Yilin Gu** (2021). "Game Theory on Tesla: The Automobile Industry Analysis on Strategic Cooperation among Competitors" (*IBA-6103: Economic Analytics* coursework paper). Available from CUHK-Shenzhen database.\[[pdf](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EdPn-AxlvJdCmQboo2ivz24BprzcriEE7ncQPr1rcla9_w?e=4Lf8ka)\].
-
-**B. Optimization Theory**
-
-+ **Yilin Gu**, Xin Jin (2021). “Convex Is All You Need In Clustering” (*MDS-6106: Optimization* coursework paper). Available from CUHK-Shenzhen database.\[[pdf](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EU_krQR07ZFCsfVmRxDp9TgBTmIFEyXDf6_IspMQp2wpbw?e=bPHTs3)\].
-
-**C. Machine Learning Theory**
-
-+ **Yilin Gu** (2021). *Prediction of House Rental Intention Based on Boosting Algorithm* (Bachelor dissertation). Available from Macau University of Science and Technology database.\[[pdf](https://yilingu0094.github.io/files/Prediction of House Rental Intention Based on Boosting Algorithm.pdf)\]\[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/bachelor_thesis_codes)\].
-
-  - Award A level for Graduation Project and the best undergraduate dissertation paper of Macau University of Science and Technology Business School in 2021.
-
-
-+ **Yilin Gu** (2019). “Performance comparison of three SVM packages based on R” (*BBAE-16606: Big Data* coursework paper). Available from Macau University of Science and Technology database.\[[pdf](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EXdTOgQ1TuhGskmijXUBC3gBQi2da9_sBntWcVfueajjCA?e=zgeM4S)\]
-
