@@ -126,7 +126,7 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 The following presentation slides introduce the main ideas and some technical details of this paper.
 
-**Normal Map Slides:** \[[slides](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EdFBtToYy8hItzTKzOpTE24BEVEKMSdeMbwZ-lIZ6Fqxnw?e=e1q0ZB)\].
+**Normal Map Slides:** \[[slides](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EW5xgYlvadxBj_q4g70WlGwBZbu70svnXn93PAZeqjnoBQ?e=6yMHVq)\].
 
 
 
