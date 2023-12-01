@@ -119,7 +119,7 @@ where the natural residual $F_{nat}^{\lambda}(x)\leq \epsilon$ can be ensured un
 
 3. The rate $O(1/\sqrt{k})$ matches that of OGDA in <span style="color:DarkGoldenRod">strongly convex</span> setting. Additionally, the rate $O(1/\sqrt{k})$ is <span style="color:DarkGoldenRod">tight</span>.
 
-**Current Progress:** The paper is quite long and technical, so we still need time to check some technical details including proofs and conduct more experimemts. Articles are expected to submit to some top journals or conferences in 2023 Fall.
+**Current Progress:** The paper is quite long and technical, so we still need time to check some technical details including proofs and conduct more experimemts. Articles are expected to submit to some top journals or conferences in 2024 Spring.
 
 + **Yilin Gu**, Junwen Qiu (2023). Normal Map-Based Proximal Extragradient Methods for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
 + Junwen Qiu, **Yilin Gu**, Andre Milzarek (2023). Convergence of A Revised Foward-Backward-Foward Method for Nonsmooth Nonconvex-Nonconcave Minmax Problem.
@@ -235,7 +235,7 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 4. Achieves the <span style="color:DarkGoldenRod">optimal $O(1/k^2)$</span> convergence rate and the <span style="color:DarkGoldenRod">least $O(1/\sqrt{\epsilon})$</span> iteration complexity in identifying prototypes.
 
-**Current Progress:** The master thesis is almost finished and expected to submit (after necessary revisions) to NeurIPS 2023 in May. Here are the Matlab codes, proposal and some drafts of this paper.
+**Current Progress:** The master thesis is almost finished and expected to submit (after necessary revisions) to NeurIPS 2024 in May. Here are the Matlab codes, proposal and some drafts of this paper.
 
 **AMVQ codes:** \[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/AMVQ_codes)\].
 <br/>
