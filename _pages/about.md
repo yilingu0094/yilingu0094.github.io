@@ -31,14 +31,15 @@ Professional Experience
 
 Education
 ======
++ **PhD.** System Engineering and Engineering Management (Operations Research track), The Chinese University of Hong Kong, from 2024
 + **M.Sc.** Information Management and Business Analytics (Information Management track), The Chinese University of Hong Kong, Shenzhen, 2021 - 2023
 + **B.Sc.** Business Analytics, Macau University of Science and Technology, 2017 - 2021
 
 Research Interests
 ======
-+ **Manufacturing and Operation Research**: Inventory management, Game theory, Outsourcing and procurement, Supply chain finance, Data-driven decision making, etc.
 + **Optimization Theory**: Nonsmooth nonconvex optimization, Stochastic Optimization, Nonconvex-nonconcave minmax optimization, Variational inequalities, etc.
 + **Machine Learning Theory**: Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Interpretability for machine learning, etc.
++ **Manufacturing and Operation Research**: Inventory management, Game theory, Outsourcing and procurement, Supply chain finance, Data-driven decision making, etc.
 
 
 Contact Information
