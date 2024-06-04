@@ -13,7 +13,7 @@ In recent years, I've been studying the application of machine learning and opti
 
 I have obtained my master degree (with distinction) in Information Management and Business Analytics from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en) in Nov. 2023, fortunately supervised by [Prof. Andre Milzarek](https://sds.cuhk.edu.cn/en/teacher/64). Prior to that, I received my BSc in Business Analytics with the First Class Honors at the [Business School](https://www.must.edu.mo/en/msb) of [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en) under the supervision of [Prof. Zhao Honghao](https://www.must.edu.mo/images/MSB/files/ZhaoHongHao_SC.pdf).
 
-Here is my personal CV: \[[Curriculum Vitae](https://yilingu0094.github.io/files/CV_Yilin Gu2.pdf)\] and part of my academic awards: \[[Certificate](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EdlJ0FbPdhxLm3cDzeERBVsByZgHSWGYQcTlQNPrI26srQ?e=QeDv0c)\].
+Here is my personal CV: \[[Curriculum Vitae](https://yilingu0094.github.io/files/CV_Yilin Gu_updated.pdf)\] and part of my academic awards: \[[Certificate](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EdlJ0FbPdhxLm3cDzeERBVsByZgHSWGYQcTlQNPrI26srQ?e=QeDv0c)\].
 
 You are always welcome to send me an email and schedule a conversation at any time. If you have any questions regarding my research or any fascinating subject related to operation research, optimization, or machine learning theory, please feel free to talk with me :)
 
@@ -21,9 +21,9 @@ You are always welcome to send me an email and schedule a conversation at any ti
 
 Professional Experience
 ======
-+ **Research Associate,** Shenzhen Research Institute of Big Data (SRIBD), Nov. 2021 - present
++ **Research Associate,** Shenzhen Research Institute of Big Data (SRIBD), June 2022 - Jan. 2023
 + **Visiting Student,** School of Data Science in CUHK-SZ, Nov. 2021 - present
-+ **System Engineer Intern,** Shenzhen Finance Institute (SFI), June 2021 - Sept. 2022
++ **System Engineer Intern,** Shenzhen Finance Institute (SFI), Jan. 2022 - June 2022
 + **Visiting Student,** Applied Mathematics Department in MUST, Sept. 2019 - June 2021
 + **Financial Analyst,** Guo Sheng Securities, June 2019 - Sept. 2019
 + **Deep Learning Intern,** Ascending Powers Co. Ltd., June 2018 - May 2019
