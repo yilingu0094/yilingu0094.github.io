@@ -36,7 +36,9 @@ In my free time, I enjoy running and playing tennis. After winning a few titles 
   - Location: Nanchang, Jiangxi, China
   - Event: First Runner-up
   
-Photos:
+  
+Currently, I'm also the member of CUHK-SZ tennis team, and responsible for teaching some tennis learners.
+
 
 <div align=center>
 <img src=" /images/29.jpg " width="50%"><img src=" /images/30.jpg " width="50%">
@@ -52,17 +54,5 @@ Photos:
 
 <div align=center>
 <img src=" /images/35.jpg " width="50%"><img src=" /images/36.jpg " width="50%">
-</div>
-
-Currently, I'm also the member of CUHK-SZ tennis team, and responsible for teaching some tennis learners.
-
-Photos:
-
-<div align=center>
-<img src=" /images/37.jpg " width="50%"><img src=" /images/38.jpg " width="50%">
-</div>
-
-<div align=center>
-<img src=" /images/39.jpg " width="50%"><img src=" /images/40.jpg " width="50%">
 </div>
 
