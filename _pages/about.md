@@ -21,9 +21,9 @@ You are always welcome to send me an email and schedule a conversation at any ti
 
 Professional Experience
 ======
-+ **Research Associate,** Shenzhen Research Institute of Big Data (SRIBD), June 2022 - Jan. 2023
-+ **Visiting Student,** School of Data Science in CUHK-SZ, Nov. 2021 - present
-+ **System Engineer Intern,** Shenzhen Finance Institute (SFI), Jan. 2022 - June 2022
++ **Research Associate,** Shenzhen Research Institute of Big Data, June 2022 - Jan. 2023
++ **System Engineer Intern,** Shenzhen Finance Institute, Jan. 2022 - June 2022
++ **Visiting Student,** School of Data Science in CUHK-SZ, Nov. 2021 - Nov. 2023
 + **Visiting Student,** Applied Mathematics Department in MUST, Sept. 2019 - June 2021
 + **Financial Analyst,** Guo Sheng Securities, June 2019 - Sept. 2019
 + **Deep Learning Intern,** Ascending Powers Co. Ltd., June 2018 - May 2019
