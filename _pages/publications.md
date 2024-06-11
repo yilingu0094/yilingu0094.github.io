@@ -240,15 +240,14 @@ from which we can classify the class of $x_{\textrm{new}}$ as that of $A^{k\star
 
 4. Achieves the <span style="color:DarkGoldenRod">optimal $O(1/k^2)$</span> convergence rate and the <span style="color:DarkGoldenRod">least $O(1/\sqrt{\epsilon})$</span> iteration complexity in identifying prototypes.
 
-**Current Progress:** The master thesis is almost finished and expected to submit (after necessary revisions) to NeurIPS 2024 in May. Here are the Matlab codes, proposal and some drafts of this paper.
+**Current Progress:** The master thesis is almost finished and expected to submit (after necessary revisions). Here are the Matlab codes, proposal and some drafts of this paper.
 
-**AMVQ codes:** \[[codes](https://github.com/yilingu0094/yilingu0094.github.io/tree/master/files/AMVQ_codes)\].
+**AMVQ codes:** \[[codes](https://github.com/yilingu0094/adaptive-multiple-vector-quantization)\].
 <br/>
 **AMVQ Abstract:** \[[abstract](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EddYLkOboF5EjN_vdtxS6HABxHQDBLk0-HW6KE8qRuZiUw?e=RJ8Ceb)\].
-<br/>
-**AMVQ drafts:** \[[proximity operator](https://cuhko365-my.sharepoint.com/:b:/g/personal/221025012_link_cuhk_edu_cn/EQUwcyPf_WtMqhpzbgOSwZIBQi5ZZSU_TL8oxL3fukHISg?e=tGB8qR)\].
 
-+ **Yilin Gu**, Andre Milzarek, Yichen Yu, Xin Jin, and Ruiyun Xu (2023). Stepwise Prototype Optimization: Adaptive Multiple Vector Quantization Classification.
+
++ **Yilin Gu**, Andre Milzarek, Yichen Yu, Xin Jin, and Ruiyun Xu (2024). Stepwise Prototype Optimization: Adaptive Multiple Vector Quantization Classification.
 <br/>
 <br/>
 <br/>
