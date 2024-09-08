@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! I am an incoming PhD student at the [System Engineering and Engineering Management (Operations Research track)](https://www.se.cuhk.edu.hk/research/operations-research/) program of [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), fortunately supervised by [Prof. Viet Anh Nguyen](https://www.vietanhnguyen.net/).
+Welcome to my homepage! I am a PhD student at the [System Engineering and Engineering Management (Operations Research track)](https://www.se.cuhk.edu.hk/research/operations-research/) program of [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), fortunately supervised by [Prof. Viet Anh Nguyen](https://www.vietanhnguyen.net/).
 
 In recent years, I've been studying the application of machine learning and optimization theory in production and operations management. My current works fall into three main directions. [My work at SFI](https://yilingu0094.github.io/industry_project/) uses blockchain and machine learning to build a specialized financing strategy in the poultry supply chain that helps numerous startup manufacturing enterprises overcome their financial challenges. Since many manufacturing objectives are defined in nonconvex-nonconcave minmax settings and the datasets provided are always of a large scale, solving [nonsmooth nonconvex-nonconcave minmax problem with stochastic algorithms](https://yilingu0094.github.io/research/) is another area I've been studying at SRIBD. Additionally, <a href="https://yilingu0094.github.io/research/#2-adaptive-multiple-vector-quantization-classification-master-thesis">my master thesis</a> aims to develop a novel prototype-based classification algorithm that better capture the non-convex and sparse pattern of classes with improved interpretation, convergence, and simplicity.
 
@@ -38,23 +38,22 @@ Education
 Research Interests
 ======
 + **Optimization Theory**: Nonsmooth nonconvex optimization, Stochastic Optimization, Nonconvex-nonconcave minmax optimization, Variational inequalities, etc.
-+ **Machine Learning Theory**: Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Interpretability for machine learning, etc.
-+ **Manufacturing and Operation Research**: Inventory management, Game theory, Outsourcing and procurement, Supply chain finance, Data-driven decision making, etc.
++ **Statistical Learning Theory**: Bayesian Method, Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Interpretability for machine learning, etc.
 
 
 Contact Information
 ------
 Address:
 <br/>
-School of Management and Economics
+Office 503, William M.W. Mong Engineering Building (ERB)
 <br/>
-The Chinese University of Hong Kong, Shenzhen
+The Chinese University of Hong Kong
 <br/>
-2001 Longxiang Boulevard, Longgang District, Shenzhen 440307, China
+Shatin, Hong Kong, China
 <br/>
 <br/>
 Tel: (86)18179227870
 <br/>
-Email: [yilingu@link.cuhk.edu.cn](mailto:yilingu@link.cuhk.edu.cn)
+Email: [ylgu@se.cuhk.edu.hk](mailto:ylgu@se.cuhk.edu.hk)
 
 
