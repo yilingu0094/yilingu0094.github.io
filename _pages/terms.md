@@ -37,7 +37,7 @@ In my free time, I enjoy running and playing tennis. After winning a few titles 
   - Event: First Runner-up
   
   
-Currently, I'm also the member of CUHK-SZ tennis team, and responsible for teaching some tennis learners.
+Previously, I was also the member of CUHK-SZ tennis team, and responsible for teaching some tennis learners.
 
 
 <div align=center>
