@@ -41,7 +41,7 @@ Research Interests
 + **Statistical Learning Theory**: Bayesian Method, Model-based data mining, Supervised representation learning, Adversarial learning, Numerical analysis, Interpretability for machine learning, etc.
 
 
-<!-- Contact Information
+Contact Information
 ------
 Address:
 <br/>
@@ -54,6 +54,6 @@ Shatin, Hong Kong, China
 <br/>
 Tel: (86)18179227870
 <br/>
-Email: [ylgu@se.cuhk.edu.hk](mailto:ylgu@se.cuhk.edu.hk) -->
+Email: [ylgu@se.cuhk.edu.hk](mailto:ylgu@se.cuhk.edu.hk)
 
 
